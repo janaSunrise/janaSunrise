@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋, I'm Warrior Defend A.K.A Sunrit Jana</h1>
+<h1 align="center">Namaste! 👋 I'm Sunrit Jana</h1>
 <h3 align="center">A Hardcore backend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
