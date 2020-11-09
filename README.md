@@ -3,34 +3,49 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
-### About Me
+### Let's know me Better!
 This is My Life, Can't Live without coding, and I hope this journey would be Great for me, Along with the Support of My Friends for My School Life, and Discord too! I am a Social Maniac, Mostly active on Discord, And Here's Some more Things About me!
 
-- I am a School Boy ☀️ With High Dreams to achieve Something!
+```python
+import socials
+import stuff
 
-- I love To ❤️ Code, and Play My Guitar
+class SunritJana:
+  def __init__(self) -> None:
+    self.name = "Sunrit Jana"
+    self.age = 14
+    self.tagline = "I am a School Boy ☀️ With High Dreams to achieve Something!"
 
-- I am mostly active 😁 On Discord!
+    self.loves_to = ["❤️", "Code", "Play guitar", "Play with maths", "🔭 Explore new things"]
+    self.likes_doing = ["😁", "Teaching", "Helping people", "Reviewing others' Code"]
+    self.has_to_juggle = ["🔮", "studies", "music", "coding", "school"]
+    self.loves_to_build = ["🛠️", stuff.Cool, stuff.Innovative]
+    
+    self.most_active_at = socials.Discord
 
-- I Love teaching, and Helping 😏 Others with Code
+    self.working_on = stuff.Code.DATA_SCIENCE
+    self.learning = ["Data Science", "Web Dev", "ML", "Automations", "NextJS"]
+    self.ask_me_about = ["Python", "C++", "Java", "Django"]
+    
+    self.github = "https://github.com/janaSunrise"
+    self.twitter = "https://twitter.com/janaSunrise"
+    self.email = "warriordefenderz@gmail.com"
+    
+    self.fun_fact = "I'm a minecraft addict, Who prefers tea over coffee!"
+  
+  def __repr__(self) -> None:
+    return '<Object SunritJana at 0x000001B2FCA77F70>'
+    
+  def __str__(self) -> None:
+    self.name
+    
+  def say_hello() -> None:
+    print("Hey there 🙋‍Nice to see you Here!")
+    
+sunrit = SunritJana()
 
-- I Have to Juggle 🔮 My Studies, Music, and Coding
-
-- I love Building 🛠️ Things that Are Cool, and Innovative
-
-- I love 🔭 Exploring New things!
-
-- 🔭 I’m currently working on **CS50**
-
-- 🌱 I’m currently learning **CS50, Python, and SQL**
-
-- 👨‍💻 All of my projects are available at [https://github.com/janaSunrise](https://github.com/janaSunrise)
-
-- 💬 Ask me about **Java, C++, Python, C**
-
-- 📫 How to reach me **warriordefenderz@gmail.com**
-
-- ⚡ Fun fact **I love the most to code, and play minecraft :P**
+sunrit.say_hello()
+```
 
 So, see you In my journey! Peace ✌️
 __Sunrit Jana__
