@@ -48,8 +48,8 @@ class SunritJana:
   def say_hello() -> None:
     print("Hey there 🙋‍!! Nice to see you Here!")
     
-sunrit = SunritJana()
 
+sunrit = SunritJana()
 sunrit.say_hello()
 ```
 
