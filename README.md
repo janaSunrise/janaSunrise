@@ -40,7 +40,7 @@ class SunritJana:
     self.name
     
   def say_hello() -> None:
-    print("Hey there 🙋‍Nice to see you Here!")
+    print("Hey there 🙋‍!! Nice to see you Here!")
     
 sunrit = SunritJana()
 
