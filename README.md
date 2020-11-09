@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
-### Let's know me Better!
+### 😁 Let's know me Better!
 This is My Life, Can't Live without coding, and I hope this journey would be Great for me, Along with the Support of My Friends for My School Life, and Discord too! I am a Social Maniac, Mostly active on Discord, And Here's Some more Things About me!
 
 ```python
@@ -57,7 +57,7 @@ So, see you In my journey! Peace ✌️
 __Sunrit Jana__
 
 
-### Tools I use to code with!
+### 🛠 Tools I use to code with!
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
@@ -75,7 +75,7 @@ __Sunrit Jana__
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
 
 
-### My Github Stats
+### 📊 My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasunrise" alt="janasunrise" />
 
