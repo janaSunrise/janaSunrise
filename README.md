@@ -76,8 +76,8 @@ __Sunrit Jana__
 
 
 ### My Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasunrise&theme=tokyonight" alt="janasunrise" />
-<img src="https://github-readme-stats.vercel.app/api?username=janasunrise&show_icons=true&theme=tokyonight" alt="janasunrise" />
+<img src="https://github-readme-stats.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasunrise" alt="janasunrise" />
 
 <p align="center">
 <a href="https://dev.to/janasunrise" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="janasunrise" height="30" width="30" /></a>
