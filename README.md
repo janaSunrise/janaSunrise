@@ -26,6 +26,12 @@ class SunritJana:
     self.working_on = stuff.Code.DATA_SCIENCE
     self.learning = ["Data Science", "Web Dev", "ML", "Automations", "NextJS"]
     self.ask_me_about = ["Python", "C++", "Java", "Django"]
+    self.tech_stack = {
+      "frontend": ["HTML", "CSS", "JS", "BOOTSTRAP"],
+      "backend": ["FLASK", "DJANGO", "SANIC", "TORNADO"],
+      "languages": ["C++", "JAVA", "Python", "SQL"],
+      "branches": ["ML", "Automation", "Web dev", "CLIs", "Softwares (GUI)"],
+    }
     
     self.github = "https://github.com/janaSunrise"
     self.twitter = "https://twitter.com/janaSunrise"
