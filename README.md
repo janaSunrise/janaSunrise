@@ -180,6 +180,15 @@ C                        1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+
+### 🗣 My activity:
+
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
+
+### 🚀 Hackernews Feed
+
+<!--FEED:{"rows": 5, "select": "hackernews show", shuffle: true, "title": true  }-->
+
 <p align="center">
 <a href="https://dev.to/janasunrise" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="janasunrise" height="30" width="30" /></a>
 <a href="https://twitter.com/janasunrise" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="janasunrise" height="30" width="30" /></a>
