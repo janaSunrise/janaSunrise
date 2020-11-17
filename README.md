@@ -212,7 +212,6 @@ C                        1 repo              █░░░░░░░░░░�
 <a href="https://dev.to/janasunrise" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="janasunrise" height="30" width="30" /></a>
 <a href="https://twitter.com/janasunrise" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="janasunrise" height="30" width="30" /></a>
 <a href="https://fb.com/sunrit.jana.334" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sunrit.jana.334" height="30" width="30" /></a>
-<a href="https://twitter.com/janasunrise" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="janasunrise" height="30" width="40" /></a>
 <a href="https://www.youtube.com/uc3s4lcsvasiit3usrsi7ucq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc3s4lcsvasiit3usrsi7ucq" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/warriordefenderz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="warriordefenderz" height="30" width="40" /></a>
 </p>
