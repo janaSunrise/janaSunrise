@@ -231,15 +231,18 @@ C                        1 repo              █░░░░░░░░░░�
 
 </details>
 
+<br />
+
+<div align="center">
+  
+  So, see you In my journey! Peace ✌️
+  __Sunrit Jana__
+  
+</div>
+
 [website]: https://sunritjana.now.sh
 [twitter]: https://twitter.com/janaSunrise
 [youtube]: https://youtube.com/UC3S4lcSvaSIiT3uSRSi7uCQ
 [instagram]: https://instagram.com/dare.me_bro
 [linkedin]: https://www.linkedin.com/in/sunrit-jana-785605197/
 
-<p align="center">
-  
-  So, see you In my journey! Peace ✌️
-  __Sunrit Jana__
-  
-</p>
