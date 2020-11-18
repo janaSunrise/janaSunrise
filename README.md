@@ -66,6 +66,20 @@ sunrit.say_hello()
 ### :zap: Some Good Stats
 
 <details>
+  <summary>🗣 Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
+
+<details>
+  <summary>📊 My Github Stats</summary>
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" />
+
+</details>
+
+<details>
   <summary> 🛠 Tools I use to code with! </summary>
 
 - UI / UX
@@ -215,20 +229,6 @@ C                        1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
   
-</details>
-  
-<details>
-  <summary>🗣 Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</details>
-
-<details>
-  <summary>📊 My Github Stats</summary>
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" />
-
 </details>
 
 <br />
