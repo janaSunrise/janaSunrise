@@ -53,9 +53,6 @@ sunrit = SunritJana()
 sunrit.say_hello()
 ```
 
-So, see you In my journey! Peace ✌️
-__Sunrit Jana__
-
 ### 🔗 Connect with me:
 
 [<img align="left" alt="Sunrit Jana" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -239,3 +236,10 @@ C                        1 repo              █░░░░░░░░░░�
 [youtube]: https://youtube.com/UC3S4lcSvaSIiT3uSRSi7uCQ
 [instagram]: https://instagram.com/dare.me_bro
 [linkedin]: https://www.linkedin.com/in/sunrit-jana-785605197/
+
+<p align="center">
+  
+  So, see you In my journey! Peace ✌️
+  __Sunrit Jana__
+  
+</p>
