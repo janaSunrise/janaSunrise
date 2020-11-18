@@ -56,7 +56,7 @@ sunrit.say_hello()
 So, see you In my journey! Peace ✌️
 __Sunrit Jana__
 
-### Connect with me:
+### 🔗 Connect with me:
 
 [<img align="left" alt="Sunrit Jana" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Sunrit Jana | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
