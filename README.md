@@ -56,6 +56,16 @@ sunrit.say_hello()
 So, see you In my journey! Peace ✌️
 __Sunrit Jana__
 
+### Connect with me:
+
+[<img align="left" alt="Sunrit Jana" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Sunrit Jana | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Sunrit Jana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sunrit Jana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sunrit Jana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.2%20million%20lines%20of%20code-blue)
 
@@ -219,10 +229,8 @@ C                        1 repo              █░░░░░░░░░░�
 
 </details>
 
-<p align="center">
-<a href="https://dev.to/janasunrise" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="janasunrise" height="30" width="30" /></a>
-<a href="https://twitter.com/janasunrise" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="janasunrise" height="30" width="30" /></a>
-<a href="https://fb.com/sunrit.jana.334" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sunrit.jana.334" height="30" width="30" /></a>
-<a href="https://www.youtube.com/uc3s4lcsvasiit3usrsi7ucq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc3s4lcsvasiit3usrsi7ucq" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/warriordefenderz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="warriordefenderz" height="30" width="40" /></a>
-</p>
+[website]: https://sunritjana.now.sh
+[twitter]: https://twitter.com/janaSunrise
+[youtube]: https://youtube.com/UC3S4lcSvaSIiT3uSRSi7uCQ
+[instagram]: https://instagram.com/dare.me_bro
+[linkedin]: https://www.linkedin.com/in/sunrit-jana-785605197/
