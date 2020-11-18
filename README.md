@@ -207,7 +207,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 ### 🗣 My activity:
 
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
+  <!--START_SECTION:activity-->
 
 <p align="center">
 <a href="https://dev.to/janasunrise" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="janasunrise" height="30" width="30" /></a>
