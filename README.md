@@ -77,7 +77,7 @@ sunrit.say_hello()
 <details>
   <summary>📊 My Github Stats</summary>
  
-  <img src="https://github-readme-stats.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" />
+  <img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" />
 
 </details>
 
