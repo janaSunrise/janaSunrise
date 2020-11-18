@@ -53,6 +53,10 @@ sunrit = SunritJana()
 sunrit.say_hello()
 ```
 
+### 🎧 Spotify Playing
+
+[<img src="https://spotify-activity.warriordefenderz.vercel.app/api/spotify-playing" alt="Sunrit Jana Spotify Playing" width="400" />](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aizc6x)
+
 ### 🔗 Connect with me:
 
 [<img align="left" alt="Sunrit Jana" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
