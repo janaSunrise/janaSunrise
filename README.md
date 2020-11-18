@@ -56,8 +56,9 @@ sunrit.say_hello()
 So, see you In my journey! Peace ✌️
 __Sunrit Jana__
 
+<details>
+  <summary> 🛠 Tools I use to code with! </summary>
 
-### 🛠 Tools I use to code with!
 - UI / UX
 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  
@@ -115,9 +116,7 @@ __Sunrit Jana__
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
 
-### 📊 My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasunrise" alt="janasunrise" />
+</details>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.2%20million%20lines%20of%20code-blue)
@@ -203,11 +202,20 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+  
+<details>
+  <summary>🗣 Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
 
+<details>
+  <summary>📊 My Github Stats</summary>
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" />
 
-### 🗣 My activity:
-
-  <!--START_SECTION:activity-->
+</details>
 
 <p align="center">
 <a href="https://dev.to/janasunrise" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="janasunrise" height="30" width="30" /></a>
