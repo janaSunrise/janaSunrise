@@ -73,8 +73,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#446](https://github.com/EddieJaoudeCommunity/support/issues/446) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🎉 Merged PR [#2](https://github.com/janaSunrise/project-quickstart/pull/2) in [janaSunrise/project-quickstart](https://github.com/janaSunrise/project-quickstart)
+1. 🗣 Commented on [#446](https://github.com/EddieJaoudeCommunity/support/issues/446) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. ❗️ Opened issue [#446](https://github.com/EddieJaoudeCommunity/support/issues/446) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
 </details>
 
