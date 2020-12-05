@@ -156,7 +156,7 @@ sunrit.say_hello()
 
 **🐱 My Github Data** 
 
-> 🏆 1,102 Contributions in the Year 2020
+> 🏆 1,104 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
