@@ -73,8 +73,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/janaSunrise/sklearn-datasets-implementation/issues/3) in [janaSunrise/sklearn-datasets-implementation](https://github.com/janaSunrise/sklearn-datasets-implementation)
-2. 🗣 Commented on [#446](https://github.com/EddieJaoudeCommunity/support/issues/446) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🎉 Merged PR [#1](https://github.com/janaSunrise/sklearn-datasets-implementation/pull/1) in [janaSunrise/sklearn-datasets-implementation](https://github.com/janaSunrise/sklearn-datasets-implementation)
+2. 🎉 Merged PR [#5](https://github.com/janaSunrise/sklearn-datasets-implementation/pull/5) in [janaSunrise/sklearn-datasets-implementation](https://github.com/janaSunrise/sklearn-datasets-implementation)
 <!--END_SECTION:activity-->
 </details>
 
