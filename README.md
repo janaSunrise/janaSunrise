@@ -80,8 +80,10 @@ sunrit.say_hello()
 
 <details>
   <summary>📊 My Github Stats</summary>
+  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janaSunrise&show_icons=true&locale=en" alt="janaSunrise" /></p>
  
-  <img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" />
+  <p><img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" /></p>
 
 </details>
 
