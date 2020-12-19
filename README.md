@@ -84,6 +84,9 @@ sunrit.say_hello()
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janaSunrise&show_icons=true&locale=en" alt="janaSunrise" /></p>
  
   <p><img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" /></p>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janasunrise&" alt="janaSunrise" /></p>
+  
 
 </details>
 
