@@ -87,6 +87,7 @@ sunrit.say_hello()
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janasunrise&" alt="janaSunrise" /></p>
   
+  <p align="left"> <a href="https://github.com/janaSunrise"><img src="https://github-profile-trophy.vercel.app/?username=janaSunrise" alt="janaSunrise" /></a> </p>
 
 </details>
 
