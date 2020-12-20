@@ -13,8 +13,9 @@ import stuff
 class SunritJana:
   def __init__(self) -> None:
     self.name = "Sunrit Jana"
-    self.age = 14
-    self.tagline = "I am a School Boy ☀️ With High Dreams to achieve Something!"
+    self.age = 15
+    self.birthday = "2006-10-27"
+    self.tagline = "I am a School Boy ☀️ With high dreams to achieve omething great!"
 
     self.loves_to = ["❤️", "Code", "Play guitar", "Play with maths", "🔭 Explore new things"]
     self.likes_doing = ["😁", "Teaching", "Helping people", "Reviewing others' Code"]
