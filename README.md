@@ -15,6 +15,7 @@ class SunritJana:
     self.name = "Sunrit Jana"
     self.age = 15
     self.birthday = "2006-10-27"
+
     self.tagline = "I am a School Boy ☀️ With high dreams to achieve omething great!"
 
     self.loves_to = ["❤️", "Code", "Play guitar", "Play with maths", "🔭 Explore new things"]
@@ -24,7 +25,7 @@ class SunritJana:
     
     self.most_active_at = socials.Discord
 
-    self.working_on = stuff.Code.DATA_SCIENCE
+    self.working_on = stuff.Code.MACHINE_LEARNING
     self.learning = ["Data Science", "Web Dev", "ML", "Automations", "NextJS"]
     self.ask_me_about = ["Python", "C++", "Java", "Django"]
     self.tech_stack = {
@@ -38,10 +39,10 @@ class SunritJana:
     self.twitter = "https://twitter.com/janaSunrise"
     self.email = "warriordefenderz@gmail.com"
     
-    self.fun_fact = "I'm a minecraft addict, Who prefers tea over coffee!"
+    self.fun_fact = "I'm a Anime addict, Who prefers tea over coffee!"
   
   def __repr__(self) -> None:
-    return '<Object SunritJana at 0x000001B2FCA77F70>'
+    return f'<Object SunritJana at 0x000001B2FCA77F70 working_on={self.working_on} active_at={self.most_active_at}>'
     
   def __str__(self) -> None:
     self.name
