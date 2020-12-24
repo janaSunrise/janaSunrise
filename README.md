@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
 ### 😁 Let's know me Better!
-This is My Life, Can't Live without coding, and I hope this journey would be Great for me, Along with the Support of My Friends for My School Life, and Discord too! I am a Social Maniac, Mostly active on Discord, And Here's Some more Things About me!
+This is My Life, Can't Live without coding, and I hope this journey would be Great for me, Along with the Support of My Friends for My School Life, I know someone without whom, this couldn't have been possible, I won't say his name right now, but yeah, It'll be added here soon and love being active on discord too! Also I am a Social Maniac, Mostly active on Discord, And Here's Some more Things About me!
 
 ```python
 import socials
