@@ -162,13 +162,13 @@ sunrit.say_hello()
 
 **🐱 My Github Data** 
 
-> 🏆 1,196 Contributions in the Year 2020
+> 🏆 1,202 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
