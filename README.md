@@ -4,7 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
 ### 😁 Let's know me Better!
-This is My Life, Can't Live without coding, and I hope this journey would be Great for me, Along with the Support of My Friends for My School Life, I know someone without whom, this couldn't have been possible, I won't say his name right now, but yeah, It'll be added here soon and love being active on discord too! Also I am a Social Maniac, Mostly active on Discord, And Here's Some more Things About me!
+This is My Life, Can't Live without coding, and I hope this journey would be Great for me.
+
+Along with the Support of My Friends for My School Life, I know someone without whom, this couldn't have been possible, I won't say his name right now, but yeah.
+
+It'll be added here soon! and, I am a social maniac, mostly active on discord, And here's some more things About me!
 
 ```python
 import socials
@@ -16,18 +20,18 @@ class SunritJana:
     self.age = 15
     self.birthday = "2006-10-27"
 
-    self.tagline = "I am a School Boy ☀️ With high dreams to achieve omething great!"
+    self.tagline = "I am a School Boy ☀️ With high dreams to achieve something great!"
 
     self.loves_to = ["❤️", "Code", "Play guitar", "Play with maths", "🔭 Explore new things"]
     self.likes_doing = ["😁", "Teaching", "Helping people", "Reviewing others' Code"]
     self.has_to_juggle = ["🔮", "studies", "music", "coding", "school"]
     self.loves_to_build = ["🛠️", stuff.Cool, stuff.Innovative]
     
-    self.most_active_at = socials.Discord
+    self.most_active_at = [socials.Discord, socials.Twitter]
 
     self.working_on = stuff.Code.MACHINE_LEARNING
     self.learning = ["Data Science", "Web Dev", "ML", "Automations", "NextJS"]
-    self.ask_me_about = ["Python", "C++", "Java", "Django"]
+    self.ask_me_about = ["Python", "C++", "Java", "Django", "Flask"]
     self.tech_stack = {
       "frontend": ["HTML", "CSS", "JS", "BOOTSTRAP"],
       "backend": ["FLASK", "DJANGO", "SANIC", "TORNADO"],
