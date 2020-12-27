@@ -79,7 +79,7 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/janaSunrise/sklearn-datasets-implementation/pull/6) in [janaSunrise/sklearn-datasets-implementation](https://github.com/janaSunrise/sklearn-datasets-implementation)
+1. 🗣 Commented on [#1](https://github.com/janaSunrise/HypeMaths/issues/1) in [janaSunrise/HypeMaths](https://github.com/janaSunrise/HypeMaths)
 2. ❗️ Closed issue [#3](https://github.com/janaSunrise/sklearn-datasets-implementation/issues/3) in [janaSunrise/sklearn-datasets-implementation](https://github.com/janaSunrise/sklearn-datasets-implementation)
 <!--END_SECTION:activity-->
 </details>
