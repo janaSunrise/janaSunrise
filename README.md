@@ -1,5 +1,5 @@
-<h1 align="center">Namaste! 👋 I'm Sunrit Jana <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">A Hardcore backend Developer from India</h3>
+<h1 align="center">Hello there! 👋 I'm Sunrit Jana <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h3 align="center">A Hardcore backend and ML developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
