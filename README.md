@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
 ### 😁 Let's know me Better!
-This is My Life, Can't Live without coding, and I hope this journey would be Great for me.
+This is my life, can't Live without coding, and I hope this journey would be great for me.
 
-Along with the Support of My Friends for My School Life, I know someone without whom, this couldn't have been possible, I won't say his name right now, but yeah.
+Along with the support of my friends for my school life, I know someone without whom, this couldn't have been possible, I won't say his name right now, but yeah.
 
-It'll be added here soon! and, I am a social maniac, mostly active on discord, And here's some more things About me!
+It will be added here soon! and, I am a social maniac, mostly active on discord, And here's some more things About me!
 
 ```python
 import socials
@@ -22,15 +22,15 @@ class SunritJana:
 
     self.tagline = "I am a School Boy ☀️ With high dreams to achieve something great!"
 
-    self.loves_to = ["❤️", "Code", "Play guitar", "Play with maths", "🔭 Explore new things"]
-    self.likes_doing = ["😁", "Teaching", "Helping people", "Reviewing others' Code"]
-    self.has_to_juggle = ["🔮", "studies", "music", "coding", "school"]
-    self.loves_to_build = ["🛠️", stuff.Cool, stuff.Innovative]
+    self.loves_to_❤️ = ["Code", "Play guitar", "Play with maths", "🔭 Explore new things"]
+    self.likes_doing_😁 = ["Teaching", "Helping people", "Reviewing others' Code"]
+    self.has_to_juggle_🔮 = ["studies", "music", "coding", "school"]
+    self.loves_to_build_🛠️ = ["stuff.Cool, stuff.Innovative]
     
     self.most_active_at = [socials.Discord, socials.Twitter]
 
     self.working_on = stuff.Code.MACHINE_LEARNING
-    self.learning = ["Data Science", "Web Dev", "ML", "Automations", "NextJS"]
+    self.learning = ["Data Science", "Web Dev", "ML", "Automations", "NextJS", "Ethical hacking"]
     self.ask_me_about = ["Python", "C++", "Java", "Django", "Flask"]
     self.tech_stack = {
       "frontend": ["HTML", "CSS", "JS", "BOOTSTRAP"],
@@ -43,10 +43,10 @@ class SunritJana:
     self.twitter = "https://twitter.com/janaSunrise"
     self.email = "warriordefenderz@gmail.com"
     
-    self.fun_fact = "I'm a Anime addict, Who prefers tea over coffee!"
+    self.fun_fact = "I'm an anime addict, who prefers tea over coffee!"
   
   def __repr__(self) -> None:
-    return f'<Object SunritJana at 0x000001B2FCA77F70 working_on={self.working_on} active_at={self.most_active_at}>'
+    return f'<Object SunritJana at 0x0A0001B2FCA77F70 working_on={self.working_on} active_at={self.most_active_at}>'
     
   def __str__(self) -> None:
     self.name
