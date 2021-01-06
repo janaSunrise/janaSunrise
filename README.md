@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
 ### 😁 Let's know me Better!
-This is my life, can't Live without coding, and I hope this journey would be great for me.
+This is sunrit and I just can't Live without coding, also I hope this journey would be great for me.
 
 Along with the support of my friends for my school life, I know someone without whom, this couldn't have been possible, I won't say his name right now, but yeah.
 
@@ -46,7 +46,7 @@ class SunritJana:
     self.fun_fact = "I'm an anime addict, who prefers tea over coffee!"
   
   def __repr__(self) -> None:
-    return f'<Object SunritJana at 0x0A0001B2FCA77F70 working_on={self.working_on} active_at={self.most_active_at}>'
+    return f'<Object SunritJana at 0x0A0001B2FCA77F70 working_on={self.working_on} active_at={self.most_active_at}> ask_about={self.ask_me_about}'
     
   def __str__(self) -> None:
     self.name
