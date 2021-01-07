@@ -43,7 +43,7 @@ class SunritJana:
     self.twitter = "https://twitter.com/janaSunrise"
     self.email = "warriordefenderz@gmail.com"
     
-    self.fun_fact = "I'm an anime addict, who prefers tea over coffee!"
+    self.fun_fact = "I'm an anime addict who prefers tea over coffee!"
   
   def __repr__(self) -> None:
     return f'<Object SunritJana at 0x0A0001B2FCA77F70 working_on={self.working_on} active_at={self.most_active_at}> ask_about={self.ask_me_about}'
