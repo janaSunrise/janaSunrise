@@ -65,11 +65,11 @@ sunrit.say_hello()
 
 ### 🔗 Connect with me:
 
-[<img align="left" alt="Sunrit Jana" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Sunrit Jana | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Sunrit Jana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sunrit Jana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sunrit Jana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sunrit Jana" src="https://img.shields.io/badge/Website-02ccf7?style=for-the-badge&logo=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg&logoColor=white" />][website]
+[<img align="left" alt="Sunrit Jana | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+[<img align="left" alt="Sunrit Jana | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Sunrit Jana | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Sunrit Jana | Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />][blog]
 
 <br />
 
@@ -262,4 +262,5 @@ C                        1 repo              ░░░░░░░░░░░�
 [youtube]: https://youtube.com/UC3S4lcSvaSIiT3uSRSi7uCQ
 [instagram]: https://instagram.com/dare.me_bro
 [linkedin]: https://www.linkedin.com/in/sunrit-jana-785605197/
+[blog]: https://thedevden.hashnode.dev
 
