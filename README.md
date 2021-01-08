@@ -137,7 +137,7 @@ sunrit.say_hello()
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> 
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=https://simpleicons.org/icons/firebase.svg&logoColor=white" alt="firebase" />
 
 - Cloud
 
@@ -169,13 +169,12 @@ sunrit.say_hello()
 
 - Others
 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" /> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" /> 
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" />
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" />
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=https://simpleicons.org/icons/git.svg&logoColor=white" alt="git" /> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=https://simpleicons.org/icons/linux.svg&logoColor=white" alt="linux" /> 
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=https://simpleicons.org/icons/gnubash.svg&logoColor=white" alt="bash" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=https://simpleicons.org/icons/docker.svg&logoColor=white" alt="docker" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=https://simpleicons.org/icons/grafana.svg&logoColor=white" alt="grafana" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
 
 </details>
 
