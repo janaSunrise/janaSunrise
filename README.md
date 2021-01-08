@@ -79,8 +79,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/janaSunrise/HypeMaths/pull/5) in [janaSunrise/HypeMaths](https://github.com/janaSunrise/HypeMaths)
-2. 💪 Opened PR [#5](https://github.com/janaSunrise/HypeMaths/pull/5) in [janaSunrise/HypeMaths](https://github.com/janaSunrise/HypeMaths)
+1. 🗣 Commented on [#10](https://github.com/janaSunrise/ML-guide-and-implementation/issues/10) in [janaSunrise/ML-guide-and-implementation](https://github.com/janaSunrise/ML-guide-and-implementation)
+2. 🎉 Merged PR [#5](https://github.com/janaSunrise/HypeMaths/pull/5) in [janaSunrise/HypeMaths](https://github.com/janaSunrise/HypeMaths)
 <!--END_SECTION:activity-->
 </details>
 
