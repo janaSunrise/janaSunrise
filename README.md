@@ -96,6 +96,10 @@ sunrit.say_hello()
 </details>
 
 <details>
+  <summary>🔖 My latest blogs</summary>
+</details>
+
+<details>
   <summary> 🛠 Tools I use to code with! </summary>
 
 - UI / UX
