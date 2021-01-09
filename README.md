@@ -4,11 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
 ### 😁 Let's know me Better!
-This is sunrit and I just can't Live without coding, also I hope this journey would be great for me.
+Hey there! I'm Sunrit Jana, and I'm a developer. I love to code, and also have several hobbies, and goals that I want to and love to fulfil.
+I hope this journey for me would be awesome!✌️
 
-Along with the support of my friends for my school life, I know someone without whom, this couldn't have been possible, I won't say his name right now, but yeah.
+I usually haven't received any support from anyone, but rather from my own friends, developer community, intellectual persons, and a specific person, without whom this wouldn't have been possible. Let's keep his name a secret for now 🤫
 
-It will be added here soon! and, I am a social maniac, mostly active on discord, And here's some more things About me!
+Also to top it up, I'm a social maniac, active on discord and twitter, interacting with the dev community, or probably coding something interesting, or discussing / chit chatting with my friends.😛
+
+**Also, here's some more info, I'd love to share!**
 
 ```python
 import socials
@@ -73,7 +76,7 @@ sunrit.say_hello()
 
 <br />
 
-### :zap: Some Good Stats
+### ⚡ Some Good Stats
 
 <details>
   <summary>🗣 Recent GitHub Activity</summary>
