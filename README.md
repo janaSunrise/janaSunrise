@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
 ### 😁 Let's know me Better!
-Hey there! I'm Sunrit Jana, and I'm a developer. I love to code, and also have several hobbies, and goals that I want to and love to fulfil.
-I hope this journey for me would be awesome!✌️
+Hey there! I'm Sunrit Jana, 15 year old developer learning Python, Java and C++. I love to code, and also have several hobbies, and goals that I want to and love to fulfil✌️
 
 I usually haven't received any support from anyone, but rather from my own friends, developer community, intellectual persons, and a specific person, without whom this wouldn't have been possible. Let's keep his name a secret for now 🤫
 
