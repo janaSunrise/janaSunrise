@@ -27,7 +27,7 @@ class SunritJana:
     self.loves_to_❤️ = ["Code", "Play guitar", "Play with maths", "🔭 Explore new things"]
     self.likes_doing_😁 = ["Teaching", "Helping people", "Reviewing others' Code"]
     self.has_to_juggle_🔮 = ["studies", "music", "coding", "school"]
-    self.loves_to_build_🛠️ = ["stuff.Cool, stuff.Innovative]
+    self.loves_to_build_🛠️ = [stuff.Cool, stuff.Innovative]
     
     self.most_active_at = [socials.Discord, socials.Twitter]
 
