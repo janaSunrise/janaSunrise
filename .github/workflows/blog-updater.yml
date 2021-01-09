@@ -18,5 +18,6 @@ jobs:
         with:
           USERNAME: 'janaSunrise' # Hashnode Username
           COUNT: 6
+          STYLE: "blog-alternate"
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
