@@ -45,6 +45,7 @@ class SunritJana:
     self.github = "https://github.com/janaSunrise"
     self.twitter = "https://twitter.com/janaSunrise"
     self.email = "warriordefenderz@gmail.com"
+    self.blog = "https://thedevden.hashnode.dev"
     
     self.fun_fact = "I'm an anime addict who prefers tea over coffee!"
   
