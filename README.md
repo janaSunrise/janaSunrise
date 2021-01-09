@@ -99,6 +99,12 @@ sunrit.say_hello()
   <summary>🔖 My latest blogs</summary>
   
 <!-- HASHNODE_BLOG:START -->
+- [How to build a Wikipedia fuzzy finder tool](https://janasunrise.hashnode.dev/how-to-build-a-wikipedia-fuzzy-finder-tool-ckjlqwp2d0gvjucs15plt6dc4)
+- [How is Python degrading?](https://janasunrise.hashnode.dev/how-is-python-degrading-ckg826gcc00k931s16l9ibkrr)
+- [Top Discord servers For Coding](https://janasunrise.hashnode.dev/top-discord-servers-for-coding-ckel46mcx000shms1cihz456w)
+- [Best List of Python Packages](https://janasunrise.hashnode.dev/best-list-of-python-packages-ckefm60dn01i298s1hs9g8j6g)
+- [Understanding Tailwind-CSS - Part 1](https://janasunrise.hashnode.dev/understanding-tailwind-css-part-1-ckeav8kc30086hes15zaohzwd)
+- [Let's Learn API!](https://janasunrise.hashnode.dev/lets-learn-api-ckea0a8jq001zrds17gysdy4h)
 <!-- HASHNODE_BLOG:END -->
 </details>
 
