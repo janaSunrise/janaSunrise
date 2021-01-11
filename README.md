@@ -103,29 +103,30 @@ sunrit.say_hello()
   
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://janasunrise.hashnode.dev/how-to-build-a-wikipedia-fuzzy-finder-tool-ckjlqwp2d0gvjucs15plt6dc4" title="How to build a Wikipedia fuzzy finder tool"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605779896932/R-VkcbLq7.png" alt="How to build a Wikipedia fuzzy finder tool" width="250px" align="left" /></a>
+<a href="https://janasunrise.hashnode.dev/understanding-ml-deep-learning-and-data-science-ckjqn36b90iof8ls1byog06al" title="Understanding ML, Deep learning and Data science"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610253029578/GW8iE-4xA.png" alt="Understanding ML, Deep learning and Data science" width="250px" align="left" /></a>
+<a href="https://janasunrise.hashnode.dev/understanding-ml-deep-learning-and-data-science-ckjqn36b90iof8ls1byog06al" title="Understanding ML, Deep learning and Data science"><strong>Understanding ML, Deep learning and Data science</strong></a>
+<br/> What is data science?
+Data science is a computing field in computer science, where various scientific methods (like scipy, numpy, pandas, etc libraries contain in python) and algorithms are used to get more knowledge, and gather various insights, and... </p> <br/> <br/>
+<p align="left">
+<a href="https://janasunrise.hashnode.dev/how-to-build-a-wikipedia-fuzzy-finder-tool-ckjlqwp2d0gvjucs15plt6dc4" title="How to build a Wikipedia fuzzy finder tool"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605779896932/R-VkcbLq7.png" alt="How to build a Wikipedia fuzzy finder tool" width="250px" align="right" /></a>
 <a href="https://janasunrise.hashnode.dev/how-to-build-a-wikipedia-fuzzy-finder-tool-ckjlqwp2d0gvjucs15plt6dc4" title="How to build a Wikipedia fuzzy finder tool"><strong>How to build a Wikipedia fuzzy finder tool</strong></a>
 <br/> Hey guys! I guess you must be tired of visiting Wikipedia for a small summary or finding a random interesting article to read or get a summary about it? Well, same here, but you can solve that by tackling it smartly with Python. So we’ll be using the... </p> <br/> <br/>
 <p align="left">
-<a href="https://janasunrise.hashnode.dev/how-is-python-degrading-ckg826gcc00k931s16l9ibkrr" title="How is Python degrading?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602599180004/82EjZ-MPW.png" alt="How is Python degrading?" width="250px" align="right" /></a>
+<a href="https://janasunrise.hashnode.dev/how-is-python-degrading-ckg826gcc00k931s16l9ibkrr" title="How is Python degrading?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602599180004/82EjZ-MPW.png" alt="How is Python degrading?" width="250px" align="left" /></a>
 <a href="https://janasunrise.hashnode.dev/how-is-python-degrading-ckg826gcc00k931s16l9ibkrr" title="How is Python degrading?"><strong>How is Python degrading?</strong></a>
 <br/> Python is a Really flexible, and easy to understand, oh and also and language which is easy to understand. It was first release in 1994 [might be wrong, too lazy to google 😛], And as the years passed by, people started using it, and already the user... </p> <br/> <br/>
 <p align="left">
-<a href="https://janasunrise.hashnode.dev/top-discord-servers-for-coding-ckel46mcx000shms1cihz456w" title="Top Discord servers For Coding"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1599035037552/dPpdobFu8.png" alt="Top Discord servers For Coding" width="250px" align="left" /></a>
+<a href="https://janasunrise.hashnode.dev/top-discord-servers-for-coding-ckel46mcx000shms1cihz456w" title="Top Discord servers For Coding"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1599035037552/dPpdobFu8.png" alt="Top Discord servers For Coding" width="250px" align="right" /></a>
 <a href="https://janasunrise.hashnode.dev/top-discord-servers-for-coding-ckel46mcx000shms1cihz456w" title="Top Discord servers For Coding"><strong>Top Discord servers For Coding</strong></a>
 <br/> Hey there! So, in this Post I am gonna Tell some of the Awesome People and Servers Whom You can Join or contact, and They're really Great! Before that, I will tell you, why is discord a good Hub for developers to connect, work together, and Help each... </p> <br/> <br/>
 <p align="left">
-<a href="https://janasunrise.hashnode.dev/best-list-of-python-packages-ckefm60dn01i298s1hs9g8j6g" title="Best List of Python Packages"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1598702436292/lNklSXxZc.png" alt="Best List of Python Packages" width="250px" align="right" /></a>
+<a href="https://janasunrise.hashnode.dev/best-list-of-python-packages-ckefm60dn01i298s1hs9g8j6g" title="Best List of Python Packages"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1598702436292/lNklSXxZc.png" alt="Best List of Python Packages" width="250px" align="left" /></a>
 <a href="https://janasunrise.hashnode.dev/best-list-of-python-packages-ckefm60dn01i298s1hs9g8j6g" title="Best List of Python Packages"><strong>Best List of Python Packages</strong></a>
 <br/> So, I have recently got into python, but.. Surprisingly I have learnt python before getting into java, and have experimented and been learning how things work, and in that period, and current period, I have Used almost a Lot of Packages in Python, wh... </p> <br/> <br/>
 <p align="left">
-<a href="https://janasunrise.hashnode.dev/understanding-tailwind-css-part-1-ckeav8kc30086hes15zaohzwd" title="Understanding Tailwind-CSS - Part 1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1598415352121/Uah45gRF1.png" alt="Understanding Tailwind-CSS - Part 1" width="250px" align="left" /></a>
+<a href="https://janasunrise.hashnode.dev/understanding-tailwind-css-part-1-ckeav8kc30086hes15zaohzwd" title="Understanding Tailwind-CSS - Part 1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1598415352121/Uah45gRF1.png" alt="Understanding Tailwind-CSS - Part 1" width="250px" align="right" /></a>
 <a href="https://janasunrise.hashnode.dev/understanding-tailwind-css-part-1-ckeav8kc30086hes15zaohzwd" title="Understanding Tailwind-CSS - Part 1"><strong>Understanding Tailwind-CSS - Part 1</strong></a>
 <br/> Hey there everyone! I am finally With Some frontend stuff 😂 !Spoiler: I am weak at frontend, But I am finally Confident, about Talking about tailwind CSS! Well, You might me thinking, What is there to talk about tailwind CSS, so, I will be Talking a... </p> <br/> <br/>
-<p align="left">
-<a href="https://janasunrise.hashnode.dev/lets-learn-api-ckea0a8jq001zrds17gysdy4h" title="Let's Learn API!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1598363356652/ffx7GSgFo.png" alt="Let's Learn API!" width="250px" align="right" /></a>
-<a href="https://janasunrise.hashnode.dev/lets-learn-api-ckea0a8jq001zrds17gysdy4h" title="Let's Learn API!"><strong>Let's Learn API!</strong></a>
-<br/> So, many of the people who have never hear of this term API might ask, 🤔What's this crappy thing stands for? So, API stands for Application Programming Interface. SO, we're gonna deep down explore APIs, and we'll be knowing about the following thing... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 </details>
 
