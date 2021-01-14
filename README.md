@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋! I'm Sunrit Jana <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">A Hardcore backend and ML developer from India</h3>
+<h3 align="center">A ML and hardcore backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
@@ -10,7 +10,7 @@ I usually haven't received any support from anyone, but rather from my own frien
 
 Also to top it up, I'm a social maniac, active on discord and twitter, interacting with the dev community, or probably coding something interesting, or discussing / chit chatting with my friends.😛
 
-**Also, here's some more info, I'd love to share!**
+**Also, here's some more info that I'd love to share!**
 
 ```python
 import socials
