@@ -82,8 +82,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/janaSunrise/ML-guide-and-implementation/pull/12) in [janaSunrise/ML-guide-and-implementation](https://github.com/janaSunrise/ML-guide-and-implementation)
-2. 🎉 Merged PR [#10](https://github.com/janaSunrise/ML-guide-and-implementation/pull/10) in [janaSunrise/ML-guide-and-implementation](https://github.com/janaSunrise/ML-guide-and-implementation)
+1. 🎉 Merged PR [#13](https://github.com/janaSunrise/ML-guide-and-implementation/pull/13) in [janaSunrise/ML-guide-and-implementation](https://github.com/janaSunrise/ML-guide-and-implementation)
+2. 🎉 Merged PR [#12](https://github.com/janaSunrise/ML-guide-and-implementation/pull/12) in [janaSunrise/ML-guide-and-implementation](https://github.com/janaSunrise/ML-guide-and-implementation)
 <!--END_SECTION:activity-->
 </details>
 
