@@ -31,11 +31,12 @@ class SunritJana:
     
     self.most_active_at = [socials.Discord, socials.Twitter]
 
+    self.languages = ["C++", "Java", "Python", "Frontend"]
     self.working_on = stuff.Code.MACHINE_LEARNING
     self.learning = ["Data Science", "Web Dev", "ML", "Automations", "NextJS", "Ethical hacking"]
     self.ask_me_about = ["Python", "C++", "Java", "Django", "Flask"]
     self.tech_stack = {
-      "frontend": ["HTML", "CSS", "JS", "BOOTSTRAP"],
+      "frontend": ["HTML", "CSS", "JS", "BOOTSTRAP", "TAILWIND"],
       "backend": ["FLASK", "DJANGO", "SANIC", "TORNADO"],
       "languages": ["C++", "JAVA", "Python", "SQL"],
       "branches": ["ML", "Automation", "Web dev", "CLIs", "Softwares (GUI)"],
