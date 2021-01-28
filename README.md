@@ -104,33 +104,36 @@ sunrit.say_hello()
   
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://janasunrise.hashnode.dev/algorithms-and-libraries-used-for-ml-ckk4uwz93065xhls1du0i4yob" title="Algorithms and libraries used for ML"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611112668564/FpEWkWUG5.png" alt="Algorithms and libraries used for ML" width="250px" align="left" /></a>
+<a href="https://janasunrise.hashnode.dev/awesome-sites-for-ml-datasets-ckkexqb0105kh00s1gi0h6eg0" title="Awesome sites for ML datasets"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611722046044/dZNY7r-vb.png" alt="Awesome sites for ML datasets" width="250px" align="left" /></a>
+<a href="https://janasunrise.hashnode.dev/awesome-sites-for-ml-datasets-ckkexqb0105kh00s1gi0h6eg0" title="Awesome sites for ML datasets"><strong>Awesome sites for ML datasets</strong></a>
+<br/> Are you tired of finding datasets for ML projects? Don't worry I got you covered! 
+Here's a list of some awesome sites that I recommend for datasets!
+Kaggle
+Kaggle is the largest ML community containing just not only ML datasets, but various interest... </p> <br/> <br/>
+<p align="left">
+<a href="https://janasunrise.hashnode.dev/algorithms-and-libraries-used-for-ml-ckk4uwz93065xhls1du0i4yob" title="Algorithms and libraries used for ML"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611112668564/FpEWkWUG5.png" alt="Algorithms and libraries used for ML" width="250px" align="right" /></a>
 <a href="https://janasunrise.hashnode.dev/algorithms-and-libraries-used-for-ml-ckk4uwz93065xhls1du0i4yob" title="Algorithms and libraries used for ML"><strong>Algorithms and libraries used for ML</strong></a>
 <br/> So, If you have read my previous blog in this quickbites series, you probably understood what are the types of supervised learning, and also more about Regression and Classification.
 And also Python is really famous language for Data science and ML. ... </p> <br/> <br/>
 <p align="left">
-<a href="https://janasunrise.hashnode.dev/supervised-learning-and-about-it-ckjx5kiwz0fk8ces1h09d2502" title="Supervised learning and about it"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610646849085/TZMF6T3U_.png" alt="Supervised learning and about it" width="250px" align="right" /></a>
+<a href="https://janasunrise.hashnode.dev/supervised-learning-and-about-it-ckjx5kiwz0fk8ces1h09d2502" title="Supervised learning and about it"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610646849085/TZMF6T3U_.png" alt="Supervised learning and about it" width="250px" align="left" /></a>
 <a href="https://janasunrise.hashnode.dev/supervised-learning-and-about-it-ckjx5kiwz0fk8ces1h09d2502" title="Supervised learning and about it"><strong>Supervised learning and about it</strong></a>
 <br/> So, what is supervised learning?
 Supervised learning is a way of teaching the machine learning based on labelled data, like if a patient has a certain disease or not, then making it predict the labels for unseen data.
 A supervised learning algorithm ... </p> <br/> <br/>
 <p align="left">
-<a href="https://janasunrise.hashnode.dev/understanding-ml-deep-learning-and-data-science-ckjqn36b90iof8ls1byog06al" title="Understanding ML, Deep learning and Data science"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610253029578/GW8iE-4xA.png" alt="Understanding ML, Deep learning and Data science" width="250px" align="left" /></a>
+<a href="https://janasunrise.hashnode.dev/understanding-ml-deep-learning-and-data-science-ckjqn36b90iof8ls1byog06al" title="Understanding ML, Deep learning and Data science"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610253029578/GW8iE-4xA.png" alt="Understanding ML, Deep learning and Data science" width="250px" align="right" /></a>
 <a href="https://janasunrise.hashnode.dev/understanding-ml-deep-learning-and-data-science-ckjqn36b90iof8ls1byog06al" title="Understanding ML, Deep learning and Data science"><strong>Understanding ML, Deep learning and Data science</strong></a>
 <br/> What is data science?
 Data science is a computing field in computer science, where various scientific methods (like scipy, numpy, pandas, etc libraries contain in python) and algorithms are used to get more knowledge, and gather various insights, and... </p> <br/> <br/>
 <p align="left">
-<a href="https://janasunrise.hashnode.dev/how-to-build-a-wikipedia-fuzzy-finder-tool-ckjlqwp2d0gvjucs15plt6dc4" title="How to build a Wikipedia fuzzy finder tool"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605779896932/R-VkcbLq7.png" alt="How to build a Wikipedia fuzzy finder tool" width="250px" align="right" /></a>
+<a href="https://janasunrise.hashnode.dev/how-to-build-a-wikipedia-fuzzy-finder-tool-ckjlqwp2d0gvjucs15plt6dc4" title="How to build a Wikipedia fuzzy finder tool"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605779896932/R-VkcbLq7.png" alt="How to build a Wikipedia fuzzy finder tool" width="250px" align="left" /></a>
 <a href="https://janasunrise.hashnode.dev/how-to-build-a-wikipedia-fuzzy-finder-tool-ckjlqwp2d0gvjucs15plt6dc4" title="How to build a Wikipedia fuzzy finder tool"><strong>How to build a Wikipedia fuzzy finder tool</strong></a>
 <br/> Hey guys! I guess you must be tired of visiting Wikipedia for a small summary or finding a random interesting article to read or get a summary about it? Well, same here, but you can solve that by tackling it smartly with Python. So we’ll be using the... </p> <br/> <br/>
 <p align="left">
-<a href="https://janasunrise.hashnode.dev/how-is-python-degrading-ckg826gcc00k931s16l9ibkrr" title="How is Python degrading?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602599180004/82EjZ-MPW.png" alt="How is Python degrading?" width="250px" align="left" /></a>
+<a href="https://janasunrise.hashnode.dev/how-is-python-degrading-ckg826gcc00k931s16l9ibkrr" title="How is Python degrading?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602599180004/82EjZ-MPW.png" alt="How is Python degrading?" width="250px" align="right" /></a>
 <a href="https://janasunrise.hashnode.dev/how-is-python-degrading-ckg826gcc00k931s16l9ibkrr" title="How is Python degrading?"><strong>How is Python degrading?</strong></a>
 <br/> Python is a Really flexible, and easy to understand, oh and also and language which is easy to understand. It was first release in 1994 [might be wrong, too lazy to google 😛], And as the years passed by, people started using it, and already the user... </p> <br/> <br/>
-<p align="left">
-<a href="https://janasunrise.hashnode.dev/top-discord-servers-for-coding-ckel46mcx000shms1cihz456w" title="Top Discord servers For Coding"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1599035037552/dPpdobFu8.png" alt="Top Discord servers For Coding" width="250px" align="right" /></a>
-<a href="https://janasunrise.hashnode.dev/top-discord-servers-for-coding-ckel46mcx000shms1cihz456w" title="Top Discord servers For Coding"><strong>Top Discord servers For Coding</strong></a>
-<br/> Hey there! So, in this Post I am gonna Tell some of the Awesome People and Servers Whom You can Join or contact, and They're really Great! Before that, I will tell you, why is discord a good Hub for developers to connect, work together, and Help each... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 </details>
 
