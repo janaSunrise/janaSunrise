@@ -187,9 +187,9 @@ Data science is a computing field in computer science, where various scientific 
   
   - AI / ML
 
+    <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=https://simpleicons.org/icons/scikit-learn.svg&logoColor=white" alt="scikit-learn" />
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=https://simpleicons.org/icons/tensorflow.svg&logoColor=white" alt="tensorflow" />
-    <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=https://simpleicons.org/icons/pytorch.svg&logoColor=white" alt="pytorch" /> 
-    <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=https://simpleicons.org/icons/scikit-learn.svg&logoColor=white" alt="scikit-learn" /> 
+    <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=https://simpleicons.org/icons/pytorch.svg&logoColor=white" alt="pytorch" />  
 
 - Operating Systems
 
