@@ -8,9 +8,9 @@ Hey there!! I'm Sunrit Jana, 15 year old developer learning Python, Java and C++
 
 I would love to name some people, but I'd keep them anonymous for now and their identity, who helped me a lot with my journey, and still helping. I can't thank them enough, and I'm really grateful that I ever met them and interacted with them.
 
-Also to top it up, I'm a social maniac, active on discord and twitter, interacting with the dev community, or probably coding something interesting, or discussing / chit chatting with my friends.😛
+Also to top it up, I'm a social maniac, active on discord and twitter, interacting with the dev community, or probably coding something interesting, or discussing / chit chatting with my friends 😛
 
-**Also, here's some more info that I'd love to share!**
+**And, here's some code that I'd love to share with you!**
 
 ```python
 import socials
