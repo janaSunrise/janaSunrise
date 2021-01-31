@@ -31,7 +31,7 @@ class SunritJana:
     
     self.most_active_at = [socials.Discord, socials.Twitter]
 
-    self.languages = ["C++", "Java", "Python", "Frontend"]
+    self.languages = ["C++", "Java", "Python", "Javascript"]
     self.working_on = stuff.Code.MACHINE_LEARNING
     self.learning = ["Data Science", "Web Dev", "ML", "Automations", "NextJS", "Ethical hacking"]
     self.ask_me_about = ["Python", "C++", "Java", "Django", "Flask"]
@@ -55,12 +55,12 @@ class SunritJana:
   def __str__(self) -> None:
     self.name
     
-  def say_hello() -> None:
+  def hello() -> None:
     print("Hey there 👋! Nice to see you here!")
     
 
 sunrit = SunritJana()
-sunrit.say_hello()
+sunrit.hello()
 ```
 
 ### 🎧 Spotify Playing
