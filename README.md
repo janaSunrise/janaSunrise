@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
-### 😁 Let's know me well!
+### Let's know me well!
 Hey there! I'm Sunrit Jana, a 15 year old developer learning Python, Java and C++. I am interested in learning full stack web development, frontend and also rust lang for my essential needs. I love to code, and also have several hobbies, and goals that I want to and love to fulfil✌️
 
 I would love to name some people, but I'd keep them anonymous who helped me a lot with my journey, and still helping. I can't thank them enough, and I'm really grateful that I ever met them and interacted with them.
 
 Also to top it up, I'm a social maniac, active on discord and twitter, interacting with the dev community, or probably coding something interesting, or discussing / chit chatting with my friends 😛
 
-**And, here's some code that I'd love to share with you!**
+**And, here's some code that I'd love to share with you 😁**
 
 ```python
 import socials
