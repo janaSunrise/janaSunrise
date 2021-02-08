@@ -114,65 +114,6 @@ sunrit.hello()
 </details>
 
 <details>
-  <summary>🗣 Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/janaSunrise/HypeMaths/pull/6) in [janaSunrise/HypeMaths](https://github.com/janaSunrise/HypeMaths)
-2. 💪 Opened PR [#6](https://github.com/janaSunrise/HypeMaths/pull/6) in [janaSunrise/HypeMaths](https://github.com/janaSunrise/HypeMaths)
-<!--END_SECTION:activity-->
-</details>
-
-<details>
-  <summary>📊 My Github Stats</summary>
- 
-  <p><img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" /></p>
-  
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janasunrise&theme=algolia&fire=cyan" alt="janaSunrise" /></p>
-  
-  <p align="left"> <a href="https://github.com/janaSunrise"><img src="https://github-profile-trophy.vercel.app/?username=janaSunrise" alt="janaSunrise" /></a> </p>
-
-</details>
-
-<details>
-  <summary>🔖 My latest blogs</summary>
-  
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://janasunrise.hashnode.dev/preparing-your-data-for-training-your-model-ckkurmykw0295bxs16bzdffdy" title="Preparing your data for training your model"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612679322184/S9CkXVfXV.png" alt="Preparing your data for training your model" width="250px" align="left" /></a>
-<a href="https://janasunrise.hashnode.dev/preparing-your-data-for-training-your-model-ckkurmykw0295bxs16bzdffdy" title="Preparing your data for training your model"><strong>Preparing your data for training your model</strong></a>
-<br/> Hey everyone! Hope you're doing well. Welcome to this blog on preparing data for training your machine learning model.
-This is always has been a necessary step whether you make a statistical model, like LinearRegression or GradientBoosting, or Deep l... </p> <br/> <br/>
-<p align="left">
-<a href="https://janasunrise.hashnode.dev/awesome-sites-for-ml-datasets-ckkexqb0105kh00s1gi0h6eg0" title="Awesome sites for ML datasets"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611722046044/dZNY7r-vb.png" alt="Awesome sites for ML datasets" width="250px" align="right" /></a>
-<a href="https://janasunrise.hashnode.dev/awesome-sites-for-ml-datasets-ckkexqb0105kh00s1gi0h6eg0" title="Awesome sites for ML datasets"><strong>Awesome sites for ML datasets</strong></a>
-<br/> Are you tired of finding datasets for ML projects? Don't worry I got you covered! 
-Here's a list of some awesome sites that I recommend for datasets!
-Kaggle
-Kaggle is the largest ML community containing just not only ML datasets, but various interest... </p> <br/> <br/>
-<p align="left">
-<a href="https://janasunrise.hashnode.dev/algorithms-and-libraries-used-for-ml-ckk4uwz93065xhls1du0i4yob" title="Algorithms and libraries used for ML"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611112668564/FpEWkWUG5.png" alt="Algorithms and libraries used for ML" width="250px" align="left" /></a>
-<a href="https://janasunrise.hashnode.dev/algorithms-and-libraries-used-for-ml-ckk4uwz93065xhls1du0i4yob" title="Algorithms and libraries used for ML"><strong>Algorithms and libraries used for ML</strong></a>
-<br/> So, If you have read my previous blog in this quickbites series, you probably understood what are the types of supervised learning, and also more about Regression and Classification.
-And also Python is really famous language for Data science and ML. ... </p> <br/> <br/>
-<p align="left">
-<a href="https://janasunrise.hashnode.dev/supervised-learning-and-about-it-ckjx5kiwz0fk8ces1h09d2502" title="Supervised learning and about it"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610646849085/TZMF6T3U_.png" alt="Supervised learning and about it" width="250px" align="right" /></a>
-<a href="https://janasunrise.hashnode.dev/supervised-learning-and-about-it-ckjx5kiwz0fk8ces1h09d2502" title="Supervised learning and about it"><strong>Supervised learning and about it</strong></a>
-<br/> So, what is supervised learning?
-Supervised learning is a way of teaching the machine learning based on labelled data, like if a patient has a certain disease or not, then making it predict the labels for unseen data.
-A supervised learning algorithm ... </p> <br/> <br/>
-<p align="left">
-<a href="https://janasunrise.hashnode.dev/understanding-ml-deep-learning-and-data-science-ckjqn36b90iof8ls1byog06al" title="Understanding ML, Deep learning and Data science"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610253029578/GW8iE-4xA.png" alt="Understanding ML, Deep learning and Data science" width="250px" align="left" /></a>
-<a href="https://janasunrise.hashnode.dev/understanding-ml-deep-learning-and-data-science-ckjqn36b90iof8ls1byog06al" title="Understanding ML, Deep learning and Data science"><strong>Understanding ML, Deep learning and Data science</strong></a>
-<br/> What is data science?
-Data science is a computing field in computer science, where various scientific methods (like scipy, numpy, pandas, etc libraries contain in python) and algorithms are used to get more knowledge, and gather various insights, and... </p> <br/> <br/>
-<p align="left">
-<a href="https://janasunrise.hashnode.dev/how-to-build-a-wikipedia-fuzzy-finder-tool-ckjlqwp2d0gvjucs15plt6dc4" title="How to build a Wikipedia fuzzy finder tool"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605779896932/R-VkcbLq7.png" alt="How to build a Wikipedia fuzzy finder tool" width="250px" align="right" /></a>
-<a href="https://janasunrise.hashnode.dev/how-to-build-a-wikipedia-fuzzy-finder-tool-ckjlqwp2d0gvjucs15plt6dc4" title="How to build a Wikipedia fuzzy finder tool"><strong>How to build a Wikipedia fuzzy finder tool</strong></a>
-<br/> Hey guys! I guess you must be tired of visiting Wikipedia for a small summary or finding a random interesting article to read or get a summary about it? Well, same here, but you can solve that by tackling it smartly with Python. So we’ll be using the... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
-</details>
-
-<details>
   <summary> 🛠 Tools I use to code with! </summary>
 
 - UI / UX
@@ -245,6 +186,26 @@ Data science is a computing field in computer science, where various scientific 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=https://simpleicons.org/icons/docker.svg&logoColor=white" alt="docker" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=https://simpleicons.org/icons/grafana.svg&logoColor=white" alt="grafana" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
+
+</details>
+
+<details>
+  <summary>🗣 Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#6](https://github.com/janaSunrise/HypeMaths/pull/6) in [janaSunrise/HypeMaths](https://github.com/janaSunrise/HypeMaths)
+2. 💪 Opened PR [#6](https://github.com/janaSunrise/HypeMaths/pull/6) in [janaSunrise/HypeMaths](https://github.com/janaSunrise/HypeMaths)
+<!--END_SECTION:activity-->
+</details>
+
+<details>
+  <summary>📊 My Github Stats</summary>
+ 
+  <p><img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" /></p>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janasunrise&theme=algolia&fire=cyan" alt="janaSunrise" /></p>
+  
+  <p align="left"> <a href="https://github.com/janaSunrise"><img src="https://github-profile-trophy.vercel.app/?username=janaSunrise" alt="janaSunrise" /></a> </p>
 
 </details>
 
@@ -336,6 +297,45 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
   
+</details>
+
+<details>
+  <summary>🔖 My latest blogs</summary>
+  
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://janasunrise.hashnode.dev/preparing-your-data-for-training-your-model-ckkurmykw0295bxs16bzdffdy" title="Preparing your data for training your model"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612679322184/S9CkXVfXV.png" alt="Preparing your data for training your model" width="250px" align="left" /></a>
+<a href="https://janasunrise.hashnode.dev/preparing-your-data-for-training-your-model-ckkurmykw0295bxs16bzdffdy" title="Preparing your data for training your model"><strong>Preparing your data for training your model</strong></a>
+<br/> Hey everyone! Hope you're doing well. Welcome to this blog on preparing data for training your machine learning model.
+This is always has been a necessary step whether you make a statistical model, like LinearRegression or GradientBoosting, or Deep l... </p> <br/> <br/>
+<p align="left">
+<a href="https://janasunrise.hashnode.dev/awesome-sites-for-ml-datasets-ckkexqb0105kh00s1gi0h6eg0" title="Awesome sites for ML datasets"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611722046044/dZNY7r-vb.png" alt="Awesome sites for ML datasets" width="250px" align="right" /></a>
+<a href="https://janasunrise.hashnode.dev/awesome-sites-for-ml-datasets-ckkexqb0105kh00s1gi0h6eg0" title="Awesome sites for ML datasets"><strong>Awesome sites for ML datasets</strong></a>
+<br/> Are you tired of finding datasets for ML projects? Don't worry I got you covered! 
+Here's a list of some awesome sites that I recommend for datasets!
+Kaggle
+Kaggle is the largest ML community containing just not only ML datasets, but various interest... </p> <br/> <br/>
+<p align="left">
+<a href="https://janasunrise.hashnode.dev/algorithms-and-libraries-used-for-ml-ckk4uwz93065xhls1du0i4yob" title="Algorithms and libraries used for ML"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611112668564/FpEWkWUG5.png" alt="Algorithms and libraries used for ML" width="250px" align="left" /></a>
+<a href="https://janasunrise.hashnode.dev/algorithms-and-libraries-used-for-ml-ckk4uwz93065xhls1du0i4yob" title="Algorithms and libraries used for ML"><strong>Algorithms and libraries used for ML</strong></a>
+<br/> So, If you have read my previous blog in this quickbites series, you probably understood what are the types of supervised learning, and also more about Regression and Classification.
+And also Python is really famous language for Data science and ML. ... </p> <br/> <br/>
+<p align="left">
+<a href="https://janasunrise.hashnode.dev/supervised-learning-and-about-it-ckjx5kiwz0fk8ces1h09d2502" title="Supervised learning and about it"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610646849085/TZMF6T3U_.png" alt="Supervised learning and about it" width="250px" align="right" /></a>
+<a href="https://janasunrise.hashnode.dev/supervised-learning-and-about-it-ckjx5kiwz0fk8ces1h09d2502" title="Supervised learning and about it"><strong>Supervised learning and about it</strong></a>
+<br/> So, what is supervised learning?
+Supervised learning is a way of teaching the machine learning based on labelled data, like if a patient has a certain disease or not, then making it predict the labels for unseen data.
+A supervised learning algorithm ... </p> <br/> <br/>
+<p align="left">
+<a href="https://janasunrise.hashnode.dev/understanding-ml-deep-learning-and-data-science-ckjqn36b90iof8ls1byog06al" title="Understanding ML, Deep learning and Data science"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610253029578/GW8iE-4xA.png" alt="Understanding ML, Deep learning and Data science" width="250px" align="left" /></a>
+<a href="https://janasunrise.hashnode.dev/understanding-ml-deep-learning-and-data-science-ckjqn36b90iof8ls1byog06al" title="Understanding ML, Deep learning and Data science"><strong>Understanding ML, Deep learning and Data science</strong></a>
+<br/> What is data science?
+Data science is a computing field in computer science, where various scientific methods (like scipy, numpy, pandas, etc libraries contain in python) and algorithms are used to get more knowledge, and gather various insights, and... </p> <br/> <br/>
+<p align="left">
+<a href="https://janasunrise.hashnode.dev/how-to-build-a-wikipedia-fuzzy-finder-tool-ckjlqwp2d0gvjucs15plt6dc4" title="How to build a Wikipedia fuzzy finder tool"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605779896932/R-VkcbLq7.png" alt="How to build a Wikipedia fuzzy finder tool" width="250px" align="right" /></a>
+<a href="https://janasunrise.hashnode.dev/how-to-build-a-wikipedia-fuzzy-finder-tool-ckjlqwp2d0gvjucs15plt6dc4" title="How to build a Wikipedia fuzzy finder tool"><strong>How to build a Wikipedia fuzzy finder tool</strong></a>
+<br/> Hey guys! I guess you must be tired of visiting Wikipedia for a small summary or finding a random interesting article to read or get a summary about it? Well, same here, but you can solve that by tackling it smartly with Python. So we’ll be using the... </p> <br/> <br/>
+<!-- HASHNODE_BLOG:END -->
 </details>
 
 <details>
