@@ -18,42 +18,65 @@ import stuff
 
 class SunritJana:
   def __init__(self) -> None:
+    # -- Personal section --
     self.name = "Sunrit Jana"
     self.age = 15
     self.birthday = "2006-10-27"
 
-    self.tagline = "I am a School Boy ☀️ With high dreams to achieve something great!"
+    self.tagline = "A guy who loves to learn ☀️ with dreams to achieve something awesome!"
 
-    self.loves_to_❤️ = ["Code", "Play guitar", "Play with maths", "🔭 Explore new things"]
-    self.likes_doing_😁 = ["Teaching", "Helping people", "Reviewing others' Code"]
-    self.has_to_juggle_🔮 = ["studies", "music", "coding", "school"]
-    self.loves_to_build_🛠️ = [stuff.Cool, stuff.Innovative]
+    # -- About section --
+    self.loves_to = [
+      "Code",
+      "Play guitar",
+      "Play with maths",
+      "🔭 Explore new things"
+    ]
+    self.likes_doing = [
+      "Teaching",
+      "Helping people",
+      "Reviewing others' Code"
+    ]
+    self.has_to_juggle = ["Studies", "Music", "Programming"]
+
+    self.loves_to_build = [stuff.Cool, stuff.Innovative]
     
     self.most_active_at = [socials.Discord, socials.Twitter]
 
-    self.languages = ["C++", "Java", "Python", "Javascript"]
-    self.working_on = stuff.Code.MACHINE_LEARNING
-    self.learning = ["Data Science", "Web Dev", "ML", "Automations", "NextJS", "Ethical hacking"]
-    self.ask_me_about = ["Python", "C++", "Java", "Django", "Flask"]
+    # -- Tech stack section --
+    self.working_on = stuff.code.MACHINE_LEARNING
+
     self.tech_stack = {
-      "frontend": ["HTML", "CSS", "JS", "BOOTSTRAP", "TAILWIND"],
-      "backend": ["FLASK", "DJANGO", "SANIC", "TORNADO"],
-      "languages": ["C++", "JAVA", "Python", "SQL"],
-      "branches": ["ML", "Automation", "Web dev", "CLIs", "Softwares (GUI)"],
+      "code": ["Python", "C++", "Java", "Javascript", "SQL"],
+      "code-branches": ["Machine Learning", "Automation", "CLI and GUI", "Web developement", "Networking"],
+      "frontend": {
+        "css": ["Bootstrap", "Tailwind"],
+        "js": ["React", "NextJS", "Gatsby"]
+      },
+      "backend": {
+        "python": ["Flask", "Django", "Sanic", "Tornado"]
+      },
+      "cloud": ["GCP", "AWS", "Azure"],
+      "databases": ["PostgreSQL", "MySQL"]
+    }
+    self.ask_me_about = ["Python", "C++", "Java", "Django", "Flask", "Web developement"]
+
+    # -- Social media section --
+    self.social_media = {
+      "email": "warriordefenderz@gmail.com",
+      "github": "https://github.com/janaSunrise",
+      "twitter": "https://twitter.com/janaSunrise",
+      "blog": "https://thedevden.hashnode.dev"
     }
     
-    self.github = "https://github.com/janaSunrise"
-    self.twitter = "https://twitter.com/janaSunrise"
-    self.email = "warriordefenderz@gmail.com"
-    self.blog = "https://thedevden.hashnode.dev"
-    
+    # -- Wrapping up --
     self.fun_fact = "I'm an anime addict who prefers tea over coffee!"
   
   def __repr__(self) -> None:
     return f'<Object SunritJana at 0x0A0001B2FCA77F70 working_on={self.working_on} active_at={self.most_active_at}> ask_about={self.ask_me_about}'
     
   def __str__(self) -> None:
-    self.name
+    return self.name
     
   def hello() -> None:
     print("Hey there 👋! Nice to see you here!")
