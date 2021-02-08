@@ -341,7 +341,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 <details>
   <summary>🤔 Feeling bored? Here's a meme for you :)</summary>
 
-  <img src='https://random-memer.herokuapp.com/' title="Meme" height= "200" width="200" alt="Please refresh the page if the meme doesn't show up.">
+  <img src='https://random-memer.herokuapp.com/' title="Meme" height= "500" width="500" alt="Please refresh the page if the meme doesn't show up.">
 </details>
 
 <br />
