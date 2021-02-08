@@ -80,6 +80,17 @@ sunrit.hello()
 ### ⚡ Some Good Stats
 
 <details>
+  <summary>⚙️ My workspace setup</summary>
+
+  - **Laptop**: HP pavilion (Intel I5)
+  - **OS**: Ubuntu 20.04
+  - **Terminal**: ZSH with spaceship theme
+  - **Browser**: Mozilla firefox and Brave
+  - **Code Editor**: VSCode, Pycharm and webstorm.
+  - **Music Player**: Spotify
+</details>
+
+<details>
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
