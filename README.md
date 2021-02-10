@@ -218,7 +218,7 @@ sunrit.hello()
 
 **🐱 My Github Data** 
 
-> 🏆 289 Contributions in the Year 2021
+> 🏆 296 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
