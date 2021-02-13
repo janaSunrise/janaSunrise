@@ -21,7 +21,7 @@ class SunritJana:
     # -- Personal section --
     self.name = "Sunrit Jana"
     self.age = 15
-    self.birthday = "2006-10-27"
+    self.birthday = "27-10-2006"
 
     self.tagline = "A guy who loves to learn ☀️ with dreams to achieve something awesome!"
 
