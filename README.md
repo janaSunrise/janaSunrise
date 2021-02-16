@@ -305,37 +305,38 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
   
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://janasunrise.hashnode.dev/preparing-your-data-for-training-your-model-ckkurmykw0295bxs16bzdffdy" title="Preparing your data for training your model"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612679322184/S9CkXVfXV.png" alt="Preparing your data for training your model" width="250px" align="left" /></a>
+<a href="https://janasunrise.hashnode.dev/gradient-descent-and-all-about-it-ckl6pfhjr027hlos1g5iuc554" title="Gradient descent and all about it"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613401194762/mYyhKHsDk.png" alt="Gradient descent and all about it" width="250px" align="left" /></a>
+<a href="https://janasunrise.hashnode.dev/gradient-descent-and-all-about-it-ckl6pfhjr027hlos1g5iuc554" title="Gradient descent and all about it"><strong>Gradient descent and all about it</strong></a>
+<br/> Heyy everyone! Welcome to this blog on gradient descent, and various features and calculations in it.
+If you're not familiar with it, Gradient descent is a ML optimization algorithm, that helps finding a local minimum of a differentiable function rea... </p> <br/> <br/>
+<p align="left">
+<a href="https://janasunrise.hashnode.dev/preparing-your-data-for-training-your-model-ckkurmykw0295bxs16bzdffdy" title="Preparing your data for training your model"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612679322184/S9CkXVfXV.png" alt="Preparing your data for training your model" width="250px" align="right" /></a>
 <a href="https://janasunrise.hashnode.dev/preparing-your-data-for-training-your-model-ckkurmykw0295bxs16bzdffdy" title="Preparing your data for training your model"><strong>Preparing your data for training your model</strong></a>
 <br/> Hey everyone! Hope you're doing well. Welcome to this blog on preparing data for training your machine learning model.
 This is always has been a necessary step whether you make a statistical model, like LinearRegression or GradientBoosting, or Deep l... </p> <br/> <br/>
 <p align="left">
-<a href="https://janasunrise.hashnode.dev/awesome-sites-for-ml-datasets-ckkexqb0105kh00s1gi0h6eg0" title="Awesome sites for ML datasets"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611722046044/dZNY7r-vb.png" alt="Awesome sites for ML datasets" width="250px" align="right" /></a>
+<a href="https://janasunrise.hashnode.dev/awesome-sites-for-ml-datasets-ckkexqb0105kh00s1gi0h6eg0" title="Awesome sites for ML datasets"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611722046044/dZNY7r-vb.png" alt="Awesome sites for ML datasets" width="250px" align="left" /></a>
 <a href="https://janasunrise.hashnode.dev/awesome-sites-for-ml-datasets-ckkexqb0105kh00s1gi0h6eg0" title="Awesome sites for ML datasets"><strong>Awesome sites for ML datasets</strong></a>
 <br/> Are you tired of finding datasets for ML projects? Don't worry I got you covered! 
 Here's a list of some awesome sites that I recommend for datasets!
 Kaggle
 Kaggle is the largest ML community containing just not only ML datasets, but various interest... </p> <br/> <br/>
 <p align="left">
-<a href="https://janasunrise.hashnode.dev/algorithms-and-libraries-used-for-ml-ckk4uwz93065xhls1du0i4yob" title="Algorithms and libraries used for ML"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611112668564/FpEWkWUG5.png" alt="Algorithms and libraries used for ML" width="250px" align="left" /></a>
+<a href="https://janasunrise.hashnode.dev/algorithms-and-libraries-used-for-ml-ckk4uwz93065xhls1du0i4yob" title="Algorithms and libraries used for ML"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611112668564/FpEWkWUG5.png" alt="Algorithms and libraries used for ML" width="250px" align="right" /></a>
 <a href="https://janasunrise.hashnode.dev/algorithms-and-libraries-used-for-ml-ckk4uwz93065xhls1du0i4yob" title="Algorithms and libraries used for ML"><strong>Algorithms and libraries used for ML</strong></a>
 <br/> So, If you have read my previous blog in this quickbites series, you probably understood what are the types of supervised learning, and also more about Regression and Classification.
 And also Python is really famous language for Data science and ML. ... </p> <br/> <br/>
 <p align="left">
-<a href="https://janasunrise.hashnode.dev/supervised-learning-and-about-it-ckjx5kiwz0fk8ces1h09d2502" title="Supervised learning and about it"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610646849085/TZMF6T3U_.png" alt="Supervised learning and about it" width="250px" align="right" /></a>
+<a href="https://janasunrise.hashnode.dev/supervised-learning-and-about-it-ckjx5kiwz0fk8ces1h09d2502" title="Supervised learning and about it"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610646849085/TZMF6T3U_.png" alt="Supervised learning and about it" width="250px" align="left" /></a>
 <a href="https://janasunrise.hashnode.dev/supervised-learning-and-about-it-ckjx5kiwz0fk8ces1h09d2502" title="Supervised learning and about it"><strong>Supervised learning and about it</strong></a>
 <br/> So, what is supervised learning?
 Supervised learning is a way of teaching the machine learning based on labelled data, like if a patient has a certain disease or not, then making it predict the labels for unseen data.
 A supervised learning algorithm ... </p> <br/> <br/>
 <p align="left">
-<a href="https://janasunrise.hashnode.dev/understanding-ml-deep-learning-and-data-science-ckjqn36b90iof8ls1byog06al" title="Understanding ML, Deep learning and Data science"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610253029578/GW8iE-4xA.png" alt="Understanding ML, Deep learning and Data science" width="250px" align="left" /></a>
+<a href="https://janasunrise.hashnode.dev/understanding-ml-deep-learning-and-data-science-ckjqn36b90iof8ls1byog06al" title="Understanding ML, Deep learning and Data science"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610253029578/GW8iE-4xA.png" alt="Understanding ML, Deep learning and Data science" width="250px" align="right" /></a>
 <a href="https://janasunrise.hashnode.dev/understanding-ml-deep-learning-and-data-science-ckjqn36b90iof8ls1byog06al" title="Understanding ML, Deep learning and Data science"><strong>Understanding ML, Deep learning and Data science</strong></a>
 <br/> What is data science?
 Data science is a computing field in computer science, where various scientific methods (like scipy, numpy, pandas, etc libraries contain in python) and algorithms are used to get more knowledge, and gather various insights, and... </p> <br/> <br/>
-<p align="left">
-<a href="https://janasunrise.hashnode.dev/how-to-build-a-wikipedia-fuzzy-finder-tool-ckjlqwp2d0gvjucs15plt6dc4" title="How to build a Wikipedia fuzzy finder tool"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605779896932/R-VkcbLq7.png" alt="How to build a Wikipedia fuzzy finder tool" width="250px" align="right" /></a>
-<a href="https://janasunrise.hashnode.dev/how-to-build-a-wikipedia-fuzzy-finder-tool-ckjlqwp2d0gvjucs15plt6dc4" title="How to build a Wikipedia fuzzy finder tool"><strong>How to build a Wikipedia fuzzy finder tool</strong></a>
-<br/> Hey guys! I guess you must be tired of visiting Wikipedia for a small summary or finding a random interesting article to read or get a summary about it? Well, same here, but you can solve that by tackling it smartly with Python. So we’ll be using the... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 </details>
 
