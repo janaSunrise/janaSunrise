@@ -1,5 +1,6 @@
 <h1 align="center">Hey there 👋! I'm Sunrit Jana <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">An enthusiatic ML and hardcore full-stack developer from India</h3>
+<h2 align="center">An enthusiatic ML and hardcore full-stack developer from India</h2>
+<h3 align="center">Welcome to my personal codespace!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
