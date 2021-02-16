@@ -28,15 +28,15 @@ class SunritJana:
 
     # -- About section --
     self.loves_to = [
-      "Code",
-      "Play guitar",
-      "Play with maths",
+      "💻 Code",
+      "🎸 Play guitar",
+      "🏫 Play with maths",
       "🔭 Explore new things"
     ]
     self.likes_doing = [
-      "Teaching",
-      "Helping people",
-      "Reviewing others' Code"
+      "🏫 Teaching",
+      "🤝 Helping people",
+      "🧑‍💻 Reviewing others' Code"
     ]
     self.has_to_juggle = ["Studies", "Music", "Programming"]
 
