@@ -194,8 +194,8 @@ sunrit.hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/janaSunrise/FastAPI-auth-wrapper/pull/1) in [janaSunrise/FastAPI-auth-wrapper](https://github.com/janaSunrise/FastAPI-auth-wrapper)
-2. 💪 Opened PR [#1](https://github.com/janaSunrise/FastAPI-auth-wrapper/pull/1) in [janaSunrise/FastAPI-auth-wrapper](https://github.com/janaSunrise/FastAPI-auth-wrapper)
+1. 💪 Opened PR [#1](https://github.com/Rohith04MVK/Fashion-MNIST/pull/1) in [Rohith04MVK/Fashion-MNIST](https://github.com/Rohith04MVK/Fashion-MNIST)
+2. 🎉 Merged PR [#1](https://github.com/janaSunrise/Fashion-MNIST/pull/1) in [janaSunrise/Fashion-MNIST](https://github.com/janaSunrise/Fashion-MNIST)
 <!--END_SECTION:activity-->
 </details>
 
