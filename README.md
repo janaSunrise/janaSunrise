@@ -2,7 +2,7 @@
 <h2 align="center">An enthusiatic ML and hardcore full-stack developer from India</h2>
 <h3 align="center">Welcome to my personal codespace!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
 ### Let's know me well!
 Hey there! I'm Sunrit Jana, a 15 year old developer learning Python, Java and C++. I am interested in learning full stack web development, frontend and also rust lang for my essential needs. I love to code, and also have several hobbies, and goals that I want to and love to fulfil✌️
