@@ -104,7 +104,7 @@ sunrit.hello()
 ### ⚡ Some Good Stats
 
 <details>
-  <summary>⚙️ **My workspace setup**</summary>
+  <summary>⚙️ My workspace setup</summary>
 
   - **Laptop**: HP pavilion (Intel I5)
   - **OS**: Ubuntu 20.04
@@ -115,7 +115,7 @@ sunrit.hello()
 </details>
 
 <details>
-  <summary> 🛠 **Tools I use to code with!** </summary>
+  <summary> 🛠 Tools I use to code with! </summary>
 
 - UI / UX
 
@@ -191,7 +191,7 @@ sunrit.hello()
 </details>
 
 <details>
-  <summary>🗣 **Recent GitHub Activity**</summary>
+  <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2](https://github.com/Faholan/All-Hail-Chaos/pull/2) in [Faholan/All-Hail-Chaos](https://github.com/Faholan/All-Hail-Chaos)
@@ -211,7 +211,7 @@ sunrit.hello()
 </details>
 
 <details>
-  <summary>❤️ **About my Coding styles, and preferences** </summary>
+  <summary>❤️ About my Coding styles, and preferences </summary>
   <br />
 
   <!--START_SECTION:waka-->
@@ -302,7 +302,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 </details>
 
 <details>
-  <summary>🔖 **My latest blogs**</summary>
+  <summary>🔖 My latest blogs</summary>
   
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
@@ -342,7 +342,7 @@ A supervised learning algorithm ... </p> <br/> <br/>
 </details>
 
 <details>
-  <summary>🤔 **Feeling bored? Here's a meme for you :)**</summary>
+  <summary>🤔 Feeling bored? Here's a meme for you :)</summary>
 
   <img src='https://random-memer.herokuapp.com/' title="Meme" height= "500" width="500" alt="Please refresh the page if the meme doesn't show up.">
 </details>
