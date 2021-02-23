@@ -24,7 +24,7 @@ class SunritJana:
     self.age = 15
     self.birthday = "27-10-2006"
 
-    self.tagline = "A guy who loves to learn ☀️ with dreams to achieve something awesome!"
+    self.tagline = "A guy who loves to learn with dreams to achieve something awesome! ☀️"
 
     # -- About section --
     self.loves_to = [
@@ -58,7 +58,7 @@ class SunritJana:
         "python": ["Flask", "Django", "Sanic", "Tornado"]
       },
       "cloud": ["GCP", "AWS", "Azure"],
-      "databases": ["PostgreSQL", "MySQL"]
+      "databases": ["PostgreSQL", "MySQL", "Redis"]
     }
     self.ask_me_about = ["Python", "C++", "Java", "Django", "Flask", "Web developement"]
 
