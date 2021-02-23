@@ -58,7 +58,8 @@ class SunritJana:
         "python": ["Flask", "Django", "Sanic", "Tornado"]
       },
       "cloud": ["GCP", "AWS", "Azure"],
-      "databases": ["PostgreSQL", "MySQL", "Redis"]
+      "databases": ["PostgreSQL", "MySQL", "Redis"],
+      "DevSecOps": ["Docker", "CI/CD", "Linux administration", "Version control", "Virtualization"]
     }
     self.ask_me_about = ["Python", "C++", "Java", "Django", "Flask", "Web developement"]
 
