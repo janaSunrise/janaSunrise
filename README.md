@@ -203,8 +203,8 @@ sunrit.hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Faholan/All-Hail-Chaos/pull/2) in [Faholan/All-Hail-Chaos](https://github.com/Faholan/All-Hail-Chaos)
-2. 💪 Opened PR [#1](https://github.com/Rohith04MVK/Fashion-MNIST/pull/1) in [Rohith04MVK/Fashion-MNIST](https://github.com/Rohith04MVK/Fashion-MNIST)
+1. 🎉 Merged PR [#1](https://github.com/janaSunrise/janaSunrise/pull/1) in [janaSunrise/janaSunrise](https://github.com/janaSunrise/janaSunrise)
+2. 💪 Opened PR [#2](https://github.com/Faholan/All-Hail-Chaos/pull/2) in [Faholan/All-Hail-Chaos](https://github.com/Faholan/All-Hail-Chaos)
 <!--END_SECTION:activity-->
 </details>
 
