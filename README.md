@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋! I'm Sunrit Jana <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">An enthusiatic ML and hardcore full-stack developer from India</h3>
+<h2 align="center">An enthusiatic ML and hardcore full-stack developer from India</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
 ### Let's know me well!
 Hey there! I'm Sunrit Jana, a 15 year old developer learning Python, Java and C++. I am interested in learning full stack web development, frontend and also rust lang for my essential needs. I love to code, and also have several hobbies, and goals that I want to and love to fulfil✌️
@@ -30,21 +30,21 @@ class SunritJana:
     # -- Personal section --
     self.name = "Sunrit Jana"
     self.age = 15
-    self.birthday = "2006-10-27"
+    self.birthday = "27-10-2006"
 
-    self.tagline = "A guy who loves to learn ☀️ with dreams to achieve something awesome!"
+    self.tagline = "A guy who loves to learn with dreams to achieve something awesome! ☀️"
 
     # -- About section --
     self.loves_to = [
-      "Code",
-      "Play guitar",
-      "Play with maths",
+      "💻 Code",
+      "🎸 Play guitar",
+      "🏫 Play with maths",
       "🔭 Explore new things"
     ]
     self.likes_doing = [
-      "Teaching",
-      "Helping people",
-      "Reviewing others' Code"
+      "🏫 Teaching",
+      "🤝 Helping people",
+      "🧑‍💻 Reviewing others' Code"
     ]
     self.has_to_juggle = ["Studies", "Music", "Programming"]
 
@@ -66,7 +66,8 @@ class SunritJana:
         "python": ["Flask", "Django", "Sanic", "Tornado"]
       },
       "cloud": ["GCP", "AWS", "Azure"],
-      "databases": ["PostgreSQL", "MySQL"]
+      "databases": ["PostgreSQL", "MySQL", "Redis"],
+      "DevSecOps": ["Docker", "CI/CD", "Linux administration", "Version control", "Virtualization"]
     }
     self.ask_me_about = ["Python", "C++", "Java", "Django", "Flask", "Web developement"]
 
@@ -202,8 +203,8 @@ sunrit.hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/janaSunrise/HypeMaths/pull/6) in [janaSunrise/HypeMaths](https://github.com/janaSunrise/HypeMaths)
-2. 💪 Opened PR [#6](https://github.com/janaSunrise/HypeMaths/pull/6) in [janaSunrise/HypeMaths](https://github.com/janaSunrise/HypeMaths)
+1. 💪 Opened PR [#2](https://github.com/Faholan/All-Hail-Chaos/pull/2) in [Faholan/All-Hail-Chaos](https://github.com/Faholan/All-Hail-Chaos)
+2. 💪 Opened PR [#1](https://github.com/Rohith04MVK/Fashion-MNIST/pull/1) in [Rohith04MVK/Fashion-MNIST](https://github.com/Rohith04MVK/Fashion-MNIST)
 <!--END_SECTION:activity-->
 </details>
 
@@ -227,35 +228,35 @@ sunrit.hello()
 
 **🐱 My Github Data** 
 
-> 🏆 257 Contributions in the Year 2021
+> 🏆 541 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 43 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    65 commits     █████░░░░░░░░░░░░░░░░░░░░   19.76% 
-🌆 Daytime    136 commits    ██████████░░░░░░░░░░░░░░░   41.34% 
-🌃 Evening    116 commits    ████████░░░░░░░░░░░░░░░░░   35.26% 
-🌙 Night      12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.65%
+🌞 Morning    65 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
+🌆 Daytime    151 commits    ██████████░░░░░░░░░░░░░░░   41.83% 
+🌃 Evening    123 commits    ████████░░░░░░░░░░░░░░░░░   34.07% 
+🌙 Night      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.09%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.63% 
-Tuesday      37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.25% 
-Wednesday    87 commits     ██████░░░░░░░░░░░░░░░░░░░   26.44% 
-Thursday     59 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.93% 
-Friday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
-Saturday     23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.99% 
-Sunday       23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.99%
+Monday       60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
+Tuesday      47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
+Wednesday    92 commits     ██████░░░░░░░░░░░░░░░░░░░   25.48% 
+Thursday     63 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
+Friday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
+Saturday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
+Sunday       24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.65%
 
 ```
 
@@ -266,35 +267,36 @@ Sunday       23 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 45 mins       ████████████████████░░░░░   82.55% 
-TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.73% 
-Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.12% 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.9% 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
+Python                   28 hrs 26 mins      ██████████████████████░░░   88.57% 
+YAML                     1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
+Rust                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54% 
+TOML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
+Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
 
 🔥 Editors: 
-PyCharm                  3 hrs 20 mins       █████████████████████████   100.0%
+PyCharm                  29 hrs 56 mins      ███████████████████████░░   93.24% 
+VS Code                  2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.76%
 
 🐱‍💻 Projects: 
-overflow-discord-bot     2 hrs 1 min         ███████████████░░░░░░░░░░   60.36% 
-spotify-api-learn        36 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
-GPT2-model-playground    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
-learning-deep-learning   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.4% 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
+overflow-discord-bot     16 hrs 28 mins      ████████████░░░░░░░░░░░░░   51.34% 
+fast-api-auth            5 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.01% 
+aio-api-discord-bots     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.1% 
+history_api              2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+user-api-m0              2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.62%
 
 💻 Operating System: 
-Linux                    3 hrs 20 mins       █████████████████████████   100.0%
+Linux                    32 hrs 6 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   23 repos            ████████████████░░░░░░░░░   65.71% 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
+Python                   25 repos            ████████████████░░░░░░░░░   65.79% 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
 
 ```
 
@@ -312,6 +314,16 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
   <summary>🔖 My latest blogs</summary>
   
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://janasunrise.hashnode.dev/lets-explore-linear-regression-cklfbmpkz09w0hks1ggkc6lsb" title="Let's explore linear regression!!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613922230138/3PStIKAOk.png" alt="Let's explore linear regression!!" width="250px" align="left" /></a>
+<a href="https://janasunrise.hashnode.dev/lets-explore-linear-regression-cklfbmpkz09w0hks1ggkc6lsb" title="Let's explore linear regression!!"><strong>Let's explore linear regression!!</strong></a>
+<br/> What is linear regression?
+Linear regression was created in the field of statistics. It's studied as a model for understanding the relationship between input and target continuous variables, but has been borrowed by machine learning. It is both a sta... </p> <br/> <br/>
+<p align="left">
+<a href="https://janasunrise.hashnode.dev/gradient-descent-and-all-about-it-ckl6pfhjr027hlos1g5iuc554" title="Gradient descent and all about it"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613401194762/mYyhKHsDk.png" alt="Gradient descent and all about it" width="250px" align="right" /></a>
+<a href="https://janasunrise.hashnode.dev/gradient-descent-and-all-about-it-ckl6pfhjr027hlos1g5iuc554" title="Gradient descent and all about it"><strong>Gradient descent and all about it</strong></a>
+<br/> Heyy everyone! Welcome to this blog on gradient descent, and various features and calculations in it.
+If you're not familiar with it, Gradient descent is a ML optimization algorithm, that helps finding a local minimum of a differentiable function rea... </p> <br/> <br/>
 <p align="left">
 <a href="https://janasunrise.hashnode.dev/preparing-your-data-for-training-your-model-ckkurmykw0295bxs16bzdffdy" title="Preparing your data for training your model"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612679322184/S9CkXVfXV.png" alt="Preparing your data for training your model" width="250px" align="left" /></a>
 <a href="https://janasunrise.hashnode.dev/preparing-your-data-for-training-your-model-ckkurmykw0295bxs16bzdffdy" title="Preparing your data for training your model"><strong>Preparing your data for training your model</strong></a>
@@ -335,15 +347,6 @@ And also Python is really famous language for Data science and ML. ... </p> <br/
 <br/> So, what is supervised learning?
 Supervised learning is a way of teaching the machine learning based on labelled data, like if a patient has a certain disease or not, then making it predict the labels for unseen data.
 A supervised learning algorithm ... </p> <br/> <br/>
-<p align="left">
-<a href="https://janasunrise.hashnode.dev/understanding-ml-deep-learning-and-data-science-ckjqn36b90iof8ls1byog06al" title="Understanding ML, Deep learning and Data science"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610253029578/GW8iE-4xA.png" alt="Understanding ML, Deep learning and Data science" width="250px" align="left" /></a>
-<a href="https://janasunrise.hashnode.dev/understanding-ml-deep-learning-and-data-science-ckjqn36b90iof8ls1byog06al" title="Understanding ML, Deep learning and Data science"><strong>Understanding ML, Deep learning and Data science</strong></a>
-<br/> What is data science?
-Data science is a computing field in computer science, where various scientific methods (like scipy, numpy, pandas, etc libraries contain in python) and algorithms are used to get more knowledge, and gather various insights, and... </p> <br/> <br/>
-<p align="left">
-<a href="https://janasunrise.hashnode.dev/how-to-build-a-wikipedia-fuzzy-finder-tool-ckjlqwp2d0gvjucs15plt6dc4" title="How to build a Wikipedia fuzzy finder tool"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605779896932/R-VkcbLq7.png" alt="How to build a Wikipedia fuzzy finder tool" width="250px" align="right" /></a>
-<a href="https://janasunrise.hashnode.dev/how-to-build-a-wikipedia-fuzzy-finder-tool-ckjlqwp2d0gvjucs15plt6dc4" title="How to build a Wikipedia fuzzy finder tool"><strong>How to build a Wikipedia fuzzy finder tool</strong></a>
-<br/> Hey guys! I guess you must be tired of visiting Wikipedia for a small summary or finding a random interesting article to read or get a summary about it? Well, same here, but you can solve that by tackling it smartly with Python. So we’ll be using the... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 </details>
 
