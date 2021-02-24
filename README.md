@@ -10,10 +10,10 @@ I would love to name some people, but I'd keep them anonymous who helped me a lo
 
 Also to top it up, I'm a social maniac, active on discord and twitter, interacting with the dev community, or probably coding something interesting, or discussing / chit chatting with my friends 😛
 
-**Before you go further, Here's some words I'd love to share**
+**Here's some words I'd love to share**
 
 <details>
-  <summary>🥺 Please only read this, if you're actually interested.</summary>
+  <summary>🥺 Please only read this, if you're actually interested in life lessons and inspirations.</summary>
 
   <p align="left"> <img src="https://raw.githubusercontent.com/janaSunrise/janaSunrise/master/images/thought.png" alt="janasunrise" /> </p>
 
