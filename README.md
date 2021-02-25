@@ -203,8 +203,8 @@ sunrit.hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5976](https://github.com/sqlalchemy/sqlalchemy/issues/5976) in [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)
-2. 🗣 Commented on [#1](https://github.com/janaSunrise/overflow-discord-bot/issues/1) in [janaSunrise/overflow-discord-bot](https://github.com/janaSunrise/overflow-discord-bot)
+1. 🎉 Merged PR [#8](https://github.com/janaSunrise/overflow-discord-bot/pull/8) in [janaSunrise/overflow-discord-bot](https://github.com/janaSunrise/overflow-discord-bot)
+2. 🎉 Merged PR [#6](https://github.com/janaSunrise/overflow-discord-bot/pull/6) in [janaSunrise/overflow-discord-bot](https://github.com/janaSunrise/overflow-discord-bot)
 <!--END_SECTION:activity-->
 </details>
 
