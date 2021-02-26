@@ -66,7 +66,7 @@ class SunritJana:
         "python": ["Flask", "Django", "Sanic", "Tornado"]
       },
       "cloud": ["GCP", "AWS", "Azure"],
-      "databases": ["PostgreSQL", "MySQL", "Redis"],
+      "databases": ["PostgreSQL", "MySQL", "Redis", "SQLite"],
       "DevSecOps": ["Docker", "CI/CD", "Linux administration", "Version control", "Virtualization"]
     }
     self.ask_me_about = ["Python", "C++", "Java", "Django", "Flask", "Web developement"]
@@ -117,7 +117,8 @@ sunrit.hello()
 
   - **Laptop**: HP pavilion (Intel I5)
   - **OS**: Ubuntu 20.04
-  - **Terminal**: ZSH with spaceship theme
+  - **Terminal**: ZSH with spaceship or powerlevel10k theme
+  - **Terminal editors**: Nano, VIM and NVIM, with palenight theme.
   - **Browser**: Mozilla firefox and Brave
   - **Code Editor**: VSCode, Pycharm and webstorm.
   - **Music Player**: Spotify
