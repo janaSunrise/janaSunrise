@@ -205,8 +205,8 @@ sunrit.hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/janaSunrise/overflow-discord-bot/pull/40) in [janaSunrise/overflow-discord-bot](https://github.com/janaSunrise/overflow-discord-bot)
-2. 🎉 Merged PR [#39](https://github.com/janaSunrise/overflow-discord-bot/pull/39) in [janaSunrise/overflow-discord-bot](https://github.com/janaSunrise/overflow-discord-bot)
+1. 🎉 Merged PR [#42](https://github.com/janaSunrise/overflow-discord-bot/pull/42) in [janaSunrise/overflow-discord-bot](https://github.com/janaSunrise/overflow-discord-bot)
+2. 🎉 Merged PR [#41](https://github.com/janaSunrise/overflow-discord-bot/pull/41) in [janaSunrise/overflow-discord-bot](https://github.com/janaSunrise/overflow-discord-bot)
 <!--END_SECTION:activity-->
 </details>
 
