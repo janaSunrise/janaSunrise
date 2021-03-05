@@ -14,7 +14,7 @@ Also to top it up, I'm a social maniac, active on discord and twitter, interacti
 **Here's some words I'd love to share**
 
 <details>
-  <summary>🥺 Please only read this, if you're actually interested in life lessons and inspirations.</summary>
+  <summary>Please only read this, if you're actually interested in life lessons and inspirations.</summary>
 
   <p align="left"> <img src="https://raw.githubusercontent.com/janaSunrise/janaSunrise/master/images/thought.png" alt="janasunrise" /> </p>
 
