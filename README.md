@@ -54,7 +54,7 @@ class SunritJana:
     self.most_active_at = [socials.Discord, socials.Twitter]
 
     # -- Tech stack section --
-    self.working_on = stuff.code.MACHINE_LEARNING
+    self.working_on = [stuff.code.MACHINE_LEARNING, stuff.security.HACKING_ETHICAL]
 
     self.tech_stack = {
       "code": ["Python", "C++", "Java", "Javascript", "SQL"],
@@ -68,7 +68,8 @@ class SunritJana:
       },
       "cloud": ["GCP", "AWS", "Azure"],
       "databases": ["PostgreSQL", "MySQL", "Redis", "SQLite"],
-      "DevSecOps": ["Docker", "CI/CD", "Linux administration", "Version control", "Virtualization"]
+      "DevSecOps": ["Docker", "CI/CD", "Linux administration", "Version control", "Virtualization"],
+      "security": ["Pentesting", "Cracking", "Ethical hacking"]
     }
     self.ask_me_about = ["Python", "C++", "Java", "Django", "Flask", "Web developement"]
 
