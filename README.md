@@ -4,7 +4,7 @@
 <img src= "https://octodex.github.com/images/waldocat.png" width="150px" Title="You found Waldo!" align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
-### Let's know me well!
+### Let's know me more!
 Hey there! I'm Sunrit Jana! A regular 15 year old developer learning Python, Java and C++. I am interested in learning full stack web development, frontend and also rust lang for my essential needs. I love to code, and also have several hobbies, and goals that I want to fulfil✌️
 
 I would love to name some people, but I'd keep them anonymous who helped me a lot with my journey, and still helping. I can't thank them enough, and I'm really grateful that I ever met them and interacted with them.
