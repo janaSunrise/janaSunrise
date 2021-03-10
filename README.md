@@ -26,6 +26,7 @@ Also to top it up, I'm a social maniac, active on discord and twitter, interacti
 import socials
 import stuff
 
+
 class SunritJana:
   def __init__(self) -> None:
     # -- Personal section --
@@ -45,7 +46,7 @@ class SunritJana:
     self.likes_doing = [
       "🏫 Teaching",
       "🤝 Helping people",
-      "🧑‍💻 Reviewing others' Code"
+      "🧑‍💻 Reviewing others' code"
     ]
     self.has_to_juggle = ["Studies", "Music", "Programming"]
 
@@ -69,7 +70,7 @@ class SunritJana:
       "cloud": ["GCP", "AWS", "Azure"],
       "databases": ["PostgreSQL", "MySQL", "Redis", "SQLite"],
       "DevSecOps": ["Docker", "CI/CD", "Linux administration", "Version control", "Virtualization"],
-      "security": ["Pentesting", "Cracking", "Ethical hacking"]
+      "Security": ["Pentesting", "Cracking", "Ethical hacking"]
     }
     self.ask_me_about = ["Python", "C++", "Java", "Django", "Flask", "Web developement"]
 
@@ -85,7 +86,7 @@ class SunritJana:
     self.fun_fact = "I'm an anime addict who prefers tea over coffee!"
   
   def __repr__(self) -> None:
-    return f'<Object SunritJana at 0x0A0001B2FCA77F70 working_on={self.working_on} active_at={self.most_active_at}> ask_about={self.ask_me_about}'
+    return f"<Object SunritJana at 0x0A0001B2FCA77F70 working_on={self.working_on} active_at={self.most_active_at}> ask_about={self.ask_me_about}"
     
   def __str__(self) -> None:
     return self.name
