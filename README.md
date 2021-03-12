@@ -1,5 +1,5 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sunrit Jana <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h2 align="center">An enthusiatic ML, python and hardcore full-stack developer from India</h2>
+<h2 align="center">An enthusiatic ML, python and hardcore full-stack developer and Hacking enthusiast from India</h2>
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="150px" Title="You found Waldo!" align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
