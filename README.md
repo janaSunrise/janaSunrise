@@ -226,8 +226,8 @@ sunrit.hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](https://github.com/janaSunrise/overflow-discord-bot/pull/62) in [janaSunrise/overflow-discord-bot](https://github.com/janaSunrise/overflow-discord-bot)
-2. 🎉 Merged PR [#9](https://github.com/janaSunrise/HypeMaths/pull/9) in [janaSunrise/HypeMaths](https://github.com/janaSunrise/HypeMaths)
+1. 🗣 Commented on [#805](https://github.com/sqlalchemy/alembic/issues/805) in [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic)
+2. 💪 Opened PR [#62](https://github.com/janaSunrise/overflow-discord-bot/pull/62) in [janaSunrise/overflow-discord-bot](https://github.com/janaSunrise/overflow-discord-bot)
 <!--END_SECTION:activity-->
 </details>
 
