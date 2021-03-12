@@ -227,7 +227,7 @@ sunrit.hello()
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#805](https://github.com/sqlalchemy/alembic/issues/805) in [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic)
-2. 💪 Opened PR [#62](https://github.com/janaSunrise/overflow-discord-bot/pull/62) in [janaSunrise/overflow-discord-bot](https://github.com/janaSunrise/overflow-discord-bot)
+2. 🗣 Commented on [#805](https://github.com/sqlalchemy/alembic/issues/805) in [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic)
 <!--END_SECTION:activity-->
 </details>
 
