@@ -247,17 +247,17 @@ sunrit.hello()
   <br />
 
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 882 Contributions in the Year 2021
+> 🏆 891 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 43 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -315,11 +315,11 @@ Linux                    16 hrs 36 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   26 repos            ████████████████░░░░░░░░░   65.0% 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
+Python                   27 repos            ████████████████░░░░░░░░░   65.85% 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
 
 ```
 
