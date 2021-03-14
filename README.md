@@ -226,7 +226,7 @@ sunrit.hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#805](https://github.com/sqlalchemy/alembic/issues/805) in [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic)
+1. ❗️ Opened issue [#4651](https://github.com/pypa/pipenv/issues/4651) in [pypa/pipenv](https://github.com/pypa/pipenv)
 2. 🗣 Commented on [#805](https://github.com/sqlalchemy/alembic/issues/805) in [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic)
 <!--END_SECTION:activity-->
 </details>
