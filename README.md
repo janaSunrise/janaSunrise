@@ -1,7 +1,7 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sunrit Jana <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h2 align="center">An enthusiatic ML, and hardcore full-stack developer and Security learner from India</h2>
 
-<img src= "https://octodex.github.com/images/waldocat.png" width="150px" Title="You found Waldo!" align="center">
+<img src= "https://octodex.github.com/images/codercat.jpg" width="150px" Title="You found Octo coder!" align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
 ### Let's know me more!
