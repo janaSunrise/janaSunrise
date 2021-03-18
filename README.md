@@ -225,8 +225,8 @@ sunrit.hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/janaSunrise/HypeMaths/pull/11) in [janaSunrise/HypeMaths](https://github.com/janaSunrise/HypeMaths)
-2. 🎉 Merged PR [#12](https://github.com/janaSunrise/HypeMaths/pull/12) in [janaSunrise/HypeMaths](https://github.com/janaSunrise/HypeMaths)
+1. 🗣 Commented on [#4651](https://github.com/pypa/pipenv/issues/4651) in [pypa/pipenv](https://github.com/pypa/pipenv)
+2. 🎉 Merged PR [#11](https://github.com/janaSunrise/HypeMaths/pull/11) in [janaSunrise/HypeMaths](https://github.com/janaSunrise/HypeMaths)
 <!--END_SECTION:activity-->
 </details>
 
