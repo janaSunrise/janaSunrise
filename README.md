@@ -121,7 +121,7 @@ sunrit.hello()
   - **Laptop**: HP pavilion (Intel I5)
   - **OS**: Ubuntu 20.04
   - **Terminal**: ZSH with spaceship or powerlevel10k theme
-  - **Terminal editors**: Nano, VIM and NVIM, with palenight theme.
+  - **Terminal-based editors**: Nano, VIM and NVIM, with ayu theme.
   - **Browser**: Mozilla firefox and Brave
   - **Code Editor**: VSCode, Pycharm and webstorm.
   - **Music Player**: Spotify
