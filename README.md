@@ -226,8 +226,8 @@ sunrit.hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/janaSunrise/HypixelIO/pull/16) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
-2. 🎉 Merged PR [#15](https://github.com/janaSunrise/HypixelIO/pull/15) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+1. 🎉 Merged PR [#16](https://github.com/janaSunrise/HypixelIO/pull/16) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 💪 Opened PR [#16](https://github.com/janaSunrise/HypixelIO/pull/16) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
 <!--END_SECTION:activity-->
 </details>
 
