@@ -228,8 +228,8 @@ sunrit.hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/rslay/ZeroChat/pull/43) in [rslay/ZeroChat](https://github.com/rslay/ZeroChat)
-2. 🗣 Commented on [#14](https://github.com/oke-aditya/py_fresh/issues/14) in [oke-aditya/py_fresh](https://github.com/oke-aditya/py_fresh)
+1. 🗣 Commented on [#14](https://github.com/oke-aditya/py_fresh/issues/14) in [oke-aditya/py_fresh](https://github.com/oke-aditya/py_fresh)
+2. 💪 Opened PR [#43](https://github.com/rslay/ZeroChat/pull/43) in [rslay/ZeroChat](https://github.com/rslay/ZeroChat)
 <!--END_SECTION:activity-->
 </details>
 
