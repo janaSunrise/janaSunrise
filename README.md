@@ -244,13 +244,13 @@ sunrit.hello()
 
 **🐱 My Github Data** 
 
-> 🏆 1,109 Contributions in the Year 2021
+> 🏆 1,110 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
