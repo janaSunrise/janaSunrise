@@ -219,8 +219,8 @@ sunrit.hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/oke-aditya/py_fresh/issues/14) in [oke-aditya/py_fresh](https://github.com/oke-aditya/py_fresh)
-2. 🎉 Merged PR [#1](https://github.com/janaSunrise/opencv2-image-filters/pull/1) in [janaSunrise/opencv2-image-filters](https://github.com/janaSunrise/opencv2-image-filters)
+1. 🎉 Merged PR [#7](https://github.com/janaSunrise/AIO-API/pull/7) in [janaSunrise/AIO-API](https://github.com/janaSunrise/AIO-API)
+2. 🗣 Commented on [#14](https://github.com/oke-aditya/py_fresh/issues/14) in [oke-aditya/py_fresh](https://github.com/oke-aditya/py_fresh)
 <!--END_SECTION:activity-->
 </details>
 
