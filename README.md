@@ -219,8 +219,8 @@ sunrit.hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/janaSunrise/AIO-API/pull/7) in [janaSunrise/AIO-API](https://github.com/janaSunrise/AIO-API)
-2. 🗣 Commented on [#14](https://github.com/oke-aditya/py_fresh/issues/14) in [oke-aditya/py_fresh](https://github.com/oke-aditya/py_fresh)
+1. 🎉 Merged PR [#19](https://github.com/janaSunrise/HypixelIO/pull/19) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 🎉 Merged PR [#20](https://github.com/janaSunrise/HypixelIO/pull/20) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
 <!--END_SECTION:activity-->
 </details>
 
