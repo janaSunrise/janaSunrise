@@ -221,8 +221,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/janaSunrise/HypixelIO/pull/21) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
-2. 🎉 Merged PR [#22](https://github.com/janaSunrise/HypixelIO/pull/22) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+1. 🗣 Commented on [#16](https://github.com/oke-aditya/py_fresh/issues/16) in [oke-aditya/py_fresh](https://github.com/oke-aditya/py_fresh)
+2. 🎉 Merged PR [#21](https://github.com/janaSunrise/HypixelIO/pull/21) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
 <!--END_SECTION:activity-->
 </details>
 
