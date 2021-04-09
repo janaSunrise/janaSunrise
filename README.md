@@ -72,6 +72,8 @@ class SunritJana:
             "email": "warriordefenderz@gmail.com",
             "github": "https://github.com/janaSunrise",
             "twitter": "https://twitter.com/janaSunrise",
+            "linkedin": "https://linkedin.com/in/SunritJana",
+            "discord": "https://discord.com/users/711194921683648523",
             "blog": "https://thedevden.hashnode.dev"
         }
 
