@@ -221,7 +221,7 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/oke-aditya/py_fresh/issues/16) in [oke-aditya/py_fresh](https://github.com/oke-aditya/py_fresh)
+1. 🗣 Commented on [#344](https://github.com/shankarpandala/lazypredict/issues/344) in [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict)
 2. 🗣 Commented on [#16](https://github.com/oke-aditya/py_fresh/issues/16) in [oke-aditya/py_fresh](https://github.com/oke-aditya/py_fresh)
 <!--END_SECTION:activity-->
 </details>
