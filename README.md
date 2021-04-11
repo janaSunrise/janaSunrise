@@ -7,7 +7,7 @@
 **Catch me in your terminal by hitting `npx sunrit`!**
 
 ### Let's know me more!
-Hey there! I am Sunrit Jana! Just a regular 15 year old developer learning Python, Web development, Rust and C++. I am interested in learning full stack web development, frontend and also rust lang for my essential needs. I love to code, and also have several hobbies, and goals that I want to fulfil! ✌️
+Hey there! I am Sunrit Jana! Just a regular developer learning Python, Web development, Rust and C++. I am interested in learning full stack web development, frontend and also rust lang for my essential needs. I love to code, and also have several hobbies, and goals that I want to fulfil! ✌️
 
 I would love to name some people, but I'd keep them anonymous who helped me a lot with my journey, and still helping. I can't thank them enough, and I'm really grateful that I ever met them and interacted with them.
 
@@ -54,11 +54,11 @@ class SunritJana:
             "code": ["Python", "C++", "Java", "Javascript", "SQL"],
             "code-branches": ["Machine Learning", "Automation", "CLI and GUI", "Web developement", "Networking"],
             "frontend": {
-                "css": ["Bootstrap", "Tailwind"],
-                "js": ["React", "NextJS", "Gatsby"]
+                "css": ["Bootstrap", "Bulma"],
+                "js": ["React", "NextJS", "Gatsby", "VueJS"]
             },
             "backend": {
-                "python": ["Flask", "Django", "Sanic", "Tornado"]
+                "python": ["Flask", "Django", "Sanic", "Tornado", "Fastify", "ExpressJS"]
             },
             "cloud": ["GCP", "AWS", "Azure"],
             "databases": ["PostgreSQL", "MySQL", "Redis", "SQLite"],
