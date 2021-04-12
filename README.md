@@ -221,8 +221,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/oke-aditya/py_fresh/issues/14) in [oke-aditya/py_fresh](https://github.com/oke-aditya/py_fresh)
-2. 🎉 Merged PR [#1](https://github.com/janaSunrise/bubble-sort-visualization/pull/1) in [janaSunrise/bubble-sort-visualization](https://github.com/janaSunrise/bubble-sort-visualization)
+1. 🎉 Merged PR [#28](https://github.com/janaSunrise/HypixelIO/pull/28) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 💪 Opened PR [#28](https://github.com/janaSunrise/HypixelIO/pull/28) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
 <!--END_SECTION:activity-->
 </details>
 
