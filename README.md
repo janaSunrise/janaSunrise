@@ -221,8 +221,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/janaSunrise/HypixelIO/pull/28) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
-2. 💪 Opened PR [#28](https://github.com/janaSunrise/HypixelIO/pull/28) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+1. 🎉 Merged PR [#4](https://github.com/Rohith04MVK/Mini-Keras/pull/4) in [Rohith04MVK/Mini-Keras](https://github.com/Rohith04MVK/Mini-Keras)
+2. 💪 Opened PR [#4](https://github.com/Rohith04MVK/Mini-Keras/pull/4) in [Rohith04MVK/Mini-Keras](https://github.com/Rohith04MVK/Mini-Keras)
 <!--END_SECTION:activity-->
 </details>
 
