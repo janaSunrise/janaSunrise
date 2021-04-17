@@ -27,7 +27,7 @@ class SunritJana:
         self.age = 15
         self.birthday = "27-10-2006"
 
-        self.tagline = "A guy who loves to learn with dreams to achieve something awesome! ☀️"
+        self.tagline = "A guy who loves to learn with dreams to achieve something awesome! 🌻"
 
         # -- About section --
         self.loves_to = [
