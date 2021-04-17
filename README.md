@@ -221,8 +221,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Deep-Alchemy/HypeMaths/pull/13) in [Deep-Alchemy/HypeMaths](https://github.com/Deep-Alchemy/HypeMaths)
-2. 💪 Opened PR [#13](https://github.com/Deep-Alchemy/HypeMaths/pull/13) in [Deep-Alchemy/HypeMaths](https://github.com/Deep-Alchemy/HypeMaths)
+1. 🎉 Merged PR [#1](https://github.com/janaSunrise/spotify-playing-readme/pull/1) in [janaSunrise/spotify-playing-readme](https://github.com/janaSunrise/spotify-playing-readme)
+2. 🗣 Commented on [#1](https://github.com/janaSunrise/spotify-playing-readme/issues/1) in [janaSunrise/spotify-playing-readme](https://github.com/janaSunrise/spotify-playing-readme)
 <!--END_SECTION:activity-->
 </details>
 
