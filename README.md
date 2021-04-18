@@ -4,7 +4,7 @@
 <img src= "https://octodex.github.com/images/waldocat.png" width="150px" Title="You found WALDO!" align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
-**Catch me in your terminal by hitting `npx sunrit`!**
+**Catch me in your terminal by hitting the command `npx sunrit`!**
 
 ### Let's know me more!
 Hey there! I am Sunrit Jana! Just a regular developer learning Python, Web development, Rust and C++. I am interested in learning full stack web development, frontend and also rust lang for my essential needs. I love to code, and also have several hobbies, and goals that I want to fulfil! ✌️
