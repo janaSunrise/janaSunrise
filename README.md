@@ -221,8 +221,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/janaSunrise/spotify-playing-readme/pull/1) in [janaSunrise/spotify-playing-readme](https://github.com/janaSunrise/spotify-playing-readme)
-2. 🗣 Commented on [#1](https://github.com/janaSunrise/spotify-playing-readme/issues/1) in [janaSunrise/spotify-playing-readme](https://github.com/janaSunrise/spotify-playing-readme)
+1. 🎉 Merged PR [#34](https://github.com/janaSunrise/HypixelIO/pull/34) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 🎉 Merged PR [#33](https://github.com/janaSunrise/HypixelIO/pull/33) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
 <!--END_SECTION:activity-->
 </details>
 
