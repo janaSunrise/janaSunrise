@@ -11,7 +11,7 @@ Hey there! I am Sunrit Jana! Just a regular developer learning Python, Web devel
 
 I would love to name some people, but I'd keep them anonymous who helped me a lot with my journey, and still helping. I can't thank them enough, and I'm really grateful that I ever met them and interacted with them.
 
-Also, I'm a social maniac, active on discord and twitter, interacting with the dev community, or probably coding something interesting, or discussing with my friends :D
+Moreover, I'm a social maniac, active on discord and twitter, interacting with the dev community, or probably coding something interesting, or discussing with my friends! :D
 
 **And, here's some code that I'd love to share with you 😁**
 
