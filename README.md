@@ -231,7 +231,7 @@ sunrit()
  
   <p><img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" /></p>
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janasunrise&theme=algolia&fire=cyan" alt="janaSunrise" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janaSunrise&theme=algolia" alt="janaSunrise" /></p>
   
   <p align="left"> <a href="https://github.com/janaSunrise"><img src="https://github-profile-trophy.vercel.app/?username=janaSunrise" alt="janaSunrise" /></a> </p>
 
