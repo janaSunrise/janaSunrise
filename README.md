@@ -39,16 +39,17 @@ class SunritJana:
         self.likes_doing = [
             "🏫 Teaching",
             "🤝 Helping people",
-            "🧑‍💻 Reviewing others' code"
+            "🧑‍💻 Reviewing others' code",
+            "🚀 Learning!"
         ]
-        self.has_to_juggle = ["Studies", "Music", "Programming"]
+        self.has_to_juggle = ["Studies", "Music", "Programming", "Learning"]
 
-        self.loves_to_build = [stuff.Cool, stuff.Innovative]
+        self.loves_to_build = [stuff.Cool, stuff.Innovative, stuff.Awesome]
 
-        self.most_active_at = [socials.Discord, socials.Twitter]
+        self.most_active_at = [socials.Discord, socials.Twitter, socials.Github]
 
         # -- Tech stack section --
-        self.working_on = [stuff.code.MACHINE_LEARNING, stuff.security.HACKING_ETHICAL]
+        self.working_on = [stuff.code.MACHINE_LEARNING, stuff.security.ETHICAL_HACKING, stuff.code.WEB_DEV]
 
         self.tech_stack = {
             "code": ["Python", "C++", "Java", "Javascript", "SQL"],
