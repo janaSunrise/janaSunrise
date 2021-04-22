@@ -235,6 +235,10 @@ sunrit()
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janaSunrise&theme=algolia" alt="janaSunrise" /></p>
   
   <p align="left"> <a href="https://github.com/janaSunrise"><img src="https://github-profile-trophy.vercel.app/?username=janaSunrise" alt="janaSunrise" /></a> </p>
+  
+  ### Contribution Graph
+  
+  <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=janaSunrise&theme=github" alt="GH Contribution graph" /></p> 
 
 </details>
 
