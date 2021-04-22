@@ -222,8 +222,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/pytorch/cppdocs/issues/13) in [pytorch/cppdocs](https://github.com/pytorch/cppdocs)
-2. 🗣 Commented on [#83](https://github.com/DenverCoder1/github-readme-streak-stats/issues/83) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. ❗️ Opened issue [#59](https://github.com/max-programming/max-todos/issues/59) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+2. 🎉 Merged PR [#1](https://github.com/janaSunrise/Fashion-MNIST/pull/1) in [janaSunrise/Fashion-MNIST](https://github.com/janaSunrise/Fashion-MNIST)
 <!--END_SECTION:activity-->
 </details>
 
