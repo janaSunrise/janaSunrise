@@ -224,8 +224,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/janaSunrise/nextjs-quickstart-template/pull/2) in [janaSunrise/nextjs-quickstart-template](https://github.com/janaSunrise/nextjs-quickstart-template)
-2. ❗️ Opened issue [#59](https://github.com/max-programming/max-todos/issues/59) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. 🎉 Merged PR [#35](https://github.com/janaSunrise/HypixelIO/pull/35) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 🎉 Merged PR [#2](https://github.com/janaSunrise/nextjs-quickstart-template/pull/2) in [janaSunrise/nextjs-quickstart-template](https://github.com/janaSunrise/nextjs-quickstart-template)
 <!--END_SECTION:activity-->
 </details>
 
