@@ -224,8 +224,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/janaSunrise/2d-platformer-game-godot/pull/1) in [janaSunrise/2d-platformer-game-godot](https://github.com/janaSunrise/2d-platformer-game-godot)
-2. 🎉 Merged PR [#35](https://github.com/janaSunrise/HypixelIO/pull/35) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+1. 🎉 Merged PR [#36](https://github.com/janaSunrise/HypixelIO/pull/36) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 🎉 Merged PR [#37](https://github.com/janaSunrise/HypixelIO/pull/37) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
 <!--END_SECTION:activity-->
 </details>
 
