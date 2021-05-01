@@ -119,6 +119,14 @@ sunrit()
 
 <br />
 
+## 🔥 Streak stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janaSunrise&theme=algolia" alt="janaSunrise" /><
+</p>
+
+<br />
+
 ### ⚡ Some Good Stats
 
 <details>
@@ -241,13 +249,13 @@ sunrit()
  
   <p><img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" /></p>
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janaSunrise&theme=algolia" alt="janaSunrise" /></p>
-  
   <p align="left"> <a href="https://github.com/janaSunrise"><img src="https://github-profile-trophy.vercel.app/?username=janaSunrise" alt="janaSunrise" /></a> </p>
   
   ### Contribution Graph
   
   <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=janaSunrise&theme=github" alt="GH Contribution graph" /></p> 
+  
+  <br />
 
 </details>
 
