@@ -122,7 +122,7 @@ sunrit()
 ## 🔥 Streak stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janaSunrise&theme=algolia" alt="janaSunrise" /><
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janaSunrise&theme=algolia" alt="janaSunrise" />
 </p>
 
 <br />
@@ -136,9 +136,10 @@ sunrit()
   - **OS**: Ubuntu 20.04
   - **Terminal**: ZSH with spaceship or powerlevel10k theme
   - **Terminal-based editors**: Nano, VIM and NVIM, with ayu theme.
-  - **Browser**: Mozilla firefox and Brave
-  - **Code Editor**: VSCode, Pycharm and webstorm.
+  - **Browser**: Mozilla firefox and Microsoft Edge
+  - **Code Editor**: VSCode, Jetbrains IDE, Vim.
   - **Music Player**: Spotify
+  - **Note software**: Notion
 </details>
 
 <details>
