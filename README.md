@@ -1,5 +1,10 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sunrit Jana <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h2 align="center">An enthusiatic Machine learning, Full stack developer and CyberSecurity learner from India</h2>
+
+<div align="center">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=2AF7DF&center=true&lines=A+passionate+developer+from+India;An+Enthusiastic+ML+And+Python+Developer;Passionate+Cybersecurity+learner;A+learning+addict" />
+</div>
+
+> Remember this: Life's all about Ups and Downs, Wins and loses. Never be disappointed, Keep moving forward :)
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="150px" Title="You found WALDO!" align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
@@ -101,12 +106,24 @@ sunrit()
 
 ### 🔗 Connect with me:
 
+<p align="center">
+    
 [<img align="left" alt="Sunrit Jana" src="https://img.shields.io/badge/Website-02ccf7?style=for-the-badge&logo=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg&logoColor=white" />][website]
 [<img align="left" alt="Sunrit Jana" src="https://img.shields.io/badge/Octo%20Profile-00FFFF?style=for-the-badge&logo=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg&logoColor=white" />][octoprofile]
 [<img align="left" alt="Sunrit Jana | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="Sunrit Jana | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Sunrit Jana | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Sunrit Jana | Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />][blog]
+
+</p>
+
+<br />
+
+## 🔥 Streak stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janaSunrise&theme=algolia" alt="janaSunrise" /><
+</p>
 
 <br />
 
@@ -222,8 +239,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/pytorch/cppdocs/issues/13) in [pytorch/cppdocs](https://github.com/pytorch/cppdocs)
-2. 🗣 Commented on [#83](https://github.com/DenverCoder1/github-readme-streak-stats/issues/83) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🎉 Merged PR [#38](https://github.com/janaSunrise/HypixelIO/pull/38) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 🎉 Merged PR [#1](https://github.com/janaSunrise/opencv-detection-python/pull/1) in [janaSunrise/opencv-detection-python](https://github.com/janaSunrise/opencv-detection-python)
 <!--END_SECTION:activity-->
 </details>
 
@@ -232,9 +249,13 @@ sunrit()
  
   <p><img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" /></p>
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janaSunrise&theme=algolia" alt="janaSunrise" /></p>
-  
   <p align="left"> <a href="https://github.com/janaSunrise"><img src="https://github-profile-trophy.vercel.app/?username=janaSunrise" alt="janaSunrise" /></a> </p>
+  
+  ### Contribution Graph
+  
+  <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=janaSunrise&theme=github" alt="GH Contribution graph" /></p> 
+  
+  <br />
 
 </details>
 
