@@ -4,8 +4,6 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=2AF7DF&center=true&lines=A+passionate+developer+from+India;An+Enthusiastic+ML+And+Python+Developer;Passionate+Cybersecurity+learner;A+learning+addict" />
 </div>
 
-<hr />
-
 > Remember this: Life's all about Ups and Downs, Wins and loses. Never be disappointed, Keep moving forward :)
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="150px" Title="You found WALDO!" align="center">
