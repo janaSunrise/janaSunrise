@@ -1,5 +1,10 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sunrit Jana <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h2 align="center">An enthusiatic Machine learning, Full stack developer and CyberSecurity learner from India</h2>
+
+<div align="center">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=2AF7DF&center=true&lines=A+passionate+developer+from+India;An+Enthusiastic+ML+And+Python+Developer;Passionate+Cybersecurity+learner;A+learning+addict" />
+</div>
+
+<hr />
 
 > Remember this: Life's all about Ups and Downs, Wins and loses. Never be disappointed, Keep moving forward :)
 
@@ -103,12 +108,16 @@ sunrit()
 
 ### 🔗 Connect with me:
 
+<p align="center">
+    
 [<img align="left" alt="Sunrit Jana" src="https://img.shields.io/badge/Website-02ccf7?style=for-the-badge&logo=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg&logoColor=white" />][website]
 [<img align="left" alt="Sunrit Jana" src="https://img.shields.io/badge/Octo%20Profile-00FFFF?style=for-the-badge&logo=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg&logoColor=white" />][octoprofile]
 [<img align="left" alt="Sunrit Jana | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="Sunrit Jana | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Sunrit Jana | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Sunrit Jana | Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />][blog]
+
+</p>
 
 <br />
 
