@@ -241,7 +241,7 @@ sunrit()
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#219](https://github.com/vinceliuice/WhiteSur-gtk-theme/issues/219) in [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
-2. ❗️ Opened issue [#219](https://github.com/vinceliuice/WhiteSur-gtk-theme/issues/219) in [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
+2. 🗣 Commented on [#219](https://github.com/vinceliuice/WhiteSur-gtk-theme/issues/219) in [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 <!--END_SECTION:activity-->
 </details>
 
