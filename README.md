@@ -240,8 +240,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/janaSunrise/HypixelIO/pull/38) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
-2. 🎉 Merged PR [#1](https://github.com/janaSunrise/opencv-detection-python/pull/1) in [janaSunrise/opencv-detection-python](https://github.com/janaSunrise/opencv-detection-python)
+1. ❗️ Opened issue [#219](https://github.com/vinceliuice/WhiteSur-gtk-theme/issues/219) in [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
+2. 🎉 Merged PR [#38](https://github.com/janaSunrise/HypixelIO/pull/38) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
 <!--END_SECTION:activity-->
 </details>
 
