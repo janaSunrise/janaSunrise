@@ -240,8 +240,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#219](https://github.com/vinceliuice/WhiteSur-gtk-theme/issues/219) in [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
-2. 🗣 Commented on [#219](https://github.com/vinceliuice/WhiteSur-gtk-theme/issues/219) in [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
+1. 🎉 Merged PR [#39](https://github.com/janaSunrise/HypixelIO/pull/39) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 🎉 Merged PR [#40](https://github.com/janaSunrise/HypixelIO/pull/40) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
 <!--END_SECTION:activity-->
 </details>
 
