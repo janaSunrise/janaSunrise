@@ -7,7 +7,6 @@
 > Remember this: Life's all about Ups and Downs, Wins and loses. Never be disappointed, Keep moving forward :)
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="150px" Title="You found WALDO!" align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
 **Catch me in your terminal by hitting the command `npx sunrit`!**
 
@@ -29,7 +28,6 @@ class SunritJana:
     def __init__(self) -> None:
         # -- Personal section --
         self.name = "Sunrit Jana"
-        self.age = 15
         self.birthday = "27-10-2006"
 
         self.tagline = "A guy who loves to learn with dreams to achieve something awesome! 🌻"
@@ -48,9 +46,7 @@ class SunritJana:
             "🚀 Learning!"
         ]
         self.has_to_juggle = ["Studies", "Music", "Programming", "Learning"]
-
         self.loves_to_build = [stuff.Cool, stuff.Innovative, stuff.Awesome]
-
         self.most_active_at = [socials.Discord, socials.Twitter, socials.Github]
 
         # -- Tech stack section --
