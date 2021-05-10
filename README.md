@@ -240,8 +240,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Faholan/Various/pull/5) in [Faholan/Various](https://github.com/Faholan/Various)
-2. 🎉 Merged PR [#39](https://github.com/janaSunrise/HypixelIO/pull/39) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+1. 🎉 Merged PR [#41](https://github.com/janaSunrise/HypixelIO/pull/41) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 🎉 Merged PR [#42](https://github.com/janaSunrise/HypixelIO/pull/42) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
 <!--END_SECTION:activity-->
 </details>
 
