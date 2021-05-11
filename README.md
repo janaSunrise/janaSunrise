@@ -45,7 +45,6 @@ class SunritJana:
             "🧑‍💻 Reviewing others' code",
             "🚀 Learning!"
         ]
-        self.has_to_juggle = ["Studies", "Music", "Programming", "Learning"]
         self.loves_to_build = [stuff.Cool, stuff.Innovative, stuff.Awesome]
         self.most_active_at = [socials.Discord, socials.Twitter, socials.Github]
 
