@@ -235,8 +235,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7389](https://github.com/education/GitHubGraduation-2021/issues/7389) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-2. 🗣 Commented on [#7389](https://github.com/education/GitHubGraduation-2021/issues/7389) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+1. 🎉 Merged PR [#46](https://github.com/janaSunrise/HypixelIO/pull/46) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. ❗️ Opened issue [#1232](https://github.com/willmcgugan/rich/issues/1232) in [willmcgugan/rich](https://github.com/willmcgugan/rich)
 <!--END_SECTION:activity-->
 </details>
 
