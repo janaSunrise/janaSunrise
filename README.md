@@ -235,8 +235,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/janaSunrise/HypixelIO/pull/46) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
-2. ❗️ Opened issue [#1232](https://github.com/willmcgugan/rich/issues/1232) in [willmcgugan/rich](https://github.com/willmcgugan/rich)
+1. 🗣 Commented on [#1232](https://github.com/willmcgugan/rich/issues/1232) in [willmcgugan/rich](https://github.com/willmcgugan/rich)
+2. 🎉 Merged PR [#46](https://github.com/janaSunrise/HypixelIO/pull/46) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
 <!--END_SECTION:activity-->
 </details>
 
