@@ -235,7 +235,7 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1232](https://github.com/willmcgugan/rich/issues/1232) in [willmcgugan/rich](https://github.com/willmcgugan/rich)
+1. 🎉 Merged PR [#2](https://github.com/Deep-Alchemy/DiscordGameEngine/pull/2) in [Deep-Alchemy/DiscordGameEngine](https://github.com/Deep-Alchemy/DiscordGameEngine)
 2. 🗣 Commented on [#1232](https://github.com/willmcgugan/rich/issues/1232) in [willmcgugan/rich](https://github.com/willmcgugan/rich)
 <!--END_SECTION:activity-->
 </details>
