@@ -235,8 +235,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Deep-Alchemy/DiscordGameEngine/pull/3) in [Deep-Alchemy/DiscordGameEngine](https://github.com/Deep-Alchemy/DiscordGameEngine)
-2. 🎉 Merged PR [#2](https://github.com/Deep-Alchemy/DiscordGameEngine/pull/2) in [Deep-Alchemy/DiscordGameEngine](https://github.com/Deep-Alchemy/DiscordGameEngine)
+1. 🎉 Merged PR [#47](https://github.com/janaSunrise/HypixelIO/pull/47) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 🎉 Merged PR [#3](https://github.com/Deep-Alchemy/DiscordGameEngine/pull/3) in [Deep-Alchemy/DiscordGameEngine](https://github.com/Deep-Alchemy/DiscordGameEngine)
 <!--END_SECTION:activity-->
 </details>
 
