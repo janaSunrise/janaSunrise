@@ -235,8 +235,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/janaSunrise/HypixelIO/pull/47) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
-2. 🎉 Merged PR [#3](https://github.com/Deep-Alchemy/DiscordGameEngine/pull/3) in [Deep-Alchemy/DiscordGameEngine](https://github.com/Deep-Alchemy/DiscordGameEngine)
+1. ❗️ Closed issue [#1](https://github.com/janaSunrise/python-brainfuck-interpreter/issues/1) in [janaSunrise/python-brainfuck-interpreter](https://github.com/janaSunrise/python-brainfuck-interpreter)
+2. 🗣 Commented on [#1](https://github.com/janaSunrise/python-brainfuck-interpreter/issues/1) in [janaSunrise/python-brainfuck-interpreter](https://github.com/janaSunrise/python-brainfuck-interpreter)
 <!--END_SECTION:activity-->
 </details>
 
