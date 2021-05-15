@@ -45,14 +45,14 @@ class SunritJana:
             "🧑‍💻 Reviewing others' code",
             "🚀 Learning!"
         ]
-        self.loves_to_build = [stuff.Cool, stuff.Innovative, stuff.Awesome]
-        self.most_active_at = [socials.Discord, socials.Twitter, socials.Github]
+        self.loves_to_build = [stuff.COOL, stuff.INNOVATIVE, stuff.AWESOME]
+        self.most_active_at = [socials.DISCORD, socials.TWITTER, socials.GITHUB]
 
         # -- Tech stack section --
-        self.working_on = [stuff.code.MACHINE_LEARNING, stuff.security.ETHICAL_HACKING, stuff.code.WEB_DEV]
+        self.working_on = [stuff.code.MACHINE_LEARNING, stuff.security.ETHICAL_HACKING, stuff.code.WEB_DEVELOPMENT]
 
         self.tech_stack = {
-            "code": ["Python", "C++", "Java", "Javascript", "SQL"],
+            "code": ["Python", "C++", "Java", "JavaScript", "SQL"],
             "code-branches": ["Machine Learning", "Automation", "CLI and GUI", "Web developement", "Networking"],
             "frontend": {
                 "css": ["Bootstrap", "Bulma"],
