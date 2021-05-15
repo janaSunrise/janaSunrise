@@ -235,8 +235,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Deep-Alchemy/Mini-Keras/pull/6) in [Deep-Alchemy/Mini-Keras](https://github.com/Deep-Alchemy/Mini-Keras)
-2. ❗️ Closed issue [#1](https://github.com/janaSunrise/python-brainfuck-interpreter/issues/1) in [janaSunrise/python-brainfuck-interpreter](https://github.com/janaSunrise/python-brainfuck-interpreter)
+1. ❗️ Opened issue [#1235](https://github.com/willmcgugan/rich/issues/1235) in [willmcgugan/rich](https://github.com/willmcgugan/rich)
+2. 💪 Opened PR [#6](https://github.com/Deep-Alchemy/Mini-Keras/pull/6) in [Deep-Alchemy/Mini-Keras](https://github.com/Deep-Alchemy/Mini-Keras)
 <!--END_SECTION:activity-->
 </details>
 
