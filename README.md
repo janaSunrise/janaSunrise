@@ -4,20 +4,21 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=2AF7DF&center=true&lines=A+passionate+developer+from+India;An+Enthusiastic+ML+And+Python+Developer;Passionate+Cybersecurity+learner;A+learning+addict" />
 </div>
 
-> Remember this: Life is all about ups and downs, Wins and loses. Never be disappointed, Keep moving forward :)
+> Remember this: Life is all about ups and downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="150px" Title="You found WALDO!" align="center">
 
 **Catch me in your terminal by hitting the command `npx sunrit`!**
 
 ### Let's know me more!
+
 Hey there! I am Sunrit Jana! Just a passionate developer learning Python, Machine learning, Web development, C++ and More! I am interested in learning full stack web development, frontend and also Rust language. I love not only to code, but also have several hobbies, and goals that I want to fulfil ✌️
 
 I would love to name some people, but I would keep them anonymous who helped me a lot with my journey, and still helping. I can't thank them enough, and I'm really grateful that I ever met them and interacted with them.
 
 Moreover, I'm a social maniac, active on discord and twitter, interacting with the dev community, or probably coding something interesting, or discussing with my friends! :D
 
-**And, here's some code that I'd love to share with you 😁**
+**Aaaand, here's some code that I'd love to share with you! 😁**
 
 ```python
 import socials
@@ -127,8 +128,8 @@ sunrit()
 <details>
   <summary>⚙️ My workspace setup</summary>
 
-  - **Laptop**: HP pavilion (Intel I5)
-  - **OS**: Ubuntu 20.04
+  - **Laptop**: HP pavilion (Intel i5)
+  - **OS**: Ubuntu 20.04 / Arch Linux
   - **Terminal**: ZSH with spaceship or powerlevel10k theme
   - **Terminal-based editors**: Nano, VIM and NVIM, with ayu theme.
   - **Browser**: Mozilla firefox and Microsoft Edge
