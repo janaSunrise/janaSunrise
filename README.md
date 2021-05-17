@@ -8,6 +8,8 @@
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="150px" Title="You found WALDO!" align="center">
 
+**Catch me in your terminal by hitting the command `npx sunrit`!**
+
 ### Let's know me more!
 
 Hey there! I am Sunrit Jana! Just a passionate developer learning Python, Machine learning, Web development, C++ and More! I am interested in learning full stack web development, frontend and also Rust language. I love not only to code, but also have several hobbies, and goals that I want to fulfil ✌️
@@ -16,9 +18,7 @@ I would love to name some people, but I would keep them anonymous who helped me 
 
 Moreover, I'm a social maniac, active on discord and twitter, interacting with the dev community, or probably coding something interesting, or discussing with my friends! :D
 
-**Catch me in your terminal by hitting the command `npx sunrit`!**
-
-**Aaaand, here's some code that I'd love to share with you! 😁**
+**And here is some code that I'd love to share with you! 😁**
 
 ```python
 import socials
@@ -34,18 +34,20 @@ class SunritJana:
         self.tagline = "A guy who loves to learn with dreams to achieve something awesome! 🌻"
 
         # -- About section --
-        self.loves_to = [
-            "💻 Code",
-            "🎸 Play guitar",
-            "🏫 Play with maths",
-            "🔭 Explore new things"
-        ]
-        self.likes_doing = [
-            "🏫 Teaching",
-            "🤝 Helping people",
-            "🧑‍💻 Reviewing others' code",
-            "🚀 Learning!"
-        ]
+        self.about = {
+            "loves_to": [
+                "💻 Code",
+                "🎸 Play guitar",
+                "🏫 Play with maths",
+                "🔭 Explore new things"
+            ],
+            "likes_doing": [
+                "🏫 Teaching",
+                "🤝 Helping people",
+                "💻 Reviewing others' code",
+                "🚀 Learning!"
+            ]
+        }
         self.loves_to_build = [stuff.COOL, stuff.INNOVATIVE, stuff.AWESOME]
         self.most_active_at = [socials.DISCORD, socials.TWITTER, socials.GITHUB]
 
