@@ -236,8 +236,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Deep-Alchemy/Mini-Keras/pull/6) in [Deep-Alchemy/Mini-Keras](https://github.com/Deep-Alchemy/Mini-Keras)
-2. ❗️ Opened issue [#1235](https://github.com/willmcgugan/rich/issues/1235) in [willmcgugan/rich](https://github.com/willmcgugan/rich)
+1. 💪 Opened PR [#17](https://github.com/brainboxdotcc/DPP/pull/17) in [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP)
+2. 🎉 Merged PR [#6](https://github.com/Deep-Alchemy/Mini-Keras/pull/6) in [Deep-Alchemy/Mini-Keras](https://github.com/Deep-Alchemy/Mini-Keras)
 <!--END_SECTION:activity-->
 </details>
 
