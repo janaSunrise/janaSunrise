@@ -8,8 +8,6 @@
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="150px" Title="You found WALDO!" align="center">
 
-**Catch me in your terminal by hitting the command `npx sunrit`!**
-
 ### Let's know me more!
 
 Hey there! I am Sunrit Jana! Just a passionate developer learning Python, Machine learning, Web development, C++ and More! I am interested in learning full stack web development, frontend and also Rust language. I love not only to code, but also have several hobbies, and goals that I want to fulfil ✌️
@@ -17,6 +15,8 @@ Hey there! I am Sunrit Jana! Just a passionate developer learning Python, Machin
 I would love to name some people, but I would keep them anonymous who helped me a lot with my journey, and still helping. I can't thank them enough, and I'm really grateful that I ever met them and interacted with them.
 
 Moreover, I'm a social maniac, active on discord and twitter, interacting with the dev community, or probably coding something interesting, or discussing with my friends! :D
+
+**Catch me in your terminal by hitting the command `npx sunrit`!**
 
 **Aaaand, here's some code that I'd love to share with you! 😁**
 
