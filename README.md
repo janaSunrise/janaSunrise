@@ -8,7 +8,7 @@
 
 **Catch me in your terminal by hitting the command `npx sunrit`!**
 
-### Let's know me more!
+### Let's know about me more!
 
 Hey there! I am Sunrit Jana! Just a passionate developer learning Python, Machine learning, Web development, C++ and More! I am interested in learning full stack web development, frontend and also Rust language. I love not only to code, but also have several hobbies, and goals that I want to fulfil ✌️
 
@@ -16,7 +16,7 @@ I would love to name some people, but I would keep them anonymous who helped me 
 
 Moreover, I'm a social maniac, active on discord and twitter, interacting with the dev community, or probably coding something interesting, or discussing with my friends! :D
 
-**And here is some code that I'd love to share with you! 😁**
+**And here is some code, that I would love to share with you! 😁**
 
 ```python
 import socials
@@ -47,10 +47,10 @@ class SunritJana:
             ]
         }
         self.loves_to_build = [stuff.COOL, stuff.INNOVATIVE, stuff.AWESOME]
-        self.most_active_at = [socials.DISCORD, socials.TWITTER, socials.GITHUB]
+        self.most_active_at = [socials.DISCORD, socials.TWITTER, socials.GITHUB, socials.LINKEDIN]
 
         # -- Tech stack section --
-        self.working_on = [stuff.code.MACHINE_LEARNING, stuff.security.ETHICAL_HACKING, stuff.code.WEB_DEVELOPMENT]
+        self.working_on = [stuff.code.MACHINE_LEARNING, stuff.code.WEB_DEVELOPMENT, stuff.security.ETHICAL_HACKING]
 
         self.tech_stack = {
             "code": ["Python", "C++", "Java", "JavaScript", "SQL"],
@@ -60,14 +60,14 @@ class SunritJana:
                 "js": ["React", "NextJS", "Gatsby", "VueJS"]
             },
             "backend": {
-                "python": ["Flask", "Django", "Sanic", "Tornado", "Fastify", "ExpressJS"]
+                "python": ["Flask", "Django", "Sanic", "Fastify", "ExpressJS"]
             },
             "cloud": ["GCP", "AWS", "Azure"],
             "databases": ["PostgreSQL", "MySQL", "Redis", "SQLite"],
             "DevSecOps": ["Docker", "CI/CD", "Linux Administration", "Version Control [VCS]", "Virtualization"],
-            "Security": ["Pentesting", "Cracking", "Ethical hacking"]
+            "Security": ["Pentesting", "Cracking", "Ethical hacking", "Networking"]
         }
-        self.ask_me_about = ["Python", "C++", "Java", "Django", "Flask", "Web developement"]
+        self.ask_me_about = ["C++", "Python", "Java", "Full Stack development", "DevSecOps", "Ethical hacking"]
 
         # -- Social media section --
         self.social_media = {
