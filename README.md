@@ -1,8 +1,6 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sunrit Jana <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<div align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=2AF7DF&center=true&lines=A+passionate+developer+from+India;An+Enthusiastic+ML+And+Python+Developer;Passionate+Cybersecurity+learner;A+learning+addict" />
-</div>
+<h3 align="center">An enthusiatic Machine learning dev, Full stack developer and CyberSec practitioner from India</h3>
 
 > Remember this: Life is all about ups and downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
