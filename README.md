@@ -1,6 +1,11 @@
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sunrit Jana <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">
+    Hey there 
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+    I'm Sunrit Jana 
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h1>
 
-<h3 align="center">An enthusiatic Machine learning dev, Full stack developer and CyberSec practitioner from India</h3>
+<h3 align="center">An enthusiatic Machine learning dev, Full stack developer and Cyber Security practitioner from India</h3>
 
 > Remember this: Life is all about ups and downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
