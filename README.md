@@ -241,8 +241,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/janaSunrise/HypixelIO/pull/49) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
-2. 🎉 Merged PR [#50](https://github.com/janaSunrise/HypixelIO/pull/50) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+1. 🎉 Merged PR [#24](https://github.com/brainboxdotcc/DPP/pull/24) in [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP)
+2. 🗣 Commented on [#24](https://github.com/brainboxdotcc/DPP/issues/24) in [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP)
 <!--END_SECTION:activity-->
 </details>
 
