@@ -7,7 +7,7 @@
 
 <h3 align="center">An enthusiatic Machine learning dev, Full stack developer and Cyber Security practitioner from India</h3>
 
-> Remember this: Life is all about ups and downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
+> Remember, Life is all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="150px" Title="You found WALDO!" align="center">
 
