@@ -241,8 +241,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/brainboxdotcc/DPP/pull/24) in [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP)
-2. 🗣 Commented on [#24](https://github.com/brainboxdotcc/DPP/issues/24) in [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP)
+1. 🎉 Merged PR [#26](https://github.com/brainboxdotcc/DPP/pull/26) in [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP)
+2. 🗣 Commented on [#26](https://github.com/brainboxdotcc/DPP/issues/26) in [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP)
 <!--END_SECTION:activity-->
 </details>
 
