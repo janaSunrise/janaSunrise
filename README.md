@@ -241,8 +241,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/janaSunrise/turtle-art/pull/2) in [janaSunrise/turtle-art](https://github.com/janaSunrise/turtle-art)
-2. 🎉 Merged PR [#26](https://github.com/brainboxdotcc/DPP/pull/26) in [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP)
+1. ❗️ Closed issue [#5](https://github.com/realpython/rptree/issues/5) in [realpython/rptree](https://github.com/realpython/rptree)
+2. ❌ Closed PR [#2](https://github.com/janaSunrise/turtle-art/pull/2) in [janaSunrise/turtle-art](https://github.com/janaSunrise/turtle-art)
 <!--END_SECTION:activity-->
 </details>
 
