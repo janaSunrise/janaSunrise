@@ -68,8 +68,8 @@ class SunritJana:
                 "python": ["Flask", "Django", "Sanic", "Fastify", "ExpressJS"]
             },
             "cloud": ["GCP", "AWS", "Azure"],
-            "databases": ["PostgreSQL", "MySQL", "Redis", "SQLite"],
-            "DevSecOps": ["Docker", "CI/CD", "Linux Administration", "Version Control [VCS]", "Virtualization"],
+            "databases": ["PostgreSQL", "MySQL", "Redis", "SQLite", "MongoDB", "Firebase", "Supabase"],
+            "DevSecOps": ["Docker", "CI / CD", "Linux System Administration", "Version Control System", "Virtualization"],
             "Security": ["Pentesting", "Cracking", "Ethical hacking", "Networking"]
         }
         self.ask_me_about = ["C++", "Python", "Java", "Full Stack development", "DevSecOps", "Ethical hacking"]
