@@ -134,9 +134,9 @@ sunrit()
   - **Laptop**: HP pavilion (Intel i5)
   - **OS**: Ubuntu 20.04 / Arch Linux
   - **Terminal**: ZSH with spaceship or powerlevel10k theme
-  - **Terminal-based editors**: Nano, VIM and NVIM, with ayu theme.
-  - **Browser**: Mozilla firefox and Microsoft Edge
-  - **Code Editor**: VSCode, Jetbrains IDE, Vim.
+  - **Terminal-based editors**: Nano, NeoVim with ayu theme.
+  - **Browser**: Mozilla firefox and Microsoft Edge.
+  - **Code Editor**: VSCode, Jetbrains IDE, NeoVim.
   - **Music Player**: Spotify
   - **Note software**: Notion
 </details>
