@@ -239,8 +239,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/janaSunrise/HypixelIO/pull/52) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
-2. 🎉 Merged PR [#55](https://github.com/janaSunrise/HypixelIO/pull/55) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+1. 🎉 Merged PR [#63](https://github.com/janaSunrise/overflow-discord-bot/pull/63) in [janaSunrise/overflow-discord-bot](https://github.com/janaSunrise/overflow-discord-bot)
+2. 💪 Opened PR [#63](https://github.com/janaSunrise/overflow-discord-bot/pull/63) in [janaSunrise/overflow-discord-bot](https://github.com/janaSunrise/overflow-discord-bot)
 <!--END_SECTION:activity-->
 </details>
 
