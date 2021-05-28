@@ -7,7 +7,7 @@
 
 <h3 align="center">An enthusiatic Machine learning dev, Full stack developer and Cyber Security practitioner from India</h3>
 
-> Remember, Life is all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
+> Remember, Life's all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="150px" Title="You found WALDO!" align="center">
 
@@ -57,9 +57,9 @@ class SunritJana:
 
         self.tech_stack = {
             "code": ["Python", "C++", "Java", "JavaScript", "SQL"],
-            "code-branches": ["Machine Learning", "Automation", "CLI and GUI", "Web developement", "Networking"],
+            "code-branches": ["Machine Learning", "Automation", "CLI and GUI", "Web developement", "Networking", "Backend programming"],
             "frontend": {
-                "css": ["Bootstrap", "Bulma"],
+                "css": ["Bootstrap", "Bulma", "Tailwind"],
                 "js": ["React", "NextJS", "Gatsby", "VueJS"]
             },
             "backend": {
@@ -123,8 +123,6 @@ sunrit()
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janaSunrise&theme=algolia" alt="janaSunrise" />
 </p>
-
-<br />
 
 ### ⚡ Some Good Stats
 
@@ -399,7 +397,7 @@ This is always has been a necessary step whether you make a statistical model, l
   <img src='https://random-memer.herokuapp.com/' title="Meme" height= "500" width="500" alt="Please refresh the page if the meme doesn't show up.">
 </details>
 
-**Here's some words I'd love to share**
+**Here's some words I would love to share!**
 
 <details>
   <summary>Please only read this, if you're actually interested in life lessons and inspirations.</summary>
