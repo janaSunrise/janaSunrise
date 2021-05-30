@@ -9,7 +9,7 @@
 
 > Remember, Life's all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
-<img src= "https://octodex.github.com/images/waldocat.png" width="150px" Title="You found WALDO!" align="center">
+<img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
 **Catch me in your terminal by hitting the command `npx sunrit`!**
 
