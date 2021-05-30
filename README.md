@@ -60,7 +60,7 @@ class SunritJana:
             "code-branches": ["Machine Learning", "Automation", "CLI and GUI", "Full Stack development", "Networking"],
             "frontend": {
                 "css": ["Bootstrap", "Bulma", "Tailwind"],
-                "js": ["Vanilla", "React", "NextJS", "Gatsby", "VueJS"]
+                "js": ["React", "NextJS", "Gatsby", "VueJS"]
             },
             "backend": {
                 "python": ["Flask", "Django", "Sanic", "Fastify", "ExpressJS"]
@@ -68,7 +68,7 @@ class SunritJana:
             "cloud": ["GCP", "AWS", "Azure"],
             "databases": ["PostgreSQL", "MySQL", "Redis", "SQLite", "MongoDB", "Firebase", "Supabase"],
             "DevSecOps": ["Docker", "CI / CD", "Linux System Administration", "Version Control System", "Virtualization"],
-            "Security": ["Pentesting", "Cracking", "Ethical hacking", "Networking"]
+            "Security": ["Ethical hacking", "Pentesting", "Cracking", "Networking"]
         }
         self.ask_me_about = ["C++", "Python", "Java", "Full Stack development", "DevSecOps", "Ethical hacking"]
 
