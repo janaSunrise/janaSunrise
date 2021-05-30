@@ -1,13 +1,13 @@
 <h1 align="center">
     Hey there 
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-    I'm Sunrit Jana 
+    I'm Sunrit Jana! 
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
 <h3 align="center">An enthusiatic Machine learning dev, Full stack developer and Cyber Security practitioner from India</h3>
 
-> Remember, Life's all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
+> Remember this, Life's all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
@@ -57,10 +57,10 @@ class SunritJana:
 
         self.tech_stack = {
             "code": ["Python", "C++", "Java", "JavaScript", "SQL"],
-            "code-branches": ["Machine Learning", "Automation", "CLI and GUI", "Web developement", "Networking", "Backend programming"],
+            "code-branches": ["Machine Learning", "Automation", "CLI and GUI", "Full Stack development", "Networking"],
             "frontend": {
                 "css": ["Bootstrap", "Bulma", "Tailwind"],
-                "js": ["React", "NextJS", "Gatsby", "VueJS"]
+                "js": ["Vanilla", "React", "NextJS", "Gatsby", "VueJS"]
             },
             "backend": {
                 "python": ["Flask", "Django", "Sanic", "Fastify", "ExpressJS"]
