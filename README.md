@@ -15,7 +15,9 @@
 
 ### Let's know about me more!
 
-Hey there! I am Sunrit Jana! A 16 y/o developer obsessed with Technology, Learning Python, Machine learning, Web development, C++ and More! I am interested in learning full stack web development, frontend and also Rust language. I love not only to code, but also learning and exploring new things, crossing things off my bucket list, and several hobbies, and goals that I want to fulfil ✌️
+Hey there! I am Sunrit Jana, A 16 y/o developer. Obsessed with Maths, Tech, and Science, Learning Python, Machine learning, Web development, C++ and CyberSecurity! I'm Interested in learning Full Stack web development, Rust language, and more.. I love not only to code, but also learning and exploring new things, crossing things off my bucket list, and several hobbies, and goals that I want to fulfil. Trying to learn, build and share something new every day, and Becoming better every day.✌️
+
+I am also more passionate about building real-life projects, and I create such projects to help with real-life problems, become efficient, and boost the development speed. I also do code for fun, making interesting problems, that can be useful in certain domains, and also create boilerplates and more for speeding up process.
 
 Moreover, I'm a social maniac, active on discord and twitter, interacting with the dev community, or probably coding something interesting, or discussing with my friends! :D
 
