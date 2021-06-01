@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
-<h3 align="center">An enthusiatic Machine learning dev, Full stack developer and Cyber Security practitioner from India</h3>
+<h3 align="center">An enthusiastic Machine learning dev, A Full stack developer and Cyber Security practitioner from India</h3>
 
 > Remember this, Life's all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
