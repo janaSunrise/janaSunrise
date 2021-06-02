@@ -239,8 +239,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/janaSunrise/project-quickstart/pull/4) in [janaSunrise/project-quickstart](https://github.com/janaSunrise/project-quickstart)
-2. ❗️ Opened issue [#1](https://github.com/janaSunrise/ZeroCOM/issues/1) in [janaSunrise/ZeroCOM](https://github.com/janaSunrise/ZeroCOM)
+1. 🎉 Merged PR [#2](https://github.com/janaSunrise/ZeroCOM/pull/2) in [janaSunrise/ZeroCOM](https://github.com/janaSunrise/ZeroCOM)
+2. 💪 Opened PR [#2](https://github.com/janaSunrise/ZeroCOM/pull/2) in [janaSunrise/ZeroCOM](https://github.com/janaSunrise/ZeroCOM)
 <!--END_SECTION:activity-->
 </details>
 
