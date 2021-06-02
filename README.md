@@ -239,8 +239,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/janaSunrise/ZeroCOM/issues/3) in [janaSunrise/ZeroCOM](https://github.com/janaSunrise/ZeroCOM)
-2. ❗️ Opened issue [#1270](https://github.com/willmcgugan/rich/issues/1270) in [willmcgugan/rich](https://github.com/willmcgugan/rich)
+1. ❗️ Closed issue [#3](https://github.com/janaSunrise/ZeroCOM/issues/3) in [janaSunrise/ZeroCOM](https://github.com/janaSunrise/ZeroCOM)
+2. 🗣 Commented on [#3](https://github.com/janaSunrise/ZeroCOM/issues/3) in [janaSunrise/ZeroCOM](https://github.com/janaSunrise/ZeroCOM)
 <!--END_SECTION:activity-->
 </details>
 
