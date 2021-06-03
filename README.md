@@ -240,8 +240,8 @@ sunrit()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/janaSunrise/ZeroCOM/issues/3) in [janaSunrise/ZeroCOM](https://github.com/janaSunrise/ZeroCOM)
-2. 🗣 Commented on [#3](https://github.com/janaSunrise/ZeroCOM/issues/3) in [janaSunrise/ZeroCOM](https://github.com/janaSunrise/ZeroCOM)
+1. 🎉 Merged PR [#59](https://github.com/janaSunrise/HypixelIO/pull/59) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. ❗️ Closed issue [#3](https://github.com/janaSunrise/ZeroCOM/issues/3) in [janaSunrise/ZeroCOM](https://github.com/janaSunrise/ZeroCOM)
 <!--END_SECTION:activity-->
 </details>
 
