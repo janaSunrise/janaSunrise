@@ -7,7 +7,7 @@
 
 <h3 align="center">An enthusiastic Machine learning dev, A Full stack developer and Cyber Security practitioner from India</h3>
 
-> Remember this, Life's all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
+> Remember, Life's all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
@@ -15,16 +15,17 @@
 
 ### Let's know about me more!
 
-Hey there! I am Sunrit Jana, A 16 y/o developer. Obsessed with Maths, Tech, and Science, Currently I'm Learning Python, Machine learning, 
+Hey there! I am Sunrit Jana, A 16 y/o developer. Obsessed with Maths, Tech, and Science. Currently I'm Learning Python, Machine learning, 
 Web development, C++ and Cyber Security! I'm interested in learning Full Stack web development, Rust language, and more. I love not only to 
-code, but also learning and exploring new things, crossing things off my bucket list, and several hobbies, and goals that I want to fulfil. 
+code, but also building, learning and exploring new things, crossing things off my bucket list, and several hobbies, and goals that I want to fulfil. 
 Trying to learn, build and share something new every day, and Becoming better every day.✌️
 
 I am also more passionate about building real-life projects, and I create such projects to help with real-life problems, become efficient, 
 and boost the development speed. I am really passionate and love to code, making interesting problems and innovative solutions, that can be 
 useful in certain domains, and also create boilerplates and more for speeding up process and Also several innovative softwares.
 
-Moreover, I'm a social maniac, active on discord and twitter, interacting with the dev community, or probably coding something interesting, or talking with my friends! 😁
+Moreover, I'm a social maniac, active on discord and twitter, interacting with the dev community, or probably coding something interesting, or 
+talking with my friends! 😁
 
 **And here is some code, that I would love to share with you! 😁**
 
@@ -415,12 +416,7 @@ This is always has been a necessary step whether you make a statistical model, l
 
 <br />
 
-<div align="center">
-  
-  So, see you In my journey! Peace ✌️
-  __Sunrit Jana__
-  
-</div>
+<div align="center">So, See you in my journey! Peace ✌️ **Sunrit Jana**</div>
 
 [website]: https://sunritjana.now.sh
 [twitter]: https://twitter.com/janaSunrise
