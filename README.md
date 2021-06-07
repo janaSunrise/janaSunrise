@@ -416,7 +416,9 @@ This is always has been a necessary step whether you make a statistical model, l
 
 <br />
 
-<div align="center">So, See you in my journey! Peace ✌️ **Sunrit Jana**</div>
+<div align="center">
+    So, See you in my journey! Peace out! ✌️
+</div>
 
 [website]: https://sunritjana.now.sh
 [twitter]: https://twitter.com/janaSunrise
