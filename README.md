@@ -25,7 +25,7 @@ and boost the development speed. I am really passionate and love to code, making
 useful in certain domains, and also create boilerplates and more for speeding up process and Also several innovative softwares.
 
 Moreover, I'm a social maniac, active on discord and twitter. Probably Interacting with the dev community, or Building something interesting, or 
-talking with my friends! 😁
+chatting with my friends! 😁
 
 **And here is some code, that I would love to share with you! 😁**
 
