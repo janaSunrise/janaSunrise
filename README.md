@@ -9,9 +9,13 @@
 
 > Remember, Life is all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
-<img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
+**Catch me in your terminal and know me more by hitting the command** ⤵️
 
-**Catch me in your terminal and know me more by hitting the command `npx sunrit`!**
+```sh
+npx sunrit
+```
+
+<img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="right">
 
 ### Let's know about me more!
 
