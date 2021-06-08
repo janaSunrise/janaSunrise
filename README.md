@@ -7,7 +7,7 @@
 
 <h3 align="center">An enthusiastic Machine learning dev, A Full stack developer and Cyber Security practitioner from India</h3>
 
-> Remember, Life's all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
+> Remember, Life is all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
@@ -64,8 +64,8 @@ class SunritJana:
         self.working_on = [stuff.code.MACHINE_LEARNING, stuff.code.WEB_DEVELOPMENT, stuff.security.ETHICAL_HACKING]
 
         self.tech_stack = {
-            "code": ["Python", "C++", "Java", "JavaScript", "SQL"],
-            "code-branches": ["Machine Learning", "Automation", "CLI and GUI", "Full Stack development", "Networking"],
+            "code": ["Python", "C++", "Java", "JavaScript", "SQL", "Rust"],
+            "code-branches": ["Machine Learning", "Automation", "CLI, GUI and TUI", "Full Stack development", "Networking"],
             "frontend": {
                 "css": ["Bootstrap", "Bulma", "Tailwind"],
                 "js": ["React", "NextJS", "Gatsby", "VueJS"]
