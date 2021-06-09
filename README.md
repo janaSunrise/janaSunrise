@@ -19,19 +19,21 @@ npx sunrit
 
 ### Let's know about me more!
 
-Hey there! I am Sunrit Jana, A 16 y/o developer. Obsessed with Maths, Tech, and Science. Currently I'm Learning Python, Machine learning, 
-Web development, C++ and Cyber Security! I'm interested in learning Full Stack web development, Rust language, and more. I love not only to 
-code, but also building, learning and exploring new things, crossing things off my bucket list, and several hobbies, and goals that I want to fulfil. 
-Trying to learn, build and share something new every day, and Becoming better every day.✌️
+Hey there! I am Sunrit Jana, A 16 y/o developer. Obsessed with Maths, Tech, and Science. Currently I'm 
+Learning Python, Machine learning, Web development, C++ and Cyber Security! I'm interested in learning 
+Full Stack web development, Rust language, and more. I love not only to code, but also building, learning 
+and exploring new things, crossing things off my bucket list, and several hobbies, and goals that I want 
+to fulfil. Trying to learn, build and share something new every day, and Becoming better every day.✌️
 
-I am also more passionate about building real-life projects, and I create such projects to help with real-life problems, become efficient, 
-and boost the development speed. I am really passionate and love to code, making interesting problems and innovative solutions, that can be 
-useful in certain domains, and also create boilerplates and more for speeding up process and Also several innovative softwares.
+I am also more passionate about building real-life projects, and I create such projects to help with 
+real-life problems, become efficient, and boost the development speed. I am really passionate and love 
+to code, making interesting problems and innovative solutions, that can be useful in certain domains, 
+and also create boilerplates and more for speeding up process and Also several innovative softwares.
 
-Moreover, I'm a social maniac, active on discord and twitter. Probably Interacting with the dev community, or Building something interesting, or 
-chatting with my friends! 😁
+Moreover, I'm a social maniac, active on discord and twitter. Probably Interacting with the dev community, 
+or Building something interesting, or chatting with my friends! 😁
 
-**And here is some code, that I would love to share with you! 😁**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me! 😁
 
 ```python
 import socials
@@ -98,17 +100,17 @@ class SunritJana:
         self.fun_fact = "I'm an anime addict who prefers tea over coffee!"
 
     def __repr__(self) -> None:
-        return f"<Object SunritJana at 0x0A0001B2FCA77F70 working_on={self.working_on} active_at={self.most_active_at}> ask_about={self.ask_me_about}"
+        return f"<SunritJana working_on={self.working_on} active_at={self.most_active_at}> ask_about={self.ask_me_about}"
 
     def __str__(self) -> None:
         return self.name
 
-    def __call__() -> None:
+    def say_hello() -> None:
         print("Hey there 👋! Nice to see you here!")
 
 
 sunrit = SunritJana()
-sunrit()
+sunrit.say_hello()
 ```
 
 ### 🎧 Spotify Playing
@@ -130,7 +132,7 @@ sunrit()
 
 <br />
 
-## 🔥 Streak stats
+### 🔥 Streak stats
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janaSunrise&theme=algolia" alt="janaSunrise" />
@@ -149,6 +151,7 @@ sunrit()
   - **Code Editor**: VSCode, Jetbrains IDE, NeoVim.
   - **Music Player**: Spotify
   - **Note software**: Notion
+
 </details>
 
 <details>
@@ -409,12 +412,6 @@ If you're not familiar with it, Gradient descent is a ML optimization algorithm,
 <br/> Hey everyone! Hope you're doing well. Welcome to this blog on preparing data for training your machine learning model.
 This is always has been a necessary step whether you make a statistical model, like LinearRegression or GradientBoosting, or Deep l... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
-</details>
-
-<details>
-  <summary>🤔 Feeling bored? Here's a meme for you :)</summary>
-
-  <img src='https://random-memer.herokuapp.com/' title="Meme" height= "500" width="500" alt="Please refresh the page if the meme doesn't show up.">
 </details>
 
 **Here's some words I would love to share!**
