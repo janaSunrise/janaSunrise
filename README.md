@@ -99,10 +99,10 @@ class SunritJana:
         # -- Wrapping up --
         self.fun_fact = "I'm an anime addict who prefers tea over coffee!"
 
-    def __repr__(self) -> None:
+    def __repr__(self) -> str:
         return f"<SunritJana working_on={self.working_on} active_at={self.most_active_at}> ask_about={self.ask_me_about}"
 
-    def __str__(self) -> None:
+    def __str__(self) -> str:
         return self.name
 
     def say_hello() -> None:
