@@ -17,7 +17,7 @@ npx sunrit
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
-### Let's know about me more!
+### Let's know about me!
 
 Hey there! I am Sunrit Jana, A 16 y/o developer. Obsessed with Maths, Tech, and Science. Currently I'm 
 Learning Python, Machine learning, Web development, C++ and Cyber Security! I'm interested in learning 
@@ -90,7 +90,7 @@ class SunritJana:
         self.social_media = {
             "email": "warriordefenderz@gmail.com",
             "github": "https://github.com/janaSunrise",
-            "twitter": "https://twitter.com/janaSunrise",
+            "twitter": "https://twitter.com/JanaSunrise",
             "linkedin": "https://linkedin.com/in/SunritJana",
             "discord": "https://discord.com/users/711194921683648523",
             "blog": "https://thedevden.hashnode.dev"
