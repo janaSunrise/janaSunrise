@@ -26,8 +26,8 @@ and exploring new things, crossing things off my bucket list, and several hobbie
 to fulfil. Trying to learn, build and share something new every day, and Becoming better every day.✌️
 
 I am also more passionate about building real-life projects, and I create projects to help with 
-real-life problems, become efficient, and boost the development speed. I am really passionate and love 
-to code, making interesting problems and innovative solutions, that can be useful in certain domains, 
+real-life problems, become efficient, and boost the development speed. I am really passionate about coding, 
+making interesting problems and innovative solutions, that can be useful in certain domains, 
 and also create boilerplates and more for speeding up process and Also several innovative softwares.
 
 Moreover, I'm a social maniac, active on discord and twitter. Probably Interacting with the dev community, 
