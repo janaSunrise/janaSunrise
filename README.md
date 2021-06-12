@@ -9,7 +9,7 @@
 
 > Remember, Life is all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
-**Catch me in your terminal and know me more by hitting the command** ⤵️
+**Catch me in your terminal and know me more by using the command** ⤵️
 
 ```sh
 npx sunrit
@@ -231,7 +231,6 @@ sunrit.say_hello()
     
   - **Code Editors**
     
-    <img src="" alt="" />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm" />
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="VIM" />
@@ -273,7 +272,7 @@ sunrit.say_hello()
   
   <p align="left"> <a href="https://github.com/janaSunrise"><img src="https://github-profile-trophy.vercel.app/?username=janaSunrise" alt="janaSunrise" /></a> </p>
   
-  ### Contribution Graph
+  ### My Contribution graph
   
   <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=janaSunrise&theme=github" alt="GH Contribution graph" /></p> 
   
