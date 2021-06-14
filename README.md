@@ -19,7 +19,7 @@ npx sunrit
 
 ### Let's know about me!
 
-Hey there! I am Sunrit Jana, A 16 y/o developer. Obsessed with Maths, Tech, and Science. Currently I'm 
+Hey there 👋 I am Sunrit Jana, A 16 y/o developer. Obsessed with Maths, Tech, and Science. Currently I'm 
 Learning Python, Machine learning, Web development, C++ and Cyber Security! I'm interested in learning 
 Full Stack web development, Rust language, and more. I love not only to code, but also building, learning 
 and exploring new things, crossing things off my bucket list, and several hobbies, and goals that I want 
@@ -61,7 +61,7 @@ class SunritJana:
                 "🤝 Helping people",
                 "💻 Reviewing others' code",
                 "🚀 Learning!",
-                "Going out"
+                "⭐ Going out"
             ]
         }
         self.loves_to_build = [stuff.COOL, stuff.INNOVATIVE, stuff.AWESOME]
@@ -144,7 +144,7 @@ sunrit.say_hello()
 <details>
   <summary>⚙️ My workspace setup</summary>
 
-  - **Laptop**: HP pavilion (Intel i5)
+  - **Laptop**: HP Notebook (Intel i5)
   - **OS**: Ubuntu 20.04 / Arch Linux
   - **Terminal**: ZSH with spaceship or powerlevel10k theme
   - **Terminal-based editors**: Nano, NeoVim with ayu theme.
