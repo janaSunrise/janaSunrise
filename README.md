@@ -260,8 +260,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/python-engineer/MLfromscratch/issues/7) in [python-engineer/MLfromscratch](https://github.com/python-engineer/MLfromscratch)
-2. 💪 Opened PR [#7](https://github.com/python-engineer/MLfromscratch/pull/7) in [python-engineer/MLfromscratch](https://github.com/python-engineer/MLfromscratch)
+1. 🎉 Merged PR [#68](https://github.com/janaSunrise/HypixelIO/pull/68) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 🎉 Merged PR [#67](https://github.com/janaSunrise/HypixelIO/pull/67) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
 <!--END_SECTION:activity-->
 </details>
 
