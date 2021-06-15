@@ -54,7 +54,8 @@ class SunritJana:
                 "💻 Code",
                 "🎸 Play guitar",
                 "🏫 Play with maths",
-                "🔭 Explore new things"
+                "🔭 Explore new things",
+                "🧪 Experiment and discover stuff"
             ],
             "likes_to": [
                 "🏫 Teaching",
