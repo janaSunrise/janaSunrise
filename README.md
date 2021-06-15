@@ -30,8 +30,8 @@ real-life problems, become efficient, and boost the development speed. I am real
 making interesting problems and innovative solutions, that can be useful in certain domains, 
 and also create boilerplates and more for speeding up process and Also several innovative softwares.
 
-Moreover, I'm a social maniac, active on discord and twitter. Probably Interacting with the dev community, 
-or Building something interesting, or chatting with my friends! 😁
+Moreover, I'm a Social maniac too, and I'm a lot active on Discord and Twitter. Either building something 
+interesting, Hanging out with my friends, or Spending my time with the Dev community!😁
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me! 😁
 
