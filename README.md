@@ -432,7 +432,7 @@ This is always has been a necessary step whether you make a statistical model, l
 
 [website]: https://sunritjana.now.sh
 [twitter]: https://twitter.com/janaSunrise
-[youtube]: https://youtube.com/UC3S4lcSvaSIiT3uSRSi7uCQ
+[youtube]: https://www.youtube.com/channel/UC3S4lcSvaSIiT3uSRSi7uCQ
 [instagram]: https://instagram.com/dare.me_bro
 [linkedin]: https://www.linkedin.com/in/sunrit-jana-785605197/
 [blog]: https://thedevden.hashnode.dev
