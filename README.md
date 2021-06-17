@@ -261,8 +261,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1590](https://github.com/EddieHubCommunity/support/issues/1590) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#2](https://github.com/janaSunrise/ZeroChat/pull/2) in [janaSunrise/ZeroChat](https://github.com/janaSunrise/ZeroChat)
+1. 🎉 Merged PR [#71](https://github.com/janaSunrise/HypixelIO/pull/71) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 🗣 Commented on [#1590](https://github.com/EddieHubCommunity/support/issues/1590) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 </details>
 
