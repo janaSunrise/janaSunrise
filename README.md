@@ -32,7 +32,7 @@ and also create boilerplates and more for speeding up process and Also several i
 
 Moreover, I'm a social maniac too, and I'm a lot active on Discord and Twitter. Either building something 
 interesting, Making some interesting content for everyone, Hanging out with my friends, or Spending my 
-time with the Dev community! 😁
+time with the dev community! 😁
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me!
 
@@ -87,7 +87,7 @@ class SunritJana:
             "DevSecOps": ["Docker", "CI / CD", "Linux System Administration", "Version Control System", "Virtualization"],
             "Security": ["Ethical hacking", "Pentesting", "Cracking", "Networking"]
         }
-        self.ask_me_about = ["C++", "Python", "Java", "Full Stack development", "DevSecOps", "Ethical hacking"]
+        self.ask_me_about = ["C++", "Python", "Java", "Machine Learning", "Full Stack development", "DevSecOps", "Ethical hacking"]
 
         # -- Social media section --
         self.social_media = {
