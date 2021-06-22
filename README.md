@@ -83,7 +83,10 @@ class SunritJana:
                 "python": ["Flask", "Django", "Sanic", "Fastify", "ExpressJS"]
             },
             "cloud": ["GCP", "AWS", "Azure"],
-            "databases": ["PostgreSQL", "MySQL", "Redis", "SQLite", "MongoDB", "Firebase", "Supabase"],
+            "databases": {
+                "SQL": ["PostgreSQL", "MySQL", "SQLite"],
+                "NoSQL": ["Redis", "MongoDB", "Firebase", "Supabase"]
+            },
             "DevSecOps": ["Docker", "CI / CD", "Linux System Administration", "Version Control System", "Virtualization"],
             "Security": ["Ethical hacking", "Pentesting", "Cracking", "Networking"]
         }
