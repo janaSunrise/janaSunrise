@@ -47,7 +47,7 @@ class SunritJana:
         self.name = "Sunrit Jana"
         self.birthday = "27-10-2006"
 
-        self.tagline = "A guy who loves to learn with dreams to achieve something awesome! 🌻"
+        self.tagline = "A guy who loves to learn with dreams to achieve something awesome! ⭐"
 
         # -- About section --
         self.about = {
@@ -128,11 +128,11 @@ sunrit.say_hello()
 <p align="center">
     
 [<img align="left" alt="Sunrit Jana" src="https://img.shields.io/badge/Website-02ccf7?style=for-the-badge&logo=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg&logoColor=white" />][website]
-[<img align="left" alt="Sunrit Jana" src="https://img.shields.io/badge/Octo%20Profile-00FFFF?style=for-the-badge&logo=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg&logoColor=white" />][octoprofile]
 [<img align="left" alt="Sunrit Jana | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="Sunrit Jana | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Sunrit Jana | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Sunrit Jana | Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />][blog]
+[<img align="left" alt="Sunrit Jana" src="https://img.shields.io/badge/Octo%20Profile-00FFFF?style=for-the-badge&logo=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg&logoColor=white" />][octoprofile]
 
 </p>
 
@@ -145,6 +145,8 @@ sunrit.say_hello()
 </p>
 
 ### ⚡ Some Good Stats
+
+<!-- Workspace info -->
 
 <details>
   <summary>⚙️ My workspace setup</summary>
@@ -159,6 +161,8 @@ sunrit.say_hello()
   - **Note software**: Notion
 
 </details>
+
+<!-- Toolset summary -->
 
 <details>
   <summary> 🛠 Tools I use to code with! </summary>
@@ -270,6 +274,8 @@ sunrit.say_hello()
 <!--END_SECTION:activity-->
 </details>
 
+<!-- Github stats summary -->
+
 <details>
   <summary>📊 My Github Stats</summary>
  
@@ -284,6 +290,8 @@ sunrit.say_hello()
   <br />
 
 </details>
+
+<!-- Wakatime Stats section -->
 
 <details>
   <summary>❤️ About my Coding styles, and preferences </summary>
@@ -376,6 +384,8 @@ Java                     2 repos             ░░░░░░░░░░░�
   
 </details>
 
+<!-- Latest blogs section -->
+
 <details>
   <summary>🔖 My latest blogs</summary>
   
@@ -430,10 +440,12 @@ This is always has been a necessary step whether you make a statistical model, l
 
 <br />
 
+<!-- END -->
 <div align="center">
     So, See you in my journey! Peace out! ✌️
 </div>
 
+<!-- Links and URLs -->
 [website]: https://sunritjana.now.sh
 [twitter]: https://twitter.com/janaSunrise
 [youtube]: https://www.youtube.com/channel/UC3S4lcSvaSIiT3uSRSi7uCQ
