@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
-<h3 align="center">An enthusiastic Machine learning dev, A Full stack developer and Cyber Security practitioner from India</h3>
+<h3 align="center">An enthusiastic Machine learning dev, A Full stack developer and Cyber Security learner from India</h3>
 
 > Remember, Life is all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
@@ -77,7 +77,7 @@ class SunritJana:
             "code-branches": ["Machine Learning", "Automation", "CLI, GUI and TUI", "Full Stack development", "Networking"],
             "frontend": {
                 "css": ["Bootstrap", "Bulma", "Tailwind"],
-                "js": ["React", "NextJS", "Gatsby", "VueJS"]
+                "js": ["React", "NextJS", "Vue", "Gatsby"]
             },
             "backend": {
                 "python": ["Flask", "Django", "Sanic", "Fastify", "ExpressJS"]
