@@ -269,8 +269,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Siddharth3141/ImageAPI/pull/1) in [Siddharth3141/ImageAPI](https://github.com/Siddharth3141/ImageAPI)
-2. 🎉 Merged PR [#75](https://github.com/janaSunrise/HypixelIO/pull/75) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+1. 🗣 Commented on [#1](https://github.com/Siddharth3141/ImageAPI/issues/1) in [Siddharth3141/ImageAPI](https://github.com/Siddharth3141/ImageAPI)
+2. 💪 Opened PR [#1](https://github.com/Siddharth3141/ImageAPI/pull/1) in [Siddharth3141/ImageAPI](https://github.com/Siddharth3141/ImageAPI)
 <!--END_SECTION:activity-->
 </details>
 
