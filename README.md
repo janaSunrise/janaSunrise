@@ -151,8 +151,8 @@ sunrit.say_hello()
 <details>
   <summary>⚙️ My workspace setup</summary>
 
-  - **Laptop**: HP Notebook (Intel i5)
-  - **OS**: Ubuntu 20.04 / Arch Linux
+  - **Laptop**: HP Notebook G5 (Intel I5, 12GB Ram)
+  - **OS**: Windows 10 / Ubuntu 20.04 / Arch Linux
   - **Terminal**: ZSH with spaceship or powerlevel10k theme
   - **Terminal-based editors**: Nano, NeoVim with ayu theme.
   - **Browser**: Mozilla firefox and Microsoft Edge.
