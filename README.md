@@ -82,7 +82,7 @@ class SunritJana:
             "backend": {
                 "python": ["Flask", "Django", "Sanic", "Fastify", "ExpressJS"]
             },
-            "cloud": ["GCP", "AWS", "Azure"],
+            "cloud": ["Google cloud platform", "Amazon AWS", "Azure"],
             "databases": {
                 "SQL": ["PostgreSQL", "MySQL", "SQLite"],
                 "NoSQL": ["Redis", "MongoDB", "Firebase", "Supabase"]
@@ -244,16 +244,16 @@ sunrit.say_hello()
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm" />
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="VIM" />
 
-  - **Music platforms**
+  - **Music**
 
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="spotify" />
     <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="youtube-music">
 
-  - **Blogs**
+  - **Bloging**
 
     <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
 
-  - **Others**
+  - **Other Skills**
 
     <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
