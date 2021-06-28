@@ -7,6 +7,8 @@
 
 <h3 align="center">An enthusiastic Machine learning dev, A Full stack developer and Cyber Security learner from India</h3>
 
+<img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
+
 > Remember, Life is all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
 **Catch me in your terminal and know me more by using the command** ⤵️
@@ -14,8 +16,6 @@
 ```sh
 npx sunrit
 ```
-
-<img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
 ### Let's know about me!
 
