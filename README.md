@@ -112,7 +112,7 @@ class SunritJana:
         return self.name
 
     def say_hello() -> None:
-        print("Hey there 👋! Nice to see you here!")
+        print("Hey there 👋! Glad to see you here, Have a great day or evening ahead!")
 
 
 sunrit = SunritJana()
