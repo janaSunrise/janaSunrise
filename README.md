@@ -9,7 +9,7 @@
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
-> Remember, Life is all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
+> Here's something to understand, Life is all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
 **Catch me in your terminal and know me more by using the command** ⤵️
 
@@ -74,7 +74,9 @@ class SunritJana:
 
         self.tech_stack = {
             "code": ["Python", "C++", "Java", "JavaScript", "SQL", "Rust"],
-            "code-branches": ["Machine Learning", "Automation", "CLI, GUI and TUI", "Full Stack development", "Networking"],
+            "code-branches": [
+                "Machine Learning", "Automation", "CLI, GUI and TUI", "Full Stack development", "Networking"
+            ],
             "frontend": {
                 "css": ["Bootstrap", "Bulma", "Tailwind"],
                 "js": ["React", "NextJS", "Vue", "Gatsby"]
@@ -87,7 +89,9 @@ class SunritJana:
                 "SQL": ["PostgreSQL", "MySQL", "SQLite"],
                 "NoSQL": ["Redis", "MongoDB", "Firebase", "Supabase"]
             },
-            "DevSecOps": ["Docker", "CI / CD", "Linux System Administration", "Version Control System", "Virtualization"],
+            "DevSecOps": [
+                "Docker", "CI / CD", "Linux System Administration", "Version Control System", "Virtualization"
+            ],
             "Security": ["Ethical hacking", "Pentesting", "Cracking", "Networking"]
         }
         self.ask_me_about = ["C++", "Python", "Java", "Machine Learning", "Full Stack development", "DevSecOps", "Ethical hacking"]
