@@ -63,7 +63,7 @@ class SunritJana:
                 "🤝 Helping people",
                 "💻 Reviewing others' code",
                 "🚀 Learning!",
-                "⭐ Going out"
+                "⭐ Going outside!"
             ]
         }
         self.loves_to_build = [stuff.COOL, stuff.INNOVATIVE, stuff.AWESOME, stuff.USEFUL]
@@ -289,7 +289,7 @@ sunrit.say_hello()
   
   ### My Contribution graph
   
-  <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=janaSunrise&theme=github" alt="GH Contribution graph" /></p> 
+  <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=janaSunrise&theme=github" alt="Github Contribution graph" /></p> 
   
   <br />
 
@@ -438,7 +438,7 @@ This is always has been a necessary step whether you make a statistical model, l
 <details>
   <summary>Please only read this, if you're actually interested in life lessons and inspirations.</summary>
 
-  <p align="left"> <img src="https://raw.githubusercontent.com/janaSunrise/janaSunrise/master/images/thought.png" alt="janasunrise" /> </p>
+  <p align="left"><img src="https://raw.githubusercontent.com/janaSunrise/janaSunrise/master/images/thought.png" alt="janasunrise" /></p>
 
 </details>
 
