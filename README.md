@@ -9,7 +9,7 @@
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
-> Here's something to understand, Life is all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
+> Always remember, Life is all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
 
 **Catch me in your terminal and know me more by using the command** ⤵️
 
