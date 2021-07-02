@@ -273,8 +273,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101](https://github.com/lemonsaurus/blackbox/pull/101) in [lemonsaurus/blackbox](https://github.com/lemonsaurus/blackbox)
-2. 💪 Opened PR [#1](https://github.com/PiyushSuthar/anilist-month-list-rust/pull/1) in [PiyushSuthar/anilist-month-list-rust](https://github.com/PiyushSuthar/anilist-month-list-rust)
+1. 🎉 Merged PR [#80](https://github.com/janaSunrise/HypixelIO/pull/80) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 💪 Opened PR [#101](https://github.com/lemonsaurus/blackbox/pull/101) in [lemonsaurus/blackbox](https://github.com/lemonsaurus/blackbox)
 <!--END_SECTION:activity-->
 </details>
 
