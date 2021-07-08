@@ -28,11 +28,11 @@ to love to do! Trying to learn, build and share something new every day, and Bec
 I am also more passionate about building real-life projects, and I create projects to help with 
 real-life problems, becoming efficient, and boosting the development speed. I am really passionate 
 about coding, making interesting problems and innovative solutions, that can be useful in certain domains, 
-and also create boilerplates and more for speeding up process and Also several innovative softwares.🤩
+and also create boilerplates and more for speeding up process and Also several innovative softwares 🤩
 
 Moreover, I'm a social maniac too and I'm pretty active on Discord and Twitter. Either building something 
-interesting, Making some insightful and amazing content for everyone, Hanging out with my friends, or 
-Spending my time with the dev community! 😁
+interesting, Making some insightful and incredible content for everyone, Hanging out with my friends, or 
+Spending my time with the wonderful dev community! 😁
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me!
 
