@@ -69,7 +69,7 @@ class SunritJana:
         self.most_active_at = [socials.DISCORD, socials.TWITTER, socials.GITHUB, socials.LINKEDIN]
 
         # -- Tech stack section --
-        self.working_on = [stuff.code.MACHINE_LEARNING, stuff.code.WEB_DEVELOPMENT, stuff.security.ETHICAL_HACKING]
+        self.working_on = [stuff.code.MACHINE_LEARNING, stuff.code.WEB_DEVELOPMENT, stuff.security.ETHICAL_HACKING, stuff.code.DEV_OPS]
 
         self.tech_stack = {
             "code": ["Python", "C++", "Java", "JavaScript", "SQL", "Rust"],
