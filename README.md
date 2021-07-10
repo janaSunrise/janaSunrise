@@ -106,7 +106,7 @@ class SunritJana:
         }
 
         # -- Wrapping up --
-        self.fun_fact = "I'm an anime addict who prefers tea over coffee!"
+        self.fun_fact = "I love to watch animes, and Prefer coffee more than tea!"
 
     def __repr__(self) -> str:
         return f"<SunritJana working_on={self.working_on} active_at={self.most_active_at} ask_about={self.ask_me_about}>"
@@ -115,7 +115,7 @@ class SunritJana:
         return self.name
 
     def say_hello() -> None:
-        print("Hey there 👋! Glad to see you here, Have a great day / evening ahead!")
+        print("Hey there 👋! Glad to see you here, Have a great day or evening ahead!")
 
 
 sunrit = SunritJana()
