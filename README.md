@@ -5,11 +5,11 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
-<h3 align="center">A Machine learning dev, A Full stack developer and Cyber Security learner from India!</h3>
+<h3 align="center">A Machine learning dev, A Full stack developer and Cyber Security learner from India</h3>
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
-> Always remember, Life is all about Ups and Downs, Wins and Losses. **Never be disappointed, Keep moving forward** :)
+> Always remember, Life is all about ups and downs, wins and losses. **Never be disappointed and Keep moving forward!**
 
 **Catch me in your terminal and know me more by using the command** ⤵️
 
