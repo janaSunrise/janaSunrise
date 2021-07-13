@@ -9,6 +9,8 @@
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
+> "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."
+
 > Always remember, Life is all about ups and downs, wins and losses. **Never be disappointed and Keep moving forward!**
 
 **Catch me in your terminal and know me more by using the command** ⤵️
@@ -81,7 +83,7 @@ class SunritJana:
                 "js": ["React", "NextJS", "Vue", "Gatsby"]
             },
             "backend": {
-                "python": ["Flask", "Django", "Sanic", "Fastify", "ExpressJS"]
+                "python": ["Flask", "Django", "FastAPI", "Fastify", "ExpressJS"]
             },
             "cloud": ["Google cloud platform", "Amazon AWS", "Azure"],
             "databases": {
@@ -91,7 +93,7 @@ class SunritJana:
             "DevSecOps": [
                 "Docker", "CI / CD", "Linux System Administration", "Version Control System", "Virtualization"
             ],
-            "Security": ["Ethical hacking", "Pentesting", "Cracking", "Networking"]
+            "Security": ["Ethical hacking", "Pentesting", "Networking"]
         }
         self.ask_me_about = ["C++", "Python", "Java", "Machine Learning", "Full Stack development", "DevSecOps", "Ethical hacking"]
 
