@@ -67,11 +67,11 @@ class SunritJana:
                 "🚀 Learning!",
             ]
         }
-        self.loves_to_build = [stuff.COOL, stuff.INNOVATIVE, stuff.AWESOME, stuff.USEFUL]
+        self.loves_to_build = [stuff.COOL, stuff.INNOVATIVE, stuff.AWESOME]
         self.most_active_at = [socials.DISCORD, socials.TWITTER, socials.GITHUB, socials.LINKEDIN]
 
         # -- Tech stack section --
-        self.working_on = [stuff.code.MACHINE_LEARNING, stuff.code.WEB_DEVELOPMENT, stuff.security.ETHICAL_HACKING, stuff.code.DEV_OPS]
+        self.working_on = [stuff.code.MACHINE_LEARNING, stuff.code.WEB_DEVELOPMENT, stuff.security.ETHICAL_HACKING]
 
         self.tech_stack = {
             "code": ["Python", "C++", "Java", "JavaScript", "SQL", "Rust"],
@@ -80,7 +80,7 @@ class SunritJana:
             ],
             "frontend": {
                 "css": ["Bootstrap", "Bulma", "Tailwind"],
-                "js": ["React", "NextJS", "Vue", "Gatsby"]
+                "js": ["React", "NextJS", "Vue", "Gatsby", "ViteJS"]
             },
             "backend": {
                 "python": ["Flask", "Django", "FastAPI", "Fastify", "ExpressJS"]
@@ -95,7 +95,7 @@ class SunritJana:
             ],
             "Security": ["Ethical hacking", "Pentesting", "Networking"]
         }
-        self.ask_me_about = ["C++", "Python", "Java", "Machine Learning", "Full Stack development", "DevSecOps", "Ethical hacking"]
+        self.ask_me_about = ["C++", "Python", "Rust", "Java", "Machine Learning", "Full Stack development", "DevSecOps", "Ethical hacking"]
 
         # -- Social media section --
         self.social_media = {
@@ -158,7 +158,7 @@ sunrit.say_hello()
 
   - **Laptop**: HP Notebook G5 (Intel I5, 12GB Ram)
   - **OS**: Windows 10 / Ubuntu 20.04 / Arch Linux
-  - **Terminal**: ZSH with spaceship or powerlevel10k theme
+  - **Terminal**: ZSH with Spaceship or Powerlevel10k theme.
   - **Terminal-based editors**: Nano, NeoVim with ayu theme.
   - **Browser**: Mozilla firefox and Microsoft Edge.
   - **Code Editor**: VSCode, Jetbrains IDE, NeoVim.
