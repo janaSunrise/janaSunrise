@@ -13,7 +13,7 @@
 
 > Always remember, Life is all about ups and downs, wins and losses. **Never be disappointed and Keep moving forward!**
 
-**Catch me in your terminal and know me more by using the command** ⤵️
+**Catch me in your terminal and know me more by using the command!** ⤵️
 
 ```sh
 npx sunrit
@@ -76,7 +76,9 @@ class SunritJana:
         self.tech_stack = {
             "code": ["Python", "C++", "Java", "JavaScript", "SQL", "Rust"],
             "code-branches": [
-                "Machine Learning", "Automation", "CLI, GUI and TUI", "Full Stack development", "Networking"
+                "Machine Learning", "Automation", 
+                "CLI, GUI and TUI", "Full Stack development", 
+                "Ethical Hacking", "Networking"
             ],
             "frontend": {
                 "css": ["Bootstrap", "Bulma", "Tailwind"],
