@@ -21,7 +21,7 @@ npx sunrit
 
 ### Let's know about me!
 
-Hey there 👋 I am Sunrit Jana! A 16 y/o developer from India. Obsessed with Maths, Tech, and Science and more! 
+Hey there! 👋 I am Sunrit Jana. A 16 y/o developer from India. Obsessed with Maths, Tech, and Science and more! 
 Currently I'm Learning Python, Machine learning, Web development, C++ and Cyber Security! I'm interested in learning 
 Full Stack web development, Rust language, and more. I love not only to code, but also building, learning 
 and exploring new things, crossing things off my bucket list, and several hobbies, and goals that I want 
@@ -67,7 +67,7 @@ class SunritJana:
                 "🚀 Learning!",
             ]
         }
-        self.loves_to_build = [stuff.COOL, stuff.INNOVATIVE, stuff.AWESOME]
+        self.loves_to_build = [stuff.COOL, stuff.INNOVATIVE, stuff.AWESOME, stuff.USEFUL]
         self.most_active_at = [socials.DISCORD, socials.TWITTER, socials.GITHUB, socials.LINKEDIN]
 
         # -- Tech stack section --
@@ -82,7 +82,7 @@ class SunritJana:
             ],
             "frontend": {
                 "css": ["Bootstrap", "Bulma", "Tailwind"],
-                "js": ["React", "NextJS", "Vue", "Gatsby", "ViteJS"]
+                "js": ["React", "NextJS", "Vue.JS", "Gatsby", "ViteJS"]
             },
             "backend": {
                 "python": ["Flask", "Django", "FastAPI", "Fastify", "ExpressJS"]
@@ -97,7 +97,10 @@ class SunritJana:
             ],
             "Security": ["Ethical hacking", "Pentesting", "Networking"]
         }
-        self.ask_me_about = ["C++", "Python", "Rust", "Java", "Machine Learning", "Full Stack development", "DevSecOps", "Ethical hacking"]
+        self.ask_me_about = [
+            "C++", "Python", "Rust", "Java",
+            "Machine Learning", "Full Stack development", "DevSecOps", "Ethical hacking"
+        ]
 
         # -- Social media section --
         self.social_media = {
