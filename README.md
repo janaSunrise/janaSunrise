@@ -9,9 +9,9 @@
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
-> "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."
+> "Ever tried, Ever failed. No matter. Try Again, Fail again. Fail better."
 
-> Always remember, Life is all about ups and downs, wins and losses. **Never be disappointed and Keep moving forward!**
+> Always remember! Life is all about ups and downs, wins and losses. **Never be disappointed and Keep moving forward!**
 
 **Catch me in your terminal and know me more by using the command!** ⤵️
 
@@ -49,7 +49,7 @@ class SunritJana:
         self.name = "Sunrit Jana"
         self.birthday = "27-10-2006"
 
-        self.tagline = "⭐ A guy who loves to learn with dreams to achieve something awesome!"
+        self.tagline = "A guy who loves to learn with dreams to achieve something awesome! ⭐"
 
         # -- About section --
         self.about = {
@@ -98,7 +98,7 @@ class SunritJana:
             "Security": ["Ethical hacking", "Pentesting", "Networking"]
         }
         self.ask_me_about = [
-            "C++", "Python", "Rust", "Java",
+            "C++", "Python", "Rust", "Java", "Javascript",
             "Machine Learning", "Full Stack development", "DevSecOps", "Ethical hacking"
         ]
 
