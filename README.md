@@ -1,7 +1,7 @@
 <h1 align="center">
     Hey there 
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-    I'm Sunrit Jana! 
+    I'm Sunrit Jana
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
@@ -11,7 +11,7 @@
 
 > "Ever tried, Ever failed. No matter. Try Again, Fail again. Fail better."
 
-> Always remember! Life is all about ups and downs, wins and losses. **Never be disappointed and Keep moving forward!**
+> Always remember that, Life is all about ups and downs, wins and losses. **Never be disappointed and Keep moving forward!**
 
 **Catch me in your terminal and know me more by using the command!** ⤵️
 
