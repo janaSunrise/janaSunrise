@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
-<h3 align="center">A Machine learning dev, A Full stack developer and Cyber Security learner from India</h3>
+<h3 align="center">A Machine learning dev, A Full stack developer and Cyber security learner from India</h3>
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
@@ -144,7 +144,7 @@ sunrit.say_hello()
 
 <br />
 
-### 🎧 Spotify Playing
+### 🎵 Spotify Playing
 
 [<img src="https://spotify-activity.warriordefenderz.vercel.app/api/spotify" alt="Sunrit Jana Spotify Playing" width="400" />](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aizc6x)
 
@@ -154,7 +154,7 @@ sunrit.say_hello()
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janaSunrise&theme=algolia" alt="janaSunrise" />
 </p>
 
-### ⚡ Some Good Stats
+### ⚡ Some more amazing info and stats about me!
 
 <!-- Workspace info -->
 
@@ -452,7 +452,7 @@ This is always has been a necessary step whether you make a statistical model, l
 
 <!-- END -->
 <div align="center">
-    So, See you in my journey! Peace out! ✌️
+    Thank you for reading! ❤️ See you in my journey! Peace out! ✌️
 </div>
 
 <!-- Links and URLs -->
