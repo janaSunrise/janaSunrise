@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
-<h3 align="center">A Machine learning dev, A Full stack developer and Cyber security learner from India</h3>
+<h3 align="center">A Machine learning and A Full stack developer and Cyber security learner from India</h3>
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
