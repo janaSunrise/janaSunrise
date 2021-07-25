@@ -101,7 +101,7 @@ class SunritJana:
             "Security": ["Ethical hacking", "Pentesting", "Networking"]
         }
         self.ask_me_about = [
-            "C++", "Python", "Rust", "Java", "Javascript",
+            "C++", "Python", "Rust", "Java", "Javascript", "SQL",
             "Machine Learning", "Full Stack development", "DevSecOps", "Ethical hacking"
         ]
 
