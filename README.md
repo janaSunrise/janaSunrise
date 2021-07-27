@@ -47,9 +47,7 @@ class SunritJana:
     def __init__(self) -> None:
         # -- Personal section --
         self.name = "Sunrit Jana"
-        
-        self.pronous = "He / Him"
-        
+        self.pronouns = "He / Him"
         self.birthday = "27-10-2006"
 
         self.tagline = "A guy who loves to learn with dreams to achieve something awesome! ⭐"
