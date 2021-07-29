@@ -62,7 +62,7 @@ class SunritJana:
                 "🧪 Experiment and discover things!"
             ],
             "likes_to": [
-                "🏫 Teaching",
+                "🏫 Teaching and mentoring",
                 "🤝 Helping people",
                 "💻 Reviewing others' code",
                 "🚀 Learning!",
@@ -100,7 +100,7 @@ class SunritJana:
         }
         self.ask_me_about = [
             "C++", "Python", "Rust", "Java", "Javascript", "SQL",
-            "Machine Learning", "Full Stack development", "DevSecOps", "Ethical hacking"
+            "Machine Learning", "Full Stack development", "DevOps", "Ethical hacking"
         ]
 
         # -- Social media section --
