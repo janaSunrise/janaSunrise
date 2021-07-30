@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
-<h3 align="center">A Machine learning expert, A Full stack developer and Cyber security learner from India</h3>
+<h3 align="center">A Machine learning expert, A Full stack developer and Cyber security learner from India!</h3>
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
@@ -21,7 +21,7 @@ npx sunrit
 
 ### Let's know about me 🤗
 
-Hey there! 👋 I'm Sunrit Jana! A 16 y/o developer from India. Obsessed with Maths, Tech, and Science and more! 
+Hey there! 👋 I'm Sunrit Jana, A 16 y/o developer from India. Obsessed with Maths, Tech, and Science and more! 
 Currently I'm Learning Python, Machine learning, Web development, C++ and Cyber Security! I'm interested in learning 
 Full Stack web development, Rust language, and more. I love not only to code, but also building, learning 
 and exploring new things, crossing things off my bucket list, and several hobbies, and goals that I want 
@@ -82,8 +82,8 @@ class SunritJana:
                 "Ethical Hacking", "Networking"
             ],
             "frontend": {
-                "css": ["Bootstrap", "Bulma", "Tailwind"],
-                "js": ["React", "NextJS", "Vue.JS", "Gatsby", "ViteJS"]
+                "css": ["Bootstrap", "Bulma", "Tailwind", "Chakra UI"],
+                "js": ["React", "NextJS", "Gatsby", "ViteJS"]
             },
             "backend": {
                 "python": ["Flask", "Django", "FastAPI", "Fastify", "ExpressJS"]
