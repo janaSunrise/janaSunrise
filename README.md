@@ -281,7 +281,7 @@ sunrit.say_hello()
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/janaSunrise/nextjs-quickstart-template/issues/3) in [janaSunrise/nextjs-quickstart-template](https://github.com/janaSunrise/nextjs-quickstart-template)
-2. 🎉 Merged PR [#114](https://github.com/janaSunrise/HypixelIO/pull/114) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 🗣 Commented on [#3](https://github.com/janaSunrise/nextjs-quickstart-template/issues/3) in [janaSunrise/nextjs-quickstart-template](https://github.com/janaSunrise/nextjs-quickstart-template)
 <!--END_SECTION:activity-->
 </details>
 
