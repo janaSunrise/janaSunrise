@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
-<h3 align="center">A Machine learning expert, A Full stack developer and Cyber security learner from India!</h3>
+<h3 align="center">A Machine learning expert, A Full stack developer and Cyber security learner from India</h3>
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
@@ -50,7 +50,7 @@ class SunritJana:
         self.pronouns = "He / Him"
         self.birthday = "27-10-2006"
 
-        self.tagline = "A guy who loves to learn with dreams to achieve something awesome! ⭐"
+        self.tagline = "⭐ A guy who loves to learn with dreams to achieve something awesome!"
 
         # -- About section --
         self.about = {
