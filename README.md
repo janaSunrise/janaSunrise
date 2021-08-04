@@ -28,7 +28,7 @@ learning and exploring new things, crossing things off my bucket list, and sever
 to love to do! Trying to learn, build and share something new every day, and Becoming better every day✌️
 
 I am also more passionate about building real-life projects, and I create projects to help with 
-real-life problems, becoming efficient, and boosting the development speed. I am really passionate 
+real-life problems, becoming efficient and boosting the development speed. I am really passionate 
 about coding, making interesting problems and innovative solutions, that can be useful in certain domains, 
 and also create boilerplates and more for speeding up process and building on amazing and innovative softwares 🤩
 
@@ -90,7 +90,7 @@ class SunritJana:
             },
             "cloud": ["Google cloud platform", "Amazon AWS", "Azure"],
             "databases": {
-                "SQL": ["PostgreSQL", "MySQL | MariaDB", "SQLite"],
+                "SQL": ["SQLite", "PostgreSQL", "MySQL | MariaDB"],
                 "NoSQL": ["Redis", "MongoDB", "Firebase", "Supabase"]
             },
             "DevSecOps": [
