@@ -21,16 +21,17 @@ npx sunrit
 
 ### Let's know about me 🤗
 
-Hey there! I'm Sunrit Jana 👋 A 16 y/o developer from India. Obsessed with Maths, Tech, Science and more! 
+Hey there! 👋 I'm Sunrit Jana! A 16 y/o developer from India. Obsessed with Maths, Tech, Science and more! 
 Currently, I'm Learning Python, Machine learning, Web development, C++ and Cyber Security! I'm interested in 
 learning Full Stack web development, Rust language, and more. I love not only to code, but also building, 
 learning and exploring new things, crossing things off my bucket list, and several hobbies, and goals that I want 
 to love to do! Trying to learn, build and share something new every day, and Becoming better every day✌️
 
-I am also more passionate about building real-life projects, and I create projects to help with 
+I am also more passionate about building real-life projects. I create projects to help with 
 real-life problems, becoming efficient and boosting the development speed. I am really passionate 
-about coding, making interesting problems and innovative solutions, that can be useful in certain domains, 
-and also create boilerplates and more for speeding up process and building on amazing and innovative softwares 🤩
+about coding, making interesting problems and finding innovative solutions to them that can be useful 
+in certain domains. I also create templates and starters and more for speeding up processes and building 
+amazing and innovative softwares 🤩
 
 Moreover, I'm a social maniac too and I'm pretty active on Discord and Twitter. Either building something 
 interesting, Making some insightful and incredible content for everyone, Hanging out with my friends, or 
