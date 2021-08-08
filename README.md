@@ -11,7 +11,7 @@
 
 > Ever tried, Ever failed? No matter. Try Again, Fail again. Fail better.
 
-> Always remember, Life is all about ups and downs, wins and losses. **Never be disappointed and Keep moving forward!**
+> Always remember, Life is all about ups and downs, wins and losses. Never be disappointed and Keep moving forward!
 
 **Catch me in your terminal and know me more by using the command!** ⤵️
 
@@ -66,7 +66,7 @@ class SunritJana:
                 "🏫 Teaching and mentoring",
                 "🤝 Helping people",
                 "💻 Reviewing others' code",
-                "🚀 Learning!",
+                "🚀 Learning!"
             ]
         }
         self.loves_to_build = [stuff.COOL, stuff.INNOVATIVE, stuff.AWESOME, stuff.USEFUL]
