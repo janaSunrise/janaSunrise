@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
-<h3 align="center">A Machine learning expert, A Full stack developer and Cyber security learner from India</h3>
+<h3 align="center">A Machine learning expert, A Full-stack developer and Cyber security learner from India</h3>
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
@@ -31,11 +31,11 @@ I am also more passionate about building real-life projects. I create projects t
 real-life problems, becoming efficient and boosting the development speed. I am really passionate 
 about coding, making interesting problems and finding innovative solutions to them that can be useful 
 in certain domains. I also create templates and starters and more for speeding up processes and building 
-amazing and innovative softwares 🤩
+amazing and innovative softwares! 🤩
 
 Moreover, I'm a social maniac too and I'm pretty active on Discord and Twitter. Either building something 
 interesting, Making some insightful and incredible content for everyone, Hanging out with my friends, or 
-Spending my time with the wonderful developer community! 😁
+Spending my time with the wonderful developer community. 😁
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me!
 
@@ -100,7 +100,7 @@ class SunritJana:
             "Security": ["Ethical hacking", "Pentesting", "Networking"]
         }
         self.ask_me_about = [
-            "C++", "Python", "Rust", "Java", "Javascript", "SQL",
+            "C++", "Python", "Rust", "Java", "Javascript", "SQL", 
             "Machine Learning", "Full Stack development", "DevOps", "Ethical hacking"
         ]
 
