@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
-<h3 align="center">A Machine learning expert, A Full-stack developer and Cyber security learner from India</h3>
+<h3 align="center">A Machine learning expert, Full-stack developer and Cyber security learner from India</h3>
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
@@ -23,9 +23,9 @@ npx sunrit
 
 Hey there! 👋 I'm Sunrit Jana! A 16 y/o developer from India. Obsessed with Maths, Tech, Science and more! 
 Currently, I'm Learning Python, Machine learning, Web development, C++ and Cyber Security! I'm interested in 
-learning Full Stack web development, Rust language, and more. I love not only to code, but also building, 
+learning Full Stack development, Rust language, and more. I love not only to code, but also building, 
 learning and exploring new things, crossing things off my bucket list, and several hobbies, and goals that 
-I have to do! Trying to learn, build and share something new every day, and Becoming better every day✌️
+I have to do! Trying to learn, build and share something new every day, and becoming better every day!✌️
 
 I am also more passionate about building real-life projects. I create projects to help with 
 real-life problems, becoming efficient and boosting the development speed. I am really passionate 
