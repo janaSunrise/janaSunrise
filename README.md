@@ -97,11 +97,11 @@ class SunritJana:
             "DevSecOps": [
                 "Docker", "CI / CD", "Linux System Administration", "Version Control System", "Virtualization"
             ],
-            "Security": ["Ethical hacking", "Pentesting", "Networking"]
+            "security": ["Ethical hacking", "Pentesting", "Networking"]
         }
         self.ask_me_about = [
             "C++", "Python", "Rust", "Java", "Javascript", "SQL", 
-            "Machine Learning", "Full Stack development", "DevOps", "Ethical hacking"
+            "Machine Learning", "Full Stack development", "DevSecOps", "Ethical hacking"
         ]
 
         # -- Social media section --
@@ -115,7 +115,7 @@ class SunritJana:
         }
 
         # -- Wrapping up --
-        self.fun_fact = "I love to watch animes, and Prefer coffee more than tea!"
+        self.fun_fact = "I love to watch animes, and I prefer coffee more than tea!"
 
     def __repr__(self) -> str:
         return f"<SunritJana working_on={self.working_on} active_at={self.most_active_at} ask_about={self.ask_me_about}>"
@@ -131,7 +131,7 @@ sunrit = SunritJana()
 sunrit.say_hello()
 ```
 
-### 🔗 Connect with me:
+### 🔗 Connect with me!
 
 <p align="center">
     
@@ -165,10 +165,10 @@ sunrit.say_hello()
 
   - **Laptop**: HP Notebook G5 (Intel I5, 12GB Ram)
   - **OS**: Windows 10 / Ubuntu 20.04 / Arch Linux
-  - **Terminal**: ZSH with Spaceship or Powerlevel10k theme.
-  - **Terminal-based editors**: Nano, NeoVim with ayu theme.
-  - **Browser**: Mozilla firefox and Microsoft Edge.
-  - **Code Editor**: VSCode, Jetbrains IDE, NeoVim.
+  - **Terminal**: ZSH with Spaceship or Powerlevel10k theme
+  - **Terminal-based editors**: Nano and NeoVim with Ayu theme
+  - **Browser**: Mozilla firefox and Microsoft Edge
+  - **Code Editor**: VSCode, Jetbrains IDE, NeoVim
   - **Music Player**: Spotify
   - **Note software**: Notion
 
