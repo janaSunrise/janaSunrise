@@ -281,8 +281,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/max-programming/easypastes/issues/6) in [max-programming/easypastes](https://github.com/max-programming/easypastes)
-2. 🗣 Commented on [#3](https://github.com/janaSunrise/nextjs-quickstart-template/issues/3) in [janaSunrise/nextjs-quickstart-template](https://github.com/janaSunrise/nextjs-quickstart-template)
+1. ❌ Closed PR [#4](https://github.com/janaSunrise/nextjs-quickstart-template/pull/4) in [janaSunrise/nextjs-quickstart-template](https://github.com/janaSunrise/nextjs-quickstart-template)
+2. 🎉 Merged PR [#3](https://github.com/janaSunrise/nextjs-quickstart-template/pull/3) in [janaSunrise/nextjs-quickstart-template](https://github.com/janaSunrise/nextjs-quickstart-template)
 <!--END_SECTION:activity-->
 </details>
 
