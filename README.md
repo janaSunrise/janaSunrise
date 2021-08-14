@@ -33,9 +33,9 @@ about coding, making interesting problems and finding innovative solutions to th
 in certain domains. I also create templates and starters and more for speeding up processes and building 
 amazing and innovative softwares! 🤩
 
-Moreover, I'm a social maniac too and I'm pretty active on Discord and Twitter. Either building something 
-interesting, Making some insightful and incredible content for everyone, Hanging out with my friends, or 
-Spending my time with the wonderful developer community. 😁
+Moreover, I'm a social maniac too and I'm pretty active on Discord and Twitter. I'm either building something 
+interesting, Making some incredible and insightful content for all, Hanging and Chatting with my friends, or 
+Spending my time with the incredible developer community! 😁
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me!
 
