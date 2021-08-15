@@ -25,7 +25,7 @@ Hey there! 👋 I'm Sunrit Jana! A 16 y/o developer from India. Obsessed with Ma
 Currently, I'm Learning Python, Machine learning, Web development, C++ and Cyber Security! I'm interested in 
 learning Full Stack development, Rust language, and more. I love not only to code, but also building, 
 learning and exploring new things, crossing things off my bucket list, and several hobbies, and goals that 
-I have to do! Trying to learn, build and share something new every day, and becoming better every day!✌️
+I have to do! Trying to learn, build, share something new every day, and becoming better every day!✌️
 
 I am also more passionate about building real-life projects. I create projects to help with 
 real-life problems, becoming efficient and boosting the development speed. I am really passionate 
