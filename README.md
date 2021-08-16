@@ -19,13 +19,13 @@
 npx sunrit
 ```
 
-### Let's know about me 🤗
+### 🤗 Let's know about me
 
 Hey there! 👋 I'm Sunrit Jana! A 16 y/o developer from India. Obsessed with Maths, Tech, Science and more! 
 Currently, I'm Learning Python, Machine learning, Web development, C++ and Cyber Security! I'm interested in 
 learning Full Stack development, Rust language, and more. I love not only to code, but also building, 
 learning and exploring new things, crossing things off my bucket list, and several hobbies, and goals that 
-I have to do! Trying to learn, build, share something new every day, and becoming better every day!✌️
+I have to do! Trying to learn, build, grow, share something new, and becoming better every day!✌️
 
 I am also more passionate about building real-life projects. I create projects to help with 
 real-life problems, becoming efficient and boosting the development speed. I am really passionate 
@@ -51,7 +51,7 @@ class SunritJana:
         self.pronouns = "He / Him"
         self.birthday = "27-10-2006"
 
-        self.tagline = "⭐ A guy who loves to learn with dreams to achieve something awesome!"
+        self.tagline = "🌟 Trying to learn, build, grow and become better every day!"
 
         # -- About section --
         self.about = {
@@ -146,7 +146,7 @@ sunrit.say_hello()
 
 <br />
 
-### 🎵 Spotify Playing
+### 🎵 Spotify playing
 
 [<img src="https://spotify-activity.warriordefenderz.vercel.app/api/spotify" alt="Sunrit Jana Spotify Playing" width="400" />](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aizc6x)
 
