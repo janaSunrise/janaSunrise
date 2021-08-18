@@ -21,7 +21,7 @@ npx sunrit
 
 ### 🤗 Let's know about me
 
-Hey there! 👋 I'm Sunrit Jana! A 16 y/o developer from India. Obsessed with Maths, Tech, Science and more! 
+Hey there 👋 I'm Sunrit Jana! A 16 y/o developer from India. Obsessed with Maths, Tech, Science and more! 
 Currently, I'm Learning Python, Machine learning, Web development, C++ and Cyber Security! I'm interested in 
 learning Full Stack development, Rust language, and more. I love to code, building new stuff, learning and 
 exploring amazing things! I even cross things from my bucket list, and I have a lot of hobbies and goals 
@@ -83,8 +83,8 @@ class SunritJana:
                 "Ethical Hacking", "Networking"
             ],
             "frontend": {
-                "css": ["Bootstrap", "Bulma", "Tailwind", "Chakra UI"],
-                "js": ["React", "NextJS", "Gatsby", "ViteJS"]
+                "css": ["Bootstrap", "Bulma", "Tailwind", "ChakraUI"],
+                "js": ["React", "NextJS", "Gatsby", "ViteJS", "VueJS"]
             },
             "backend": {
                 "python": ["Flask", "Django", "FastAPI", "Fastify", "ExpressJS"]
@@ -92,7 +92,7 @@ class SunritJana:
             "cloud": ["Google cloud platform", "Amazon AWS", "Azure"],
             "databases": {
                 "SQL": ["SQLite", "PostgreSQL", "MySQL | MariaDB"],
-                "NoSQL": ["Redis", "MongoDB", "Firebase", "Supabase"]
+                "NoSQL": ["MongoDB", "Firebase", "Supabase", "Redis"]
             },
             "DevSecOps": [
                 "Docker", "CI / CD", "Linux System Administration", "Version Control System", "Virtualization"
