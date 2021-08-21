@@ -28,9 +28,9 @@ exploring amazing things! I even cross things from my bucket list, and I have a 
 that I love to do! Trying to learn, build, grow, share something new, and becoming better every day!✌️
 
 I am also more passionate about building real-life projects. I create projects to help with 
-real-life problems, becoming efficient and boosting the development speed. I am really passionate 
+real-life problems, becoming efficient and boosting the development speed. I am passionate 
 about coding, making interesting problems and finding innovative solutions to them that can be useful 
-in certain domains. I also create templates and starters and more for speeding up processes and building 
+in certain domains. I also create templates, starters and more for speeding up processes and building 
 amazing and innovative softwares!🤩
 
 Moreover, I'm a social maniac too and I'm pretty active on Discord and Twitter. I'm either building something 
