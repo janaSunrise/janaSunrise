@@ -281,8 +281,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#134](https://github.com/janaSunrise/HypixelIO/pull/134) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
-2. 💪 Opened PR [#9](https://github.com/max-programming/easypastes/pull/9) in [max-programming/easypastes](https://github.com/max-programming/easypastes)
+1. 🎉 Merged PR [#1](https://github.com/janaSunrise/Anime-face-generation-DCGAN-webapp/pull/1) in [janaSunrise/Anime-face-generation-DCGAN-webapp](https://github.com/janaSunrise/Anime-face-generation-DCGAN-webapp)
+2. 🎉 Merged PR [#1](https://github.com/janaSunrise/Anime-face-generation-DCGAN/pull/1) in [janaSunrise/Anime-face-generation-DCGAN](https://github.com/janaSunrise/Anime-face-generation-DCGAN)
 <!--END_SECTION:activity-->
 </details>
 
