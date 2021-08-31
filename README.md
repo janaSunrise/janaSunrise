@@ -87,7 +87,8 @@ class SunritJana:
                 "js": ["React", "NextJS", "Gatsby", "ViteJS", "VueJS"]
             },
             "backend": {
-                "python": ["Flask", "Django", "FastAPI", "Fastify", "ExpressJS"]
+                "python": ["Flask", "Django", "FastAPI"],
+                "javascript": ["Fastify", "ExpressJS"]
             },
             "cloud": ["Google cloud platform", "Amazon AWS", "Azure"],
             "databases": {
