@@ -92,7 +92,7 @@ class SunritJana:
             },
             "cloud": ["Google cloud platform", "Amazon AWS", "Azure"],
             "databases": {
-                "SQL": ["SQLite", "PostgreSQL", "MySQL | MariaDB"],
+                "SQL": ["SQLite", "PostgreSQL", "MySQL"],
                 "NoSQL": ["MongoDB", "Firebase", "Supabase", "Redis"]
             },
             "DevSecOps": [
