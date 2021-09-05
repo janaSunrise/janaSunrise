@@ -21,7 +21,7 @@ npx sunrit
 
 ### 🤗 Let's know about me!
 
-Hey there! 👋 I'm Sunrit Jana, A 16 y/o developer from India. Obsessed with Maths, Tech, Science and more!
+Hey there!👋 I'm Sunrit Jana, A 16 y/o developer from India. Obsessed with Maths, Tech, Science and more!
 Currently, I'm Learning Python, Machine learning, Web development, C++ and Cyber Security! I'm interested in
 learning Full Stack development, Rust language, and more. I love to code, build new stuff, learn and
 explore amazing things! I even cross things from my bucket list, and I have a lot of hobbies and goals
