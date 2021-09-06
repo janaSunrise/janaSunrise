@@ -431,7 +431,7 @@ Linear regression was created in the field of statistics. It's studied as a mode
 <a href="https://janasunrise.hashnode.dev/gradient-descent-and-all-about-it-ckl6pfhjr027hlos1g5iuc554" title="Gradient descent and all about it"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613401194762/mYyhKHsDk.png" alt="Gradient descent and all about it" width="250px" align="left" /></a>
 <a href="https://janasunrise.hashnode.dev/gradient-descent-and-all-about-it-ckl6pfhjr027hlos1g5iuc554" title="Gradient descent and all about it"><strong>Gradient descent and all about it</strong></a>
 <div><strong>15 Feb 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> Heyy everyone! Welcome to this blog on gradient descent, and various features and calculations in it.
+<br/> Hey everyone! Welcome to this blog on gradient descent, and various features and calculations in it.
 If you're not familiar with it, Gradient descent is a ML optimization algorithm, that helps finding a local minimum of a differentiable function rea... </p> <br/> <br/>
 <p align="left">
 <a href="https://janasunrise.hashnode.dev/preparing-your-data-for-training-your-model-ckkurmykw0295bxs16bzdffdy" title="Preparing your data for training your model"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612679322184/S9CkXVfXV.png" alt="Preparing your data for training your model" width="250px" align="right" /></a>
