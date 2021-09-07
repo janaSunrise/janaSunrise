@@ -100,10 +100,10 @@ class SunritJana:
             ],
             "security": ["Ethical hacking", "Pentesting", "Networking"]
         }
-        self.ask_me_about = [
-            "C++", "Python", "Rust", "Java", "Javascript", "SQL", 
-            "Machine Learning", "Full Stack development", "DevSecOps", "Ethical hacking"
-        ]
+        self.ask_me_about = {
+            "languages": ["C++", "Python", "Rust", "Javascript", "Java", "SQL"],
+            "branches": ["Machine Learning", "Full Stack development", "DevSecOps", "Ethical hacking"]
+        }
 
         # -- Social media section --
         self.social_media = {
