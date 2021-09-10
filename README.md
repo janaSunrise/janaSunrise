@@ -283,8 +283,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#152](https://github.com/janaSunrise/HypixelIO/pull/152) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
-2. 🗣 Commented on [#344](https://github.com/shankarpandala/lazypredict/issues/344) in [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict)
+1. 🎉 Merged PR [#153](https://github.com/janaSunrise/HypixelIO/pull/153) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 🎉 Merged PR [#152](https://github.com/janaSunrise/HypixelIO/pull/152) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
 <!--END_SECTION:activity-->
 </details>
 
