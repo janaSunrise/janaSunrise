@@ -84,7 +84,7 @@ class SunritJana:
             ],
             "frontend": {
                 "css": ["Bootstrap", "Bulma", "Tailwind", "ChakraUI"],
-                "js": ["React", "NextJS", "Gatsby", "ViteJS", "VueJS"]
+                "js": ["React", "NextJS", "Gatsby", "VueJS", "ViteJS"]
             },
             "backend": {
                 "python": ["Flask", "Django", "FastAPI"],
