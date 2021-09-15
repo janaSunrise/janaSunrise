@@ -13,7 +13,7 @@
 
 > Always remember, Life is all about ups and downs, wins and losses. Never be disappointed and Keep moving forward!
 
-**Catch me in your terminal and know me more by using the command!** ⤵️
+**Catch me in your terminal and know me more by using the command!** 👇
 
 ```sh
 npx sunrit
