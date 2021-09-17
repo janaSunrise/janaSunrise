@@ -27,13 +27,13 @@ Computer science as a whole. I'm also learning Full-stack development, Rust lang
 in the background. As always, I love to code, building something innovative and amazing, along with learning
 and exploring things! Always Trying to learn, build, grow, share something, and become better every day 🤗
 
-I am proud of who I am. Constantly learning new things, and making myself more prepared, and pushing myself
-to do something that is incredible, revolutionary and can be of use for specific domains or a lot of people.
-My projects are focused on Being interesting and helpful, Giving efficient solutions to problems, Solving
-Real-life issues, Making coding more accessible or efficient, and others. I'm extremely passionate about coding
-and computer science, Revolutionizing things by harnessing the power of Machine learning, Web development or other
-fields, Learning from my issues and trying to solve them for once and all, and bringing the potential out in me
-for the greater good 🤩
+Being passionate about this field, I am Constantly learning new things, and making myself more prepared, and
+pushing myself to do something that is incredible, revolutionary and can be of use for specific domains or a
+lot of people. My projects are focused on Being interesting and helpful, Giving efficient solutions to problems,
+Solving Real-life issues, Making coding more accessible or efficient, and others. I'm extremely passionate about
+coding and computer science, Revolutionizing things by harnessing the power of Machine learning, Web development
+or other fields, Learning from my issues and trying to solve them for once and all, and bringing the potential out
+in me for the greater good 🤩
 
 You can know me more and find my projects at my [Github](https://github.com/janaSunrise/). 🥰 I'm always up
 for a Chat, Any collaboration requests, or any help too! You can find me at [Twitter](https://twitter.com/JanaSunrise),
