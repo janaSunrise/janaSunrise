@@ -21,21 +21,23 @@ npx sunrit
 
 ### 🤗 Let's know about me!
 
-Hey there! 👋 I'm Sunrit Jana, A 16 y/o developer from India. Obsessed with Maths, Tech, Science and more!
-Currently, I'm Learning Python, Machine learning, Web development, C++ and Cyber Security! I'm interested in
-learning Full Stack development, Rust language, and more. I love to code, build new stuff, learn and
-explore amazing things! I even cross things from my bucket list, and I have a lot of hobbies and goals
-that I love to do! Trying to learn, build, grow, share something, and become better every day! 🤗
+Hey there! 👋 I'm Sunrit Jana. A 16 y/o developer, from India. Obsessed with Maths, Tech, Science and more.
+Currently learning and focusing on Python, Machine learning, Web development, C++ and Cyber security, and
+Computer science as a whole. I'm also learning Full-stack development, Rust language and lots of more stuff
+in the background. As always, I love to code, building something innovative and amazing, along with learning
+and exploring things! Always Trying to learn, build, grow, share something, and become better every day 🤗
 
-I am a lot passionate about building innovative real-life projects. I create projects to help with
-real-life problems, becoming efficient, boosting the development speed and more. I am passionate
-about coding, making interesting problems and finding innovative solutions to them that can be useful
-in certain domains. I also create templates, starters and more for speeding up processes and building
-amazing and innovative softwares! 🤩
+I am proud of who I am. Constantly learning new things, and making myself more prepared, and pushing myself
+to do something that is incredible, revolutionary and can be of use for specific domains or a lot of people.
+My projects are focused on Being interesting and helpful, Giving efficient solutions to problems, Solving
+Real-life issues, Making coding more accessible or efficient, and others. I'm extremely passionate about coding
+and computer science, Revolutionizing things by harnessing the power of Machine learning, Web development or other
+fields, Learning from my issues and trying to solve them for once and all, and bringing the potential out in me
+for the greater good 🤩
 
-Moreover, I'm a social maniac too and I'm pretty active on Discord and Twitter. I'm either building something
-interesting, Making some incredible and insightful content for all, Hanging and Chatting with my friends, or
-Spending my time with the incredible developer community! 😁
+You can know me more and find my projects at my [Github](https://github.com/janaSunrise/). 🥰 I'm always up
+for a Chat, Any collaboration requests, or any help too! You can find me at [Twitter](https://twitter.com/JanaSunrise),
+my other socials or Feel free to drop me a mail at [warriordefenderz@gmail.com](mailto:warriordefenderz@gmail.com) 😁
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me!
 
