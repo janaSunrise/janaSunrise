@@ -285,8 +285,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/janaSunrise/Autoencoder-Image-Pytorch/pull/1) in [janaSunrise/Autoencoder-Image-Pytorch](https://github.com/janaSunrise/Autoencoder-Image-Pytorch)
-2. 🎉 Merged PR [#162](https://github.com/janaSunrise/HypixelIO/pull/162) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+1. 🎉 Merged PR [#163](https://github.com/janaSunrise/HypixelIO/pull/163) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 🎉 Merged PR [#1](https://github.com/janaSunrise/Autoencoder-Image-Pytorch/pull/1) in [janaSunrise/Autoencoder-Image-Pytorch](https://github.com/janaSunrise/Autoencoder-Image-Pytorch)
 <!--END_SECTION:activity-->
 </details>
 
