@@ -415,7 +415,7 @@ So, here's the thing, We all know ExpressJS is indeed popular and probably one o
 <p align="left">
 <a href="https://janasunrise.hashnode.dev/writing-our-first-deep-learning-model-ckmspjqu50bf7l0s19i61flzv" title="Writing our first deep learning model"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616674231900/AlvHiQAgB.png" alt="Writing our first deep learning model" width="250px" align="right" /></a>
 <a href="https://janasunrise.hashnode.dev/writing-our-first-deep-learning-model-ckmspjqu50bf7l0s19i61flzv" title="Writing our first deep learning model"><strong>Writing our first deep learning model</strong></a>
-<div><strong>28 Mar 2021</strong> | <strong>1 Jan 1970</strong></div>
+<div><strong>28 Mar 2021</strong> | <strong>21 Sept 2021</strong></div>
 <br/> Hey everyone! In this article, we're gonna be writing our first deep learning model from scratch. We'll be covering the basic things with explanations on the way, and then do our model that predicts and then export it for normal use.
 We'll be using G... </p> <br/> <br/>
 <p align="left">
