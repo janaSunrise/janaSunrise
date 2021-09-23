@@ -27,7 +27,7 @@ Computer science as a whole. I'm also learning Full-stack development, Rust lang
 in the background. As always, I love to code, building something innovative and amazing, along with learning
 and exploring things! Always Trying to learn, build, grow, share something, and become better every day 🤗
 
-Being passionate about this field, I am Constantly learning new things, and making myself more prepared, and
+Being passionate about this field, I am constantly learning new things, and making myself more prepared, and
 pushing myself to do something that is incredible, revolutionary and can be of use for specific domains or a
 lot of people. My projects are focused on being interesting and helpful, giving efficient solutions to problems,
 solving Real-life issues, making coding more accessible or efficient, and others. I'm extremely passionate about
