@@ -160,7 +160,7 @@ sunrit.say_hello()
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janaSunrise&theme=algolia" alt="janaSunrise" />
 </p>
 
-### ⚡ Some more amazing info and stats about me!
+### ⚡ Some more amazing info and stats about me
 
 <!-- Workspace info -->
 
@@ -265,7 +265,7 @@ sunrit.say_hello()
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="spotify" />
     <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="youtube-music">
 
-  - **Bloging**
+  - **Blogging**
 
     <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
 
