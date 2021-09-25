@@ -31,7 +31,7 @@ Being passionate about this field, I am constantly learning new things, and maki
 pushing myself to do something that is incredible, revolutionary and can be of use for specific domains or a
 lot of people. My projects are focused on being interesting and helpful, giving efficient solutions to problems,
 solving Real-life issues, making coding more accessible or efficient, and others. I'm extremely passionate about
-coding and computer science, Revolutionizing things by harnessing the power of Machine learning, Web development
+coding and computer science, revolutionizing things by harnessing the power of Machine learning, Web development
 or other fields, Learning from my issues and trying to solve them for once and all, and bringing the potential out
 in me for the greater good 🤩
 
