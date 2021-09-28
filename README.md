@@ -285,8 +285,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/janaSunrise/Plant-disease-detection/issues/1) in [janaSunrise/Plant-disease-detection](https://github.com/janaSunrise/Plant-disease-detection)
-2. 🎉 Merged PR [#166](https://github.com/janaSunrise/HypixelIO/pull/166) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+1. 💪 Opened PR [#8](https://github.com/Deep-Alchemy/Mini-Keras/pull/8) in [Deep-Alchemy/Mini-Keras](https://github.com/Deep-Alchemy/Mini-Keras)
+2. 🗣 Commented on [#1](https://github.com/janaSunrise/Plant-disease-detection/issues/1) in [janaSunrise/Plant-disease-detection](https://github.com/janaSunrise/Plant-disease-detection)
 <!--END_SECTION:activity-->
 </details>
 
