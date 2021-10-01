@@ -285,8 +285,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/max-programming/hacktoberfest-projects/issues/2) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🎉 Merged PR [#169](https://github.com/janaSunrise/HypixelIO/pull/169) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+1. 🎉 Merged PR [#5](https://github.com/max-programming/hacktoberfest-projects/pull/5) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 💪 Opened PR [#5](https://github.com/max-programming/hacktoberfest-projects/pull/5) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 </details>
 
