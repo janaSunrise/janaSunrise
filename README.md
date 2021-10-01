@@ -92,7 +92,7 @@ class SunritJana:
                 "python": ["Flask", "Django", "FastAPI"],
                 "javascript": ["Fastify", "ExpressJS"]
             },
-            "cloud": ["Google cloud platform", "Amazon AWS", "Azure"],
+            "cloud": ["Google cloud platform", "Amazon AWS"],
             "databases": {
                 "SQL": ["SQLite", "PostgreSQL", "MySQL"],
                 "NoSQL": ["MongoDB", "Firebase", "Supabase", "Redis"]
