@@ -285,8 +285,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/max-programming/hacktoberfest-projects/issues/21) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#20](https://github.com/max-programming/hacktoberfest-projects/issues/20) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🎉 Merged PR [#1](https://github.com/Faholan/All-Hail-Chaos-rewrite/pull/1) in [Faholan/All-Hail-Chaos-rewrite](https://github.com/Faholan/All-Hail-Chaos-rewrite)
+2. 🗣 Commented on [#23](https://github.com/max-programming/hacktoberfest-projects/issues/23) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 </details>
 
