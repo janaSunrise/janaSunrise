@@ -285,7 +285,7 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Rohith04MVK/Brain-Tumor-Segmentation-And-Classification/pull/4) in [Rohith04MVK/Brain-Tumor-Segmentation-And-Classification](https://github.com/Rohith04MVK/Brain-Tumor-Segmentation-And-Classification)
+1. 🗣 Commented on [#21](https://github.com/max-programming/hacktoberfest-projects/issues/21) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 2. 🗣 Commented on [#20](https://github.com/max-programming/hacktoberfest-projects/issues/20) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 </details>
