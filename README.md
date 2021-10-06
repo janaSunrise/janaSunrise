@@ -285,8 +285,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#173](https://github.com/janaSunrise/HypixelIO/pull/173) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
-2. 💪 Opened PR [#1](https://github.com/PrasoonPratham/evaluation-metrics/pull/1) in [PrasoonPratham/evaluation-metrics](https://github.com/PrasoonPratham/evaluation-metrics)
+1. ❌ Closed PR [#14](https://github.com/max-programming/easypastes/pull/14) in [max-programming/easypastes](https://github.com/max-programming/easypastes)
+2. 🗣 Commented on [#14](https://github.com/max-programming/easypastes/issues/14) in [max-programming/easypastes](https://github.com/max-programming/easypastes)
 <!--END_SECTION:activity-->
 </details>
 
