@@ -59,10 +59,10 @@ class SunritJana:
         self.about = {
             "loves_to": [
                 "💻 Code",
-                "🎸 Play guitar",
                 "🏫 Play with maths and science",
                 "🔭 Explore new things",
-                "🧪 Experiment and discover things"
+                "🧪 Experiment and discover things",
+                "🎸 Play guitar"
             ],
             "likes_to": [
                 "🏫 Teaching and mentoring",
