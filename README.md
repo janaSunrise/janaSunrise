@@ -1,3 +1,4 @@
+<!-- Main title -->
 <h1 align="center">
     Hey there 
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
@@ -7,11 +8,15 @@
 
 <h3 align="center">A Machine learning expert, Full-stack developer and Budding Ethical hacker from India</h3>
 
+<br />
+
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
 > Ever tried, Ever failed? No matter. Try Again, Fail again. Fail better.
 
 > Always remember, Life is all about ups and downs, wins and losses. Never be disappointed and Keep moving forward!
+
+<!-- `npx` command -->
 
 👇 **Catch me in your terminal and know me more by using the command!**
 
@@ -19,21 +24,22 @@
 npx sunrit
 ```
 
+<!-- About me -->
+
 ### 🤗 Let's know about me!
 
 Hey there! 👋 I'm Sunrit Jana. A 16 y/o developer, from India. Obsessed with Maths, Tech, Science and more.
-Currently learning and focusing on Python, Machine learning, Web development, C++ and Cyber security, and
-Computer science as a whole. I'm also learning Full-stack development, Rust language and lots of more stuff
-in the background. As always, I love to code, building something innovative and amazing, along with learning
-and exploring things! Always Trying to learn, build, grow, share something, and become better every day. 🤗
+Currently learning and focusing on Python, Machine learning, Web development, C++ and Cyber security. I'm
+also learning Full-stack development, Rust language and lots of more stuff in the background. As always,
+I love to code, build something innovative and amazing, along with learning and exploring things! Always
+Trying to learn, build, grow, share something, and become better every day. 🤗
 
-Being passionate about this field, I am constantly learning new things, and making myself more prepared, and
-pushing myself to do something that is incredible, revolutionary and can be of use for specific domains or a
-lot of people. My projects are focused on being interesting and helpful, giving efficient solutions to problems,
-solving real-life issues, making coding more accessible or efficient, and others. I'm extremely passionate about
-coding and computer science, revolutionizing things by harnessing the power of Machine learning, Web development
-or other fields, Learning from my issues and trying to solve them for once and all, and bringing the potential out
-in me for the greater good! 🤩
+Being passionate about this field, I am constantly learning new things, and pushing myself to do something that
+is incredible, revolutionary and can be of use for specific domains or a lot of people. My projects are focused
+on being interesting and helpful, giving efficient solutions to problems, solving real-life issues, making coding
+more accessible or efficient, and others. I'm extremely passionate about coding and computer science, revolutionizing
+things by harnessing the power of Machine learning, Web development or other fields, Learning from my issues and
+trying to solve them for once and all, and bringing the potential out in me for the greater good! 🤩
 
 You can know me more and find my projects at my [Github](https://github.com/janaSunrise/). I'm always up
 for a chat, any collaboration requests, or any help too! 🥰 You can find me at [Twitter](https://twitter.com/JanaSunrise),
