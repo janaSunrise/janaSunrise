@@ -14,7 +14,7 @@
 
 > Ever tried, Ever failed? No matter. Try Again, Fail again. Fail better.
 
-> Always remember, Life is all about ups and downs, wins and losses. Never be disappointed and Keep moving forward!
+> Life is all about ups and downs, wins and losses. Never be disappointed and Keep moving forward!
 
 <!-- `npx` command -->
 
