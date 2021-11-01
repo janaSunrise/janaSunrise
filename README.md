@@ -183,7 +183,7 @@ sunrit.say_hello()
 <!-- Toolset summary -->
 
 <details>
-  <summary> 🛠 Tools I use to code with! </summary>
+  <summary>🛠 Tools I use to code with! </summary>
   
   - **UI / UX**
 
