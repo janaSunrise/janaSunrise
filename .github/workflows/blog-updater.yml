@@ -1,23 +1,17 @@
-name: "📚 Blog Updater"
+name: Latest blog post workflow
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs Every Day
+    - cron: '0 0 * * *'
 
 jobs:
   update_blogs:
-    name: "Update Blogs"
+    name: Update Blogs
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
-
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+      - uses: actions/checkout@main
+      - name: Update the blogs
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          USERNAME: 'janaSunrise' # Hashnode Username
-          COUNT: 6
-          STYLE: "blog-alternate"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          feed_list: "https://thedevden.hashnode.dev/rss.xml"
