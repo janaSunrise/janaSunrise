@@ -12,7 +12,7 @@
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
-> Ever tried, Ever failed? No matter. Try Again, Fail again. Fail better.
+> Ever tried, Ever failed? No matter, Try Again. Fail again. Fail better.
 
 > Life is all about ups and downs, wins and losses. Never be disappointed and Keep moving forward!
 
