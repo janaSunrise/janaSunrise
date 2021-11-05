@@ -156,6 +156,12 @@ sunrit.say_hello()
 
 [<img src="https://spotify-activity.warriordefenderz.vercel.app/api/spotify" alt="Sunrit Jana Spotify Playing" width="400" />](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aizc6x)
 
+### 📉 My GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=janaSunrise&show_icons=true&count_private=true)
+
+### 🔼 My Top Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=janaSunrise)
+
 ### 🔥 Streak stats
 
 <p align="center">
