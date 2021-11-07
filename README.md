@@ -50,14 +50,14 @@ import stuff
 
 class SunritJana:
     def __init__(self) -> None:
-        # -- Intro section --
+        # Intro section
         self.name = "Sunrit Jana"
         self.pronouns = "He / Him"
         self.birthday = "27-10-2006"
 
         self.tagline = "🌟 Trying to learn, build, grow and become better every day!"
 
-        # -- About section --
+        # About section
         self.about = {
             "loves_to": [
                 "💻 Code",
@@ -76,7 +76,7 @@ class SunritJana:
         self.loves_to_build = [stuff.COOL, stuff.INNOVATIVE, stuff.AWESOME, stuff.USEFUL]
         self.most_active_at = [socials.DISCORD, socials.TWITTER, socials.GITHUB, socials.LINKEDIN]
 
-        # -- Tech stack section --
+        # Tech stack section
         self.working_on = [stuff.code.MACHINE_LEARNING, stuff.code.WEB_DEVELOPMENT, stuff.security.ETHICAL_HACKING]
 
         self.tech_stack = {
@@ -110,7 +110,7 @@ class SunritJana:
             "branches": ["Machine Learning", "Full Stack development", "DevSecOps", "Ethical hacking"]
         }
 
-        # -- Social media section --
+        # Social media section
         self.social_media = {
             "email": "warriordefenderz@gmail.com",
             "github": "https://github.com/janaSunrise",
@@ -120,7 +120,7 @@ class SunritJana:
             "blog": "https://thedevden.hashnode.dev"
         }
 
-        # -- Wrapping up --
+        # Wrap up
         self.fun_fact = "I love to watch animes, and I prefer coffee more than tea!"
 
     def __repr__(self) -> str:
