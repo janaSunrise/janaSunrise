@@ -180,7 +180,7 @@ sunrit.say_hello()
 
 </details>
 
-<!-- Toolset summary -->
+<!-- Tech stack summary -->
 
 <details>
   <summary>🛠 Tools I use to code with! </summary>
@@ -297,7 +297,7 @@ sunrit.say_hello()
 <details>
   <summary>📊 My Github Stats</summary>
  
-  <p><img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" /></p>
+  <p> <img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" /></p>
   
   <p align="left"> <a href="https://github.com/janaSunrise"><img src="https://github-profile-trophy.vercel.app/?username=janaSunrise" alt="janaSunrise" /></a> </p>
   
