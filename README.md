@@ -87,8 +87,8 @@ class SunritJana:
                 "Ethical Hacking", "Networking"
             ],
             "frontend": {
-                "css": ["Bootstrap", "Bulma", "Tailwind", "ChakraUI"],
-                "js": ["React", "NextJS", "Gatsby", "VueJS", "ViteJS"]
+                "css": ["Bootstrap", "Bulma", "Tailwind", "Chakra UI"],
+                "js": ["React", "NextJS", "Gatsby", "Vue JS", "Vite JS"]
             },
             "backend": {
                 "python": ["Flask", "Django", "FastAPI"],
