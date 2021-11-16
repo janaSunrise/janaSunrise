@@ -12,7 +12,7 @@
 
 <img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
-> Ever tried, Ever failed? No matter, Try Again. Fail again. Fail better.
+> Ever tried, Ever failed? No matter, Try Again. Fail again, Fail better.
 
 > Life is all about ups and downs, wins and losses. Never be disappointed and Keep moving forward!
 
@@ -31,7 +31,7 @@ innovative and amazing, along with learning and exploring things! Always Trying 
 something, and become better every day! 🤗
 
 Being passionate about this field, I am constantly learning new things, and pushing myself to do something that
-is incredible, revolutionary and can be of use for specific domains or a lot of people. My projects are focused
+is amazing, revolutionary and can solve problems for specific domains or a lot of people. My projects are focused
 on being interesting and helpful, giving efficient solutions to problems, solving real-life issues, making coding
 more accessible or efficient, and others. I'm extremely passionate about coding and computer science, revolutionizing
 things by harnessing the power of Machine learning, Web development or other fields, Learning from my issues and
