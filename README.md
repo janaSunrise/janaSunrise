@@ -10,7 +10,7 @@
 
 <br />
 
-<img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
+<img src="https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
 > Ever tried, Ever failed? No matter, Try Again. Fail again, Fail better.
 
