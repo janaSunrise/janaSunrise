@@ -32,7 +32,7 @@ something, and become better every day! 🤗
 
 Being passionate about this field, I am constantly learning new things and pushing myself to do something that
 is amazing, revolutionary and can solve problems for specific domains or a lot of people. My projects are focused
-on being interesting and helpful, giving efficient solutions to problems, solving real-life issues, making coding
+on being interesting and helpful, giving efficient solutions to problems, solving real-life issues, making programming
 more accessible or efficient, and others. I'm extremely passionate about coding and computer science, revolutionizing
 things by harnessing the power of Machine learning, Web development and more, Learning from my issues, trying to
 solve them for once and all, and bringing the potential out in me for the greater good! 🤩
