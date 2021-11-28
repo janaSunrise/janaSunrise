@@ -169,10 +169,10 @@ sunrit.say_hello()
 <details>
   <summary>⚙️ My workspace setup</summary>
 
-  - **Laptop**: HP Notebook G5 (Intel I5, 12GB memory)
+  - **Laptop**: HP Notebook G5 (Intel i5, 12GB memory)
   - **OS**: Windows 10 / Ubuntu 20.04 / Arch Linux
   - **Terminal**: ZSH with Spaceship or Powerlevel10k theme
-  - **Terminal-based editors**: Nano and NeoVim with Ayu theme
+  - **Terminal-based editors**: Nano, NeoVim
   - **Browser**: Mozilla firefox and Microsoft Edge
   - **Code Editor**: VSCode, Jetbrains IDE, NeoVim
   - **Music Player**: Spotify
