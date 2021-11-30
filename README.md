@@ -6,7 +6,7 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
-<h3 align="center">A Machine learning expert, Full-stack developer and Budding Ethical hacker from India</h3>
+<h3 align="center">A Machine learning expert, Full-stack developer and Budding ethical hacker from India</h3>
 
 <br />
 
