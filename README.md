@@ -287,8 +287,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/AdityaChaudhary0005/DeSo.py/pull/5) in [AdityaChaudhary0005/DeSo.py](https://github.com/AdityaChaudhary0005/DeSo.py)
-2. 🎉 Merged PR [#1](https://github.com/janaSunrise/DeSo.py/pull/1) in [janaSunrise/DeSo.py](https://github.com/janaSunrise/DeSo.py)
+1. 🎉 Merged PR [#222](https://github.com/janaSunrise/HypixelIO/pull/222) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 🎉 Merged PR [#223](https://github.com/janaSunrise/HypixelIO/pull/223) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
 <!--END_SECTION:activity-->
 </details>
 
