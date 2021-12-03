@@ -422,7 +422,6 @@ Java                     2 repos             ░░░░░░░░░░░�
   <summary>Please only read this, if you're actually interested in life lessons and inspirations.</summary>
 
   <p align="left"><img src="https://raw.githubusercontent.com/janaSunrise/janaSunrise/master/images/thought.png" alt="janasunrise" /></p>
-
 </details>
 
 <br />
