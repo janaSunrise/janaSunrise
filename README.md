@@ -30,7 +30,7 @@ development, Rust language and lots of other stuff in the background. As always,
 innovative and amazing, along with learning and exploring things! Always trying to learn, build, grow, share
 something, and become better every day! 🤗
 
-Being passionate about this field, I am constantly learning new things and pushing myself to do something that
+Being passionate about this field, I'm constantly learning new things and pushing myself to do something that
 is amazing, revolutionary and can solve problems for specific domains or a lot of people. My projects are focused
 on being interesting and helpful, giving efficient solutions to problems, solving real-life issues, making programming
 more accessible or efficient, and others. I'm extremely passionate about coding and computer science, revolutionizing
