@@ -174,9 +174,9 @@ sunrit.say_hello()
   - **Terminal**: ZSH with Spaceship or Powerlevel10k theme
   - **Terminal-based editors**: Nano, NeoVim
   - **Browser**: Mozilla firefox and Microsoft Edge
-  - **Code Editor**: VSCode, Jetbrains IDE, NeoVim
+  - **Code Editor**: VSCode, Jetbrains IDEs, Neovim
   - **Music Player**: Spotify
-  - **Note software**: Notion
+  - **Note app**: Notion
 
 </details>
 
