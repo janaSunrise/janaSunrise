@@ -100,7 +100,7 @@ class SunritJana:
                 "NoSQL": ["MongoDB", "Firebase", "Supabase", "Redis"]
             },
             "DevSecOps": [
-                "Docker", "CI / CD", "Linux System Administration", "Version Control System", "Virtualization"
+                "Docker", "CI/CD", "Linux System Administration", "Version Control System", "Virtualization"
             ],
             "security": ["Ethical hacking", "Pentesting", "Networking"]
         }
