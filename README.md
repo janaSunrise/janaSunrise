@@ -39,7 +39,7 @@ solve them for once and all, and bringing the potential out in me for the greate
 
 You can know me more and find my projects at my [Github](https://github.com/janaSunrise/). I'm always up
 for a chat, collaboration requests, or help! You can find me at [Twitter](https://twitter.com/JanaSunrise),
-my other socials or feel free to drop me a mail at [warriordefenderz@gmail.com](mailto:warriordefenderz@gmail.com). 😁
+my other socials or feel free to drop me a mail at [warriordefenderz@gmail.com](mailto:warriordefenderz@gmail.com)!
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me!
 
