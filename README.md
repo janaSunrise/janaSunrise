@@ -28,14 +28,14 @@ Hey there! 👋 I'm Sunrit Jana, A 16 y/o developer from India. Obsessed with Ma
 Focused on Python, Machine learning, Web development, C++ and Cyber security. I'm also learning Full-stack
 development, Rust language and lots of other stuff in the background. As always, I love to code, build something
 innovative and amazing, along with learning and exploring things! Always trying to learn, build, grow, share
-something, and become better every day! 🤗
+something, and become better every day!
 
 Being passionate about this field, I'm constantly learning new things and pushing myself to do something that
 is amazing, revolutionary and can solve problems for specific domains or a lot of people. My projects are focused
 on being interesting and helpful, giving efficient solutions to problems, solving real-life issues, making programming
 more accessible or efficient, and others. I'm extremely passionate about coding and computer science, revolutionizing
 things by harnessing the power of Machine learning, Web development and more, Learning from my issues, trying to
-solve them for once and all, and bringing the potential out in me for the greater good! 🤩
+solve them for once and all, and bringing the potential out in me for the greater good.
 
 You can know me more and find my projects at my [Github](https://github.com/janaSunrise/). I'm always up
 for a chat, collaboration requests, or help! You can find me at [Twitter](https://twitter.com/JanaSunrise),
