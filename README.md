@@ -287,8 +287,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#245](https://github.com/janaSunrise/HypixelIO/pull/245) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
-2. 💪 Opened PR [#2](https://github.com/fanoway/smart_inputs/pull/2) in [fanoway/smart_inputs](https://github.com/fanoway/smart_inputs)
+1. ❌ Closed PR [#2](https://github.com/fanoway/smart_inputs/pull/2) in [fanoway/smart_inputs](https://github.com/fanoway/smart_inputs)
+2. 🗣 Commented on [#2](https://github.com/fanoway/smart_inputs/issues/2) in [fanoway/smart_inputs](https://github.com/fanoway/smart_inputs)
 <!--END_SECTION:activity-->
 </details>
 
