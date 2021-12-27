@@ -287,8 +287,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/nftlabs/nftlabs-sdk-python/pull/31) in [nftlabs/nftlabs-sdk-python](https://github.com/nftlabs/nftlabs-sdk-python)
-2. 🎉 Merged PR [#244](https://github.com/janaSunrise/HypixelIO/pull/244) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+1. 💪 Opened PR [#2](https://github.com/fanoway/smart_inputs/pull/2) in [fanoway/smart_inputs](https://github.com/fanoway/smart_inputs)
+2. 💪 Opened PR [#31](https://github.com/nftlabs/nftlabs-sdk-python/pull/31) in [nftlabs/nftlabs-sdk-python](https://github.com/nftlabs/nftlabs-sdk-python)
 <!--END_SECTION:activity-->
 </details>
 
