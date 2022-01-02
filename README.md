@@ -154,7 +154,7 @@ sunrit.say_hello()
 
 ### 🎵 Spotify playing
 
-[<img src="https://spotify-activity.warriordefenderz.vercel.app/api/spotify" alt="Sunrit Jana Spotify Playing" width="400" />](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aizc6x)
+[<img src="https://spotify-activity.warriordefenderz.vercel.app/api/spotify" alt="Sunrit Jana - Spotify Playing" width="400" />](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aizc6x)
 
 ### 🔥 Streak stats
 
@@ -181,7 +181,6 @@ sunrit.say_hello()
 </details>
 
 <!-- Tech stack summary -->
-
 <details>
   <summary>🛠 Tools I use to code with!</summary>
   
