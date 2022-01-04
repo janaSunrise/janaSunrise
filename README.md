@@ -287,7 +287,7 @@ sunrit.say_hello()
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#384](https://github.com/Kaggle/kaggle-api/issues/384) in [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api)
-2. 🗣 Commented on [#1](https://github.com/TeamNightSky/Triality/issues/1) in [TeamNightSky/Triality](https://github.com/TeamNightSky/Triality)
+2. 🗣 Commented on [#384](https://github.com/Kaggle/kaggle-api/issues/384) in [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api)
 <!--END_SECTION:activity-->
 </details>
 
