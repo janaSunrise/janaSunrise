@@ -286,8 +286,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/TeamNightSky/Triality/issues/1) in [TeamNightSky/Triality](https://github.com/TeamNightSky/Triality)
-2. 🎉 Merged PR [#247](https://github.com/janaSunrise/HypixelIO/pull/247) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+1. 🗣 Commented on [#384](https://github.com/Kaggle/kaggle-api/issues/384) in [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api)
+2. 🗣 Commented on [#1](https://github.com/TeamNightSky/Triality/issues/1) in [TeamNightSky/Triality](https://github.com/TeamNightSky/Triality)
 <!--END_SECTION:activity-->
 </details>
 
