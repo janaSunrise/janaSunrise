@@ -286,8 +286,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/janaSunrise/Spotify-Twitter-Banner/pull/1) in [janaSunrise/Spotify-Twitter-Banner](https://github.com/janaSunrise/Spotify-Twitter-Banner)
-2. 🎉 Merged PR [#3](https://github.com/janaSunrise/Plant-disease-detection/pull/3) in [janaSunrise/Plant-disease-detection](https://github.com/janaSunrise/Plant-disease-detection)
+1. 🗣 Commented on [#1](https://github.com/QristaLabs/phisherman.py/issues/1) in [QristaLabs/phisherman.py](https://github.com/QristaLabs/phisherman.py)
+2. 💪 Opened PR [#1](https://github.com/QristaLabs/phisherman.py/pull/1) in [QristaLabs/phisherman.py](https://github.com/QristaLabs/phisherman.py)
 <!--END_SECTION:activity-->
 </details>
 
