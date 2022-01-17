@@ -286,8 +286,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/nftlabs/portal/issues/1) in [nftlabs/portal](https://github.com/nftlabs/portal)
-2. 🎉 Merged PR [#1](https://github.com/janaSunrise/nftlabs-sdk-python/pull/1) in [janaSunrise/nftlabs-sdk-python](https://github.com/janaSunrise/nftlabs-sdk-python)
+1. 🎉 Merged PR [#261](https://github.com/janaSunrise/HypixelIO/pull/261) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 🎉 Merged PR [#262](https://github.com/janaSunrise/HypixelIO/pull/262) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
 <!--END_SECTION:activity-->
 </details>
 
