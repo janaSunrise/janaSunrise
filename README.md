@@ -286,8 +286,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#285](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/285) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
-2. 💪 Opened PR [#8](https://github.com/nftlabs/portal/pull/8) in [nftlabs/portal](https://github.com/nftlabs/portal)
+1. 🗣 Commented on [#285](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/285) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
+2. ❗️ Opened issue [#285](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/285) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
 <!--END_SECTION:activity-->
 </details>
 
