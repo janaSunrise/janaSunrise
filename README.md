@@ -6,17 +6,17 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
-<h3 align="center">A Machine learning expert, Full-stack developer and Budding Ethical hacker from India</h3>
+<h3 align="center">A Machine learning expert, Full-stack developer and Budding ethical hacker from India</h3>
 
 <br />
 
-<img src= "https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
+<img src="https://octodex.github.com/images/waldocat.png" width="160px" Title="You found Waldo!" align="center">
 
-> Ever tried, Ever failed? No matter. Try Again, Fail again. Fail better.
+> Ever tried, Ever failed? No matter, Try Again. Fail again, Fail better.
 
 > Life is all about ups and downs, wins and losses. Never be disappointed and Keep moving forward!
 
-👇 **Catch me in your terminal and know me more by using the command!**
+👇 **Catch me in your terminal and know me more by using this command!**
 
 ```sh
 npx sunrit
@@ -24,22 +24,22 @@ npx sunrit
 
 ### 🤗 Let's know about me!
 
-Hey there! 👋 I'm Sunrit Jana. A 16 y/o developer, from India. Obsessed with Maths, Tech, Science and more.
-Focused on Python, Machine learning, Web development, C++ and Cyber security. I'm also learning Full-stack
-development, Rust language and lots of more stuff in the background. As always, I love to code, build something
-innovative and amazing, along with learning and exploring things! Always Trying to learn, build, grow, share
-something, and become better every day! 🤗
+Hey there! 👋 I'm Sunrit Jana, A 16 y/o developer from India. Obsessed with Maths, Tech, Science and more!
+Focused on Python, Machine learning, Full-stack development, Javascript and Rust. I'm also learning C++,
+DevOps, CyberSecurity and beyond. As always, I love to code, build something innovative and amazing, along
+with learning and exploring things. Always trying to learn, build, grow, share something, and become better
+every day!
 
-Being passionate about this field, I am constantly learning new things, and pushing myself to do something that
-is incredible, revolutionary and can be of use for specific domains or a lot of people. My projects are focused
-on being interesting and helpful, giving efficient solutions to problems, solving real-life issues, making coding
-more accessible or efficient, and others. I'm extremely passionate about coding and computer science, revolutionizing
-things by harnessing the power of Machine learning, Web development or other fields, Learning from my issues and
-trying to solve them for once and all, and bringing the potential out in me for the greater good! 🤩
+Being passionate about this field, I'm constantly learning new things and pushing myself to do something that
+is amazing, revolutionary and can solve problems for specific domains or a lot of people. My projects are focused
+on being interesting and helpful, giving efficient solutions to problems, solving real-life issues, making programming
+more accessible or efficient, and others. I'm extremely passionate about code and computer science, revolutionizing
+things by harnessing the power of Machine learning, Web development and more, Learning from my issues, trying to
+solve them for once and all, and bringing the potential out in me for the greater good.
 
 You can know me more and find my projects at my [Github](https://github.com/janaSunrise/). I'm always up
-for a chat, any collaboration requests, or any help too! 🥰 You can find me at [Twitter](https://twitter.com/JanaSunrise),
-my other socials or feel free to drop me a mail at [warriordefenderz@gmail.com](mailto:warriordefenderz@gmail.com). 😁
+for a chat, collaboration requests, or help. You can find me at [Twitter](https://twitter.com/JanaSunrise),
+my other socials or feel free to drop me a mail at [warriordefenderz@gmail.com](mailto:warriordefenderz@gmail.com)!
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me!
 
@@ -50,14 +50,14 @@ import stuff
 
 class SunritJana:
     def __init__(self) -> None:
-        # -- Intro section --
+        # Intro section
         self.name = "Sunrit Jana"
         self.pronouns = "He / Him"
         self.birthday = "27-10-2006"
 
         self.tagline = "🌟 Trying to learn, build, grow and become better every day!"
 
-        # -- About section --
+        # About section
         self.about = {
             "loves_to": [
                 "💻 Code",
@@ -76,7 +76,7 @@ class SunritJana:
         self.loves_to_build = [stuff.COOL, stuff.INNOVATIVE, stuff.AWESOME, stuff.USEFUL]
         self.most_active_at = [socials.DISCORD, socials.TWITTER, socials.GITHUB, socials.LINKEDIN]
 
-        # -- Tech stack section --
+        # Tech stack section
         self.working_on = [stuff.code.MACHINE_LEARNING, stuff.code.WEB_DEVELOPMENT, stuff.security.ETHICAL_HACKING]
 
         self.tech_stack = {
@@ -87,7 +87,7 @@ class SunritJana:
                 "Ethical Hacking", "Networking"
             ],
             "frontend": {
-                "css": ["Bootstrap", "Bulma", "Tailwind", "ChakraUI"],
+                "css": ["Bootstrap", "Bulma", "Tailwind", "Chakra UI"],
                 "js": ["React", "NextJS", "Gatsby", "VueJS", "ViteJS"]
             },
             "backend": {
@@ -100,7 +100,7 @@ class SunritJana:
                 "NoSQL": ["MongoDB", "Firebase", "Supabase", "Redis"]
             },
             "DevSecOps": [
-                "Docker", "CI / CD", "Linux System Administration", "Version Control System", "Virtualization"
+                "Docker", "CI/CD", "Linux System Administration", "Version Control System", "Virtualization"
             ],
             "security": ["Ethical hacking", "Pentesting", "Networking"]
         }
@@ -110,7 +110,7 @@ class SunritJana:
             "branches": ["Machine Learning", "Full Stack development", "DevSecOps", "Ethical hacking"]
         }
 
-        # -- Social media section --
+        # Social media section
         self.social_media = {
             "email": "warriordefenderz@gmail.com",
             "github": "https://github.com/janaSunrise",
@@ -120,7 +120,7 @@ class SunritJana:
             "blog": "https://thedevden.hashnode.dev"
         }
 
-        # -- Wrapping up --
+        # Wrap up
         self.fun_fact = "I love to watch animes, and I prefer coffee more than tea!"
 
     def __repr__(self) -> str:
@@ -154,7 +154,7 @@ sunrit.say_hello()
 
 ### 🎵 Spotify playing
 
-[<img src="https://spotify-activity.warriordefenderz.vercel.app/api/spotify" alt="Sunrit Jana Spotify Playing" width="400" />](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aizc6x)
+[<img src="https://spotify-activity.warriordefenderz.vercel.app/api/spotify" alt="Sunrit Jana - Spotify Playing" width="400" />](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aizc6x)
 
 ### 🔥 Streak stats
 
@@ -169,21 +169,20 @@ sunrit.say_hello()
 <details>
   <summary>⚙️ My workspace setup</summary>
 
-  - **Laptop**: HP Notebook G5 (Intel I5, 12GB Ram)
+  - **Laptop**: HP Notebook G5 (Intel i5, 12GB memory)
   - **OS**: Windows 10 / Ubuntu 20.04 / Arch Linux
   - **Terminal**: ZSH with Spaceship or Powerlevel10k theme
-  - **Terminal-based editors**: Nano and NeoVim with Ayu theme
+  - **Terminal-based editors**: Nano, NeoVim
   - **Browser**: Mozilla firefox and Microsoft Edge
-  - **Code Editor**: VSCode, Jetbrains IDE, NeoVim
+  - **Code Editor**: VSCode, Jetbrains IDEs, Neovim
   - **Music Player**: Spotify
-  - **Note software**: Notion
+  - **Note app**: Notion
 
 </details>
 
-<!-- Toolset summary -->
-
+<!-- Tech stack summary -->
 <details>
-  <summary> 🛠 Tools I use to code with! </summary>
+  <summary>🛠 Tools I use to code with!</summary>
   
   - **UI / UX**
 
@@ -287,8 +286,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#194](https://github.com/janaSunrise/HypixelIO/pull/194) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
-2. 🎉 Merged PR [#1](https://github.com/janaSunrise/CS50-2020/pull/1) in [janaSunrise/CS50-2020](https://github.com/janaSunrise/CS50-2020)
+1. 🎉 Merged PR [#286](https://github.com/janaSunrise/HypixelIO/pull/286) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
+2. 🎉 Merged PR [#287](https://github.com/janaSunrise/HypixelIO/pull/287) in [janaSunrise/HypixelIO](https://github.com/janaSunrise/HypixelIO)
 <!--END_SECTION:activity-->
 </details>
 
@@ -297,7 +296,7 @@ sunrit.say_hello()
 <details>
   <summary>📊 My Github Stats</summary>
  
-  <p><img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" /></p>
+  <p> <img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" /></p>
   
   <p align="left"> <a href="https://github.com/janaSunrise"><img src="https://github-profile-trophy.vercel.app/?username=janaSunrise" alt="janaSunrise" /></a> </p>
   
@@ -408,6 +407,11 @@ Java                     2 repos             ░░░░░░░░░░░�
   <summary>🔖 My latest blogs</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Still using ExpressJS? Time to switch backend frameworks!](https://thedevden.hashnode.dev/still-using-expressjs-time-to-switch-backend-frameworks)
+- [Writing our first deep learning model](https://thedevden.hashnode.dev/writing-our-first-deep-learning-model)
+- [Deep learning 101](https://thedevden.hashnode.dev/deep-learning-101)
+- [Let&#39;s explore linear regression!!](https://thedevden.hashnode.dev/lets-explore-linear-regression)
+- [Gradient descent and all about it](https://thedevden.hashnode.dev/gradient-descent-and-all-about-it)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
