@@ -18,7 +18,7 @@ jobs:
       - name: Profile Stats
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           filename: metrics/profile.svg
 
           user: janaSunrise
@@ -27,7 +27,7 @@ jobs:
       - name: Repositories Traffic
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           filename: metrics/repositories.svg
 
           base: repositories
@@ -36,7 +36,7 @@ jobs:
       - name: Isometric Commit Calendar
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           filename: metrics/isocalendar.svg
 
           base: ""
@@ -46,7 +46,7 @@ jobs:
       - name: Most Used Languages
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           filename: metrics/languages.svg
 
           base: ""
@@ -60,7 +60,7 @@ jobs:
       - name: Recently Starred Repositories
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           filename: metrics/starred_repos.svg
 
           base: ""
@@ -70,7 +70,7 @@ jobs:
       - name: Wakatime Stats
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           filename: metrics/wakatime.svg
 
           base: ""
