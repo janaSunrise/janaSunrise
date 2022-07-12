@@ -286,8 +286,8 @@ sunrit.say_hello()
   <summary>🗣 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/janaSunrise/ZeroCOM/pull/5) in [janaSunrise/ZeroCOM](https://github.com/janaSunrise/ZeroCOM)
-2. 🎉 Merged PR [#4](https://github.com/janaSunrise/ZeroCOM/pull/4) in [janaSunrise/ZeroCOM](https://github.com/janaSunrise/ZeroCOM)
+1. 💪 Opened PR [#4](https://github.com/janaSunrise/janaSunrise/pull/4) in [janaSunrise/janaSunrise](https://github.com/janaSunrise/janaSunrise)
+2. 💪 Opened PR [#5](https://github.com/janaSunrise/ZeroCOM/pull/5) in [janaSunrise/ZeroCOM](https://github.com/janaSunrise/ZeroCOM)
 <!--END_SECTION:activity-->
 </details>
 
