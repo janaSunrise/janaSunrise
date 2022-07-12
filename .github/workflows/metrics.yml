@@ -5,9 +5,10 @@ on:
   schedule:
     - cron: "0 */5 * * *"
   # Temporary for testing
-  branches:
-    - main
-    - chore/refactor
+  push:
+    branches:
+      - main
+      - chore/refactor
 
 jobs:
   metrics:
