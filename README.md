@@ -5,13 +5,7 @@
 
 <h3 align="center">A machine learning & full-stack developer, devops engineer and student</h3>
 
-**Use this to know me more in your terminal!** ✨
-
-```sh
-npx sunrit
-```
-
-### 🤗 Know me better
+### 🤗 A few things about me
 
 Hey there! I'm sunrit jana - a student and developer from Pondicherry, India. I build things that actually matter
 and ship them for everyone all around the globe. Creating with Python, Typescript and Rust majorly with much more
@@ -53,6 +47,12 @@ class SunritJana:
         "NoSQL": ["MongoDB", "Redis", "Firebase", "Supabase"]
       },
     }
+```
+
+**Use this to know me more in your terminal!** ✨
+
+```sh
+npx sunrit
 ```
 
 ### 🌊 Let's get in touch!
