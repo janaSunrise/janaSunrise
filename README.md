@@ -64,6 +64,8 @@ npx sunrit
 [<img align="left" alt="Sunrit Jana | Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />][kaggle]
 [<img align="left" alt="Sunrit Jana | Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />][blog]
 
+<br />
+
 ### 👀 What am I listening to?
 
 [<img src="https://spotify-activity.warriordefenderz.vercel.app/api/spotify" alt="Sunrit Jana - Spotify Playing" width="400" />](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aizc6x)
