@@ -1,0 +1,77 @@
+name: Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */5 * * *"
+
+jobs:
+  metrics:
+    name: Generate metrics SVGs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Profile Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/profile.svg
+
+          user: janaSunrise
+          base: header, activity, community
+
+      - name: Repositories Traffic
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/repositories.svg
+
+          base: repositories
+          plugin_traffic: yes
+
+      - name: Isometric Commit Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/isocalendar.svg
+
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Most Used Languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/languages.svg
+
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size,percentage
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+
+      - name: Recently Starred Repositories
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/starred_repos.svg
+
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3 # Limit to 3 entries
+
+      - name: Wakatime Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/wakatime.svg
+
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_limit: 4 # Show 4 entries per graph
+          plugin_wakatime_days: 7 # Display last week stats
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os # Show all sections
+
