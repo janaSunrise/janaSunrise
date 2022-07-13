@@ -412,7 +412,7 @@ Rust                     4 repos             █░░░░░░░░░░�
 - [Still using ExpressJS? Time to switch backend frameworks!](https://thedevden.hashnode.dev/still-using-expressjs-time-to-switch-backend-frameworks)
 - [Writing our first deep learning model](https://thedevden.hashnode.dev/writing-our-first-deep-learning-model)
 - [Deep learning 101](https://thedevden.hashnode.dev/deep-learning-101)
-- [Let&#39;s explore linear regression!!](https://thedevden.hashnode.dev/lets-explore-linear-regression)
+- [Let&#39;s explore linear regression!](https://thedevden.hashnode.dev/lets-explore-linear-regression)
 - [Gradient descent and all about it](https://thedevden.hashnode.dev/gradient-descent-and-all-about-it)
 <!-- BLOG-POST-LIST:END -->
 </details>
