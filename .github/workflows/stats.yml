@@ -21,6 +21,3 @@ jobs:
 
           SHOW_LINES_OF_CODE: "TRUE"
           SHOW_PROFILE_VIEWS: "FALSE"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_OS: "True"
