@@ -46,6 +46,7 @@ class SunritJana:
         "SQL": ["PostgreSQL", "MySQL", "SQLite"],
         "NoSQL": ["MongoDB", "Redis", "Firebase", "Supabase"]
       },
+      "others": ["Git", "Docker", "Linux", "NGINX", "CI/CD"]
     }
 ```
 
