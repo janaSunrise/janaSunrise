@@ -98,7 +98,7 @@ npx sunrit
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -106,7 +106,7 @@ npx sunrit
 
 > 🏆 1,157 Contributions in the Year 2022
  > 
-> 📦 473.4 kB Used in GitHub's Storage 
+> 📦 473.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -181,7 +181,7 @@ Rust                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/08/2022 01:06:53 UTC
+ Last Updated on 18/08/2022 01:09:51 UTC
 <!--END_SECTION:waka-->
 </details>
 
