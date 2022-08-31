@@ -98,7 +98,7 @@ npx sunrit
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-864%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-864%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -106,7 +106,7 @@ npx sunrit
 
 > 🏆 1,187 Contributions in the Year 2022
  > 
-> 📦 474.0 kB Used in GitHub's Storage 
+> 📦 473.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -167,11 +167,11 @@ Linux                    1 hr 55 mins        ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   36 repos            █████████░░░░░░░░░░░░░░░░   36.73% 
-JavaScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
-TypeScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
-Jupyter Notebook         7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08%
+Python                   36 repos            █████████░░░░░░░░░░░░░░░░   36.36% 
+TypeScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.19% 
+JavaScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Jupyter Notebook         7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.04%
 
 ```
 
@@ -181,7 +181,7 @@ Rust                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/08/2022 01:16:31 UTC
+ Last Updated on 31/08/2022 01:30:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
