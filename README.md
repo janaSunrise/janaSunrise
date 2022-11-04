@@ -98,7 +98,7 @@ npx sunrit
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-896%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-897%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -106,7 +106,7 @@ npx sunrit
 
 > 🏆 1,410 Contributions in the Year 2022
  > 
-> 📦 475.4 kB Used in GitHub's Storage 
+> 📦 475.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -143,16 +143,20 @@ Sunday       409 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   47 mins             █████████████████████████   100.0%
+Python                   1 hr 34 mins        █████████████████████░░░░   84.3% 
+JavaScript               17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.7%
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.0%
+VS Code                  1 hr 52 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-autodiff                 47 mins             █████████████████████████   100.0%
+autodiff                 47 mins             ██████████░░░░░░░░░░░░░░░   42.27% 
+sunrit-autodiff-dummy-thi47 mins             ██████████░░░░░░░░░░░░░░░   42.03% 
+demo-gct-ucb             17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.7%
 
 💻 Operating System: 
-Linux                    47 mins             █████████████████████████   100.0%
+Mac                      1 hr 4 mins         ██████████████░░░░░░░░░░░   57.73% 
+Linux                    47 mins             ██████████░░░░░░░░░░░░░░░   42.27%
 
 ```
 
@@ -173,7 +177,7 @@ Solidity                 6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/11/2022 01:06:03 UTC
+ Last Updated on 04/11/2022 01:11:12 UTC
 <!--END_SECTION:waka-->
 </details>
 
