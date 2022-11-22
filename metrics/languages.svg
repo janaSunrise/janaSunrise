@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="181" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="201" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg,.footnote.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote{width:100%;justify-content:flex-end;font-size:12px}.footnote.warning{color:#d79533}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 210mb of code in 7167 edited files across 2384 commits</small>
+                <small>estimation from 11.5mb of code in 2608 edited files across 972 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="368.9257807992837" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="368.9257807992837" y="0" width="66.23970203397809" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="435.1654828332618" y="0" width="10.912682478804074" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="446.0781653120659" y="0" width="5.378203619345638" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.4563689314115" y="0" width="3.01985978612538" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.47622871753686" y="0" width="1.9621634843932452" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="456.4383922019301" y="0" width="1.8070420780083907" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.24543427993854" y="0" width="1.7545657200614762" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.73588772903116" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="405.73588772903116" y="0" width="42.9808088972305" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="448.71669662626164" y="0" width="4.1241901146353905" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.8408867408971" y="0" width="2.161059942463377" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="455.0019466833604" y="0" width="1.7904043302758372" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="456.7923510136363" y="0" width="1.4980823097960183" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="458.2904333234323" y="0" width="1.4122365320871404" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="459.70266985551945" y="0" width="0.29733014448059053" height="8" fill="#355570"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,44 +41,44 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>7.99 MB</div>
-                                <div>80.2%</div>
+                                <div>7.45 MB</div>
+                                <div>88.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TypeScript
+                                HTML
                             </div>
                             <small>
-                                <div>236 kB</div>
-                                <div>2.37%</div>
+                                <div>75.7 kB</div>
+                                <div>0.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#AA6746" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                Solidity
                             </div>
                             <small>
-                                <div>65.4 kB</div>
-                                <div>0.66%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                C++
-                            </div>
-                            <small>
-                                <div>39.1 kB</div>
+                                <div>32.8 kB</div>
                                 <div>0.39%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#a52a22" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Jinja
+                            </div>
+                            <small>
+                                <div>25.9 kB</div>
+                                <div>0.31%</div>
                             </small>
                         </div>
                     </section>
@@ -91,32 +91,20 @@
                                 Python
                             </div>
                             <small>
-                                <div>1.44 MB</div>
-                                <div>14.4%</div>
+                                <div>789 kB</div>
+                                <div>9.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                HTML
+                                TypeScript
                             </div>
                             <small>
-                                <div>116 kB</div>
-                                <div>1.17%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#AA6746" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Solidity
-                            </div>
-                            <small>
-                                <div>42.5 kB</div>
-                                <div>0.43%</div>
+                                <div>39.7 kB</div>
+                                <div>0.47%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -127,11 +115,31 @@
                                 Rust
                             </div>
                             <small>
-                                <div>38 kB</div>
-                                <div>0.38%</div>
+                                <div>27.5 kB</div>
+                                <div>0.33%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#355570" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                GDScript
+                            </div>
+                            <small>
+                                <div>5.46 kB</div>
+                                <div>0.06%</div>
                             </small>
                         </div>
                     </section>
+                </div>
+                <div class="row footnote warning">
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"/>
+                        </svg>
+                        Reached maximum execution time for analysis, partial results are displayed
+                    </div>
                 </div>
             </section>
         </div>
