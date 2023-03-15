@@ -98,13 +98,13 @@ npx sunrit
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 474.4 kB Used in GitHub's Storage 
+> 📦 474.6 kB Used in GitHub's Storage 
  > 
 > 🏆 73 Contributions in the Year 2023
  > 
@@ -179,7 +179,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2023 00:42:18 UTC
+ Last Updated on 15/03/2023 00:46:42 UTC
 <!--END_SECTION:waka-->
 </details>
 
