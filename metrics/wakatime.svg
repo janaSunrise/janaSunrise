@@ -61,22 +61,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">sripati-portfolio</span>
-                                <div class="bar" style="width: 46.727999999999994%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">58%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">exam-platform</span>
-                                <div class="bar" style="width: 17.072%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">21%</span>
+                                <div class="bar" style="width: 52.29600000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">65%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">zapforms-ml</span>
-                                <div class="bar" style="width: 11.248000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">14%</span>
+                                <div class="bar" style="width: 12.592%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">exam-platform</span>
+                                <div class="bar" style="width: 9.568000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">ZapForms</span>
-                                <div class="bar" style="width: 2.208%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.4719999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                         </div>
@@ -86,23 +86,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 44.104%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">55%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 17.648%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">22%</span>
+                                <div class="bar" style="width: 49.367999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">62%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 13.024000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">16%</span>
+                                <div class="bar" style="width: 14.576%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">18%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">JavaScript</span>
+                                <div class="bar" style="width: 10.344%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 1.96%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 2.08%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                         </div>
                     </section>
