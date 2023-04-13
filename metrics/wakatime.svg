@@ -61,13 +61,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">devops-screening-client</span>
-                                <div class="bar" style="width: 68.376%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">85%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">rust-op</span>
-                                <div class="bar" style="width: 11.623999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">100%</span>
                             </div>
                         </div>
                     </section>
@@ -76,23 +71,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 48.6%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">61%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Rust</span>
-                                <div class="bar" style="width: 11.623999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 54.135999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">68%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Docker</span>
-                                <div class="bar" style="width: 11.048%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">14%</span>
+                                <div class="bar" style="width: 11.719999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 8.728%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 9.024%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">11%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">TOML</span>
+                                <div class="bar" style="width: 5%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                         </div>
                     </section>
