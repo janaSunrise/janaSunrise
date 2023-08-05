@@ -104,7 +104,7 @@ npx sunrit
 
 **🐱 My GitHub Data** 
 
-> 📦 476.6 kB Used in GitHub's Storage 
+> 📦 476.5 kB Used in GitHub's Storage 
  > 
 > 🏆 212 Contributions in the Year 2023
  > 
@@ -141,15 +141,13 @@ Sunday                   1981 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 mins              █████████████████████████   99.69 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+TypeScript               5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-maths-platform           5 mins              █████████████████████████   99.69 % 
-matplotlib-graphs        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+maths-platform           5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Mac                      5 mins              █████████████████████████   100.00 % 
@@ -172,7 +170,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2023 00:48:19 UTC
+ Last Updated on 05/08/2023 00:47:02 UTC
 <!--END_SECTION:waka-->
 </details>
 
