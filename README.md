@@ -98,13 +98,13 @@ npx sunrit
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C037%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C038%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 476.6 kB Used in GitHub's Storage 
+> 📦 476.7 kB Used in GitHub's Storage 
  > 
 > 🏆 212 Contributions in the Year 2023
  > 
@@ -141,19 +141,19 @@ Sunday                   1981 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   53 mins             ████████████████████████░   97.67 % 
-TOML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   1 hr 7 mins         █████████████████████████   98.14 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-searchable-video         36 mins             █████████████████░░░░░░░░   66.30 % 
-Unknown Project          18 mins             ████████░░░░░░░░░░░░░░░░░   33.70 % 
+searchable-video         45 mins             ████████████████░░░░░░░░░   65.63 % 
+Unknown Project          23 mins             █████████░░░░░░░░░░░░░░░░   34.37 % 
 
 💻 Operating System: 
-Mac                      55 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -173,7 +173,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2023 00:45:37 UTC
+ Last Updated on 07/08/2023 00:49:53 UTC
 <!--END_SECTION:waka-->
 </details>
 
