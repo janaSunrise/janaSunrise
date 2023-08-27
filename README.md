@@ -104,7 +104,7 @@ npx sunrit
 
 **🐱 My GitHub Data** 
 
-> 📦 476.8 kB Used in GitHub's Storage 
+> 📦 476.7 kB Used in GitHub's Storage 
  > 
 > 🏆 216 Contributions in the Year 2023
  > 
@@ -170,7 +170,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2023 00:39:19 UTC
+ Last Updated on 27/08/2023 00:43:52 UTC
 <!--END_SECTION:waka-->
 </details>
 
