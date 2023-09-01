@@ -141,16 +141,19 @@ Sunday                   1979 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               35 mins             ███████████████████████░░   92.21 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ui                       38 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -170,7 +173,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2023 00:41:09 UTC
+ Last Updated on 01/09/2023 00:43:12 UTC
 <!--END_SECTION:waka-->
 </details>
 
