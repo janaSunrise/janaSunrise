@@ -98,13 +98,13 @@ npx sunrit
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C045%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C045%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 477.0 kB Used in GitHub's Storage 
+> 📦 476.9 kB Used in GitHub's Storage 
  > 
 > 🏆 217 Contributions in the Year 2023
  > 
@@ -141,18 +141,18 @@ Sunday                   1921 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               12 mins             ██████████████████░░░░░░░   71.02 % 
-JSON                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-TSConfig                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+TypeScript               16 mins             ███████████████████░░░░░░   76.26 % 
+JSON                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TSConfig                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ui                       17 mins             █████████████████████████   100.00 % 
+ui                       21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -172,7 +172,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2023 00:41:36 UTC
+ Last Updated on 20/09/2023 00:41:10 UTC
 <!--END_SECTION:waka-->
 </details>
 
