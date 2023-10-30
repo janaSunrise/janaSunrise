@@ -32,7 +32,7 @@ class SunritJana:
       "languages": ["Python", "Typescript", "Rust", "C++", "Java", "SQL"],
       "domains": [
         "Machine learning", "Full-stack development", "MLOps", "DevOps", "System administration"
-      ]
+      ],
       "frontend": {
         "css": ["Tailwind", "Chakra UI", "Next UI"],
         "js": ["React", "Next.js", "Vite", "Svelte"]
