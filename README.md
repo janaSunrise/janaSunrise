@@ -98,13 +98,13 @@ npx sunrit
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C057%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C058%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 478.7 kB Used in GitHub's Storage 
+> 📦 478.5 kB Used in GitHub's Storage 
  > 
 > 🏆 262 Contributions in the Year 2023
  > 
@@ -141,18 +141,18 @@ Sunday                   1897 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-MDX                      1 hr 9 mins         ███████████████████░░░░░░   77.29 % 
-TypeScript               17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-TSConfig                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+MDX                      1 hr 9 mins         ███████████████████░░░░░░   77.44 % 
+TypeScript               17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+TSConfig                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
 VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-alchemists-musings       1 hr 9 mins         ███████████████████░░░░░░   77.29 % 
-supabase-email           13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-infrastructure           6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+alchemists-musings       1 hr 9 mins         ███████████████████░░░░░░   77.44 % 
+supabase-email           13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+infrastructure           6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 💻 Operating System: 
 Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
@@ -175,7 +175,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2023 00:44:02 UTC
+ Last Updated on 16/11/2023 00:44:55 UTC
 <!--END_SECTION:waka-->
 </details>
 
