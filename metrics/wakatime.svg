@@ -61,12 +61,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">detectron-api</span>
-                                <div class="bar" style="width: 79.44%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">99%</span>
+                                <div class="bar" style="width: 61.048%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">76%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">ai-api</span>
+                                <div class="bar" style="width: 18.52%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">23%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">detectron2</span>
-                                <div class="bar" style="width: 0.5599999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.43200000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -76,17 +81,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 73.56%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">92%</span>
+                                <div class="bar" style="width: 75.048%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">94%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TOML</span>
-                                <div class="bar" style="width: 6.152000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 4.728%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Git Config</span>
-                                <div class="bar" style="width: 0.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.22400000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
