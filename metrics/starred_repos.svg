@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sybrenjansen/mpire</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python package for easy multiprocessing, but faster than multiprocessing</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>biomejs/biome</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</div>
@@ -110,7 +110,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        503
+                                        504
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
