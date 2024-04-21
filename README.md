@@ -98,13 +98,13 @@ npx sunrit
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C084%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C085%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 476.0 kB Used in GitHub's Storage 
+> 📦 476.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -139,11 +139,11 @@ Sunday                   1548 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               20 mins             █████████████░░░░░░░░░░░░   51.86 % 
-JSON                     11 mins             ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-JavaScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-TSConfig                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+TypeScript               20 mins             █████████████░░░░░░░░░░░░   52.59 % 
+JSON                     10 mins             ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+JavaScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+TSConfig                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
 VS Code                  38 mins             █████████████████████████   100.00 % 
@@ -172,7 +172,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2024 00:42:00 UTC
+ Last Updated on 21/04/2024 00:45:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
