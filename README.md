@@ -141,16 +141,17 @@ Sunday                   1562 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Terraform                43 mins             ██████████████████████░░░   89.80 % 
+Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+terraform-scripts        48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -170,7 +171,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2024 00:45:14 UTC
+ Last Updated on 01/06/2024 00:47:12 UTC
 <!--END_SECTION:waka-->
 </details>
 
