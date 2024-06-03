@@ -98,13 +98,15 @@ npx sunrit
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 476.7 kB Used in GitHub's Storage 
+> 📦 476.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 46 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -139,17 +141,22 @@ Sunday                   1562 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Terraform                1 hr 15 mins        ███████████████████████░░   93.82 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Terraform                1 hr 15 mins        █████████████████████░░░░   84.23 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+TeX                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-terraform-scripts        1 hr 20 mins        █████████████████████████   100.00 % 
+terraform-scripts        1 hr 20 mins        ██████████████████████░░░   89.77 % 
+tinytorch                5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 💻 Operating System: 
-Mac                      1 hr 20 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +176,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2024 00:47:40 UTC
+ Last Updated on 03/06/2024 00:45:38 UTC
 <!--END_SECTION:waka-->
 </details>
 
