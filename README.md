@@ -106,6 +106,8 @@ npx sunrit
 
 > 📦 477.0 kB Used in GitHub's Storage 
  > 
+> 🏆 46 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 65 Public Repositories 
@@ -168,7 +170,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2024 00:46:28 UTC
+ Last Updated on 28/06/2024 00:46:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
