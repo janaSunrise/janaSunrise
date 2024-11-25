@@ -98,15 +98,13 @@ npx sunrit
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C097%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C097%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 479.2 kB Used in GitHub's Storage 
- > 
-> 🏆 52 Contributions in the Year 2024
+> 📦 479.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -141,16 +139,16 @@ Sunday                   1514 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        4 mins              ████████████████████░░░░░   79.81 % 
-TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Makefile                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+C                        4 mins              ████████████████████░░░░░   79.83 % 
+TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Makefile                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 🔥 Editors: 
 VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kilo                     4 mins              ██████████████████████░░░   86.78 % 
-content-manager          0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+kilo                     4 mins              ██████████████████████░░░   86.80 % 
+content-manager          0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 
 💻 Operating System: 
 Mac                      5 mins              █████████████████████████   100.00 % 
@@ -173,7 +171,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2024 01:02:16 UTC
+ Last Updated on 25/11/2024 00:59:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
