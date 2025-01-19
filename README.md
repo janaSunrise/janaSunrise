@@ -141,16 +141,16 @@ Sunday                   1515 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-c-sandbox                0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -170,7 +170,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2025 00:53:52 UTC
+ Last Updated on 19/01/2025 01:02:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
