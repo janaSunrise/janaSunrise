@@ -170,7 +170,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2025 00:58:02 UTC
+ Last Updated on 18/02/2025 00:55:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
