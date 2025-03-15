@@ -98,13 +98,15 @@ npx sunrit
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C105%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 481.0 kB Used in GitHub's Storage 
+> 📦 481.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -139,16 +141,16 @@ Sunday                   1516 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        1 hr 47 mins        █████████████████████████   100.00 % 
+C                        1 hr 50 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-c-dsa                    1 hr 47 mins        █████████████████████████   100.00 % 
+c-dsa                    1 hr 50 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 47 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -168,7 +170,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2025 00:57:34 UTC
+ Last Updated on 15/03/2025 00:58:40 UTC
 <!--END_SECTION:waka-->
 </details>
 
