@@ -106,6 +106,8 @@ npx sunrit
 
 > 📦 481.6 kB Used in GitHub's Storage 
  > 
+> 🏆 9 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 65 Public Repositories 
@@ -155,7 +157,7 @@ No Activity Tracked This Week
 
 ```text
 Python                   53 repos            ██████████░░░░░░░░░░░░░░░   38.13 % 
-TypeScript               35 repos            ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+TypeScript               34 repos            ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
 JavaScript               20 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
@@ -168,7 +170,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2025 00:58:50 UTC
+ Last Updated on 13/04/2025 02:29:22 UTC
 <!--END_SECTION:waka-->
 </details>
 
