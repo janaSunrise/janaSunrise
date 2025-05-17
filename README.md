@@ -100,13 +100,11 @@ npx sunrit
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C116%20hrs%2037%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 482.4 kB Used in GitHub's Storage 
- > 
-> 🏆 14 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -114,45 +112,6 @@ npx sunrit
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2316 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-🌆 Daytime                5203 commits        █████████░░░░░░░░░░░░░░░░   34.78 % 
-🌃 Evening                6642 commits        ███████████░░░░░░░░░░░░░░   44.40 % 
-🌙 Night                  798 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1993 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Tuesday                  2529 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Wednesday                2296 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Thursday                 2210 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Friday                   2219 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Saturday                 2201 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Sunday                   1511 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-C                        2 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-c-exp                    2 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -170,7 +129,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2025 01:03:28 UTC
+ Last Updated on 17/05/2025 01:02:00 UTC
 <!--END_SECTION:waka-->
 </details>
 
