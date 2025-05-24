@@ -104,7 +104,7 @@ npx sunrit
 
 **🐱 My GitHub Data** 
 
-> 📦 482.5 kB Used in GitHub's Storage 
+> 📦 482.6 kB Used in GitHub's Storage 
  > 
 > 🏆 14 Contributions in the Year 2025
  > 
@@ -141,23 +141,16 @@ Sunday                   1514 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 23 mins        █████████████████████░░░░   82.72 % 
-CSS                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-apoo-complaint-portal    1 hr 17 mins        ███████████████████░░░░░░   76.49 % 
-apoo-grievance-portal    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-princess-portal          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-princess-portal(1)       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -177,7 +170,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2025 01:02:57 UTC
+ Last Updated on 24/05/2025 01:00:39 UTC
 <!--END_SECTION:waka-->
 </details>
 
