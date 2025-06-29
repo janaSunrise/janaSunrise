@@ -104,7 +104,7 @@ npx sunrit
 
 **🐱 My GitHub Data** 
 
-> 📦 483.8 kB Used in GitHub's Storage 
+> 📦 484.0 kB Used in GitHub's Storage 
  > 
 > 🏆 39 Contributions in the Year 2025
  > 
@@ -141,20 +141,16 @@ Sunday                   1522 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               51 mins             ███████████████░░░░░░░░░░   60.13 % 
-JavaScript               17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-MDX                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-alchemists-musings       1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -174,7 +170,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2025 01:03:16 UTC
+ Last Updated on 29/06/2025 01:13:06 UTC
 <!--END_SECTION:waka-->
 </details>
 
