@@ -104,7 +104,9 @@ npx sunrit
 
 **🐱 My GitHub Data** 
 
-> 📦 485.0 kB Used in GitHub's Storage 
+> 📦 485.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 64 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -172,7 +174,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2025 01:00:52 UTC
+ Last Updated on 06/09/2025 00:59:30 UTC
 <!--END_SECTION:waka-->
 </details>
 
