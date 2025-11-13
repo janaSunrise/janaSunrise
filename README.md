@@ -98,13 +98,13 @@ npx sunrit
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C189%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs%2016%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 485.8 kB Used in GitHub's Storage 
+> 📦 485.9 kB Used in GitHub's Storage 
  > 
 > 🏆 82 Contributions in the Year 2025
  > 
@@ -178,7 +178,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2025 01:04:14 UTC
+ Last Updated on 13/11/2025 01:06:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
