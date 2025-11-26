@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>papers-we-love/papers-we-love</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Papers from the computer science community to read and discuss.</div>
@@ -70,7 +70,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abiosoft/colima</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Container runtimes on macOS (and Linux) with minimal setup</div>
@@ -123,7 +123,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aio-libs/aiodocker</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python Docker API client based on asyncio and aiohttp</div>
