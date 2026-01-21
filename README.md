@@ -98,22 +98,67 @@ npx sunrit
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C288%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C289%20hrs%2047%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.65%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.74%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 495.5 kB Used in GitHub's Storage 
+> 📦 495.4 kB Used in GitHub's Storage 
  > 
-> 🏆 50 Contributions in the Year 2026
+> 🏆 55 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 71 Public Repositories 
+> 📜 72 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2751 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+🌆 Daytime                5942 commits        █████████░░░░░░░░░░░░░░░░   34.11 % 
+🌃 Evening                7705 commits        ███████████░░░░░░░░░░░░░░   44.24 % 
+🌙 Night                  1020 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2288 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Tuesday                  3016 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Wednesday                2659 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Thursday                 2561 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Friday                   2690 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Saturday                 2568 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Sunday                   1636 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   37.87 % 
+Markdown                 52 mins             ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+JSON                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Rust                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Dashboard                2 hrs 9 mins        ██████████████████░░░░░░░   71.76 % 
+obvius                   49 mins             ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+vesta                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+
+💻 Operating System: 
+Mac                      3 hrs 1 min         █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -131,7 +176,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2026 01:09:59 UTC
+ Last Updated on 21/01/2026 01:11:52 UTC
 <!--END_SECTION:waka-->
 </details>
 
