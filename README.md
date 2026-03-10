@@ -98,7 +98,7 @@ npx sunrit
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C319%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C319%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.97%20million%20lines%20of%20code-blue?style=flat)
 
@@ -141,10 +141,10 @@ Sunday                   1859 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               18 mins             ███████████████████░░░░░░   75.86 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+TypeScript               18 mins             ███████████████████░░░░░░   75.97 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
@@ -174,7 +174,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2026 01:23:55 UTC
+ Last Updated on 10/03/2026 01:18:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
