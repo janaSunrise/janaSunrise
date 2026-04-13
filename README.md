@@ -33,11 +33,11 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C337%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.19%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.19%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 499.1 kB Used in GitHub's Storage 
+> 📦 499.2 kB Used in GitHub's Storage 
  > 
 > 🏆 451 Contributions in the Year 2026
  > 
@@ -47,51 +47,6 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                3560 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-🌆 Daytime                7930 commits        ████████░░░░░░░░░░░░░░░░░   33.54 % 
-🌃 Evening                10370 commits       ███████████░░░░░░░░░░░░░░   43.87 % 
-🌙 Night                  1780 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   3163 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Tuesday                  3689 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Wednesday                3371 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Thursday                 3745 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Friday                   3419 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Saturday                 3642 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Sunday                   2611 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               26 mins             ███████████░░░░░░░░░░░░░░   45.27 % 
-Other                    12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-HTML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-
-🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Dashboard                32 mins             ██████████████░░░░░░░░░░░   55.19 % 
-InvoiceProcessor         20 mins             █████████░░░░░░░░░░░░░░░░   34.39 % 
-ffcs-build               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-
-💻 Operating System: 
-Mac                      58 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -109,7 +64,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2026 01:54:53 UTC
+ Last Updated on 13/04/2026 02:02:50 UTC
 <!--END_SECTION:waka-->
 </details>
 
