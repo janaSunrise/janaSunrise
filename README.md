@@ -37,7 +37,7 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
 
 **🐱 My GitHub Data** 
 
-> 📦 499.7 kB Used in GitHub's Storage 
+> 📦 499.4 kB Used in GitHub's Storage 
  > 
 > 🏆 457 Contributions in the Year 2026
  > 
@@ -108,7 +108,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2026 01:39:04 UTC
+ Last Updated on 26/04/2026 02:02:16 UTC
 <!--END_SECTION:waka-->
 </details>
 
