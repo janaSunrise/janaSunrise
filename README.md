@@ -33,11 +33,11 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C341%20hrs%2053%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.73%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.75%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 499.9 kB Used in GitHub's Storage 
+> 📦 499.7 kB Used in GitHub's Storage 
  > 
 > 🏆 460 Contributions in the Year 2026
  > 
@@ -47,6 +47,45 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                4253 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+🌆 Daytime                9551 commits        ████████░░░░░░░░░░░░░░░░░   33.02 % 
+🌃 Evening                12609 commits       ███████████░░░░░░░░░░░░░░   43.59 % 
+🌙 Night                  2515 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   3906 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Tuesday                  4305 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Wednesday                3996 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Thursday                 4734 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Friday                   4051 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Saturday                 4524 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Sunday                   3412 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -64,7 +103,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2026 02:17:17 UTC
+ Last Updated on 01/05/2026 02:21:12 UTC
 <!--END_SECTION:waka-->
 </details>
 
