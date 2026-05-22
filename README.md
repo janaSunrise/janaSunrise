@@ -31,8 +31,6 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C378%20hrs%2042%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.84%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -47,6 +45,45 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                4352 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+🌆 Daytime                9782 commits        ████████░░░░░░░░░░░░░░░░░   32.95 % 
+🌃 Evening                12930 commits       ███████████░░░░░░░░░░░░░░   43.56 % 
+🌙 Night                  2622 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   4011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Tuesday                  4393 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Wednesday                4086 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Thursday                 4875 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Friday                   4144 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Saturday                 4650 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Sunday                   3527 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+C                        0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+c-stuff                  0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      0 secs              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -64,7 +101,7 @@ C                        3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 02:45:39 UTC
+ Last Updated on 22/05/2026 02:45:17 UTC
 <!--END_SECTION:waka-->
 </details>
 
