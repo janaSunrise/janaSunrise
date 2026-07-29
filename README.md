@@ -31,17 +31,13 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C358%20hrs%2013%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2045%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.84%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 500.4 kB Used in GitHub's Storage 
+> 📦 500.6 kB Used in GitHub's Storage 
  > 
-> 🏆 467 Contributions in the Year 2026
+> 🏆 469 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,8 +48,8 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4352 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-🌆 Daytime                9782 commits        ████████░░░░░░░░░░░░░░░░░   32.96 % 
+🌞 Morning                4354 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+🌆 Daytime                9782 commits        ████████░░░░░░░░░░░░░░░░░   32.95 % 
 🌃 Evening                12930 commits       ███████████░░░░░░░░░░░░░░   43.56 % 
 🌙 Night                  2617 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 ```
@@ -61,7 +57,7 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
 
 ```text
 Monday                   4011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Tuesday                  4388 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Tuesday                  4390 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 Wednesday                4086 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 Thursday                 4875 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
 Friday                   4144 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
@@ -76,22 +72,40 @@ Sunday                   3527 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              ████████████░░░░░░░░░░░░░   46.33 % 
+Codex CLI                3 mins              █████████░░░░░░░░░░░░░░░░   35.49 % 
+Claude Code              1 min               █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+portfolio-v2             10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 10 mins (100.0%)
+
+✍️ 50 lines written by AI, 1 lines written by hand (98.04% AI-written)
+
+🔤 320,422 Input Tokens, 3,214 Output Tokens
+
+💵 $1.70 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 7 AI Prompts
+
+GPT                      83 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.04% of written lines came from AI
+📄 Detailed Prompter — average 1,237 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 3.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +125,7 @@ C                        3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 01:56:33 UTC
+ Last Updated on 29/07/2026 01:59:25 UTC
 <!--END_SECTION:waka-->
 </details>
 
