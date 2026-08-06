@@ -39,7 +39,7 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
 
 **🐱 My GitHub Data** 
 
-> 📦 500.6 kB Used in GitHub's Storage 
+> 📦 500.7 kB Used in GitHub's Storage 
  > 
 > 🏆 469 Contributions in the Year 2026
  > 
@@ -49,6 +49,51 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                4354 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+🌆 Daytime                9782 commits        ████████░░░░░░░░░░░░░░░░░   32.95 % 
+🌃 Evening                12930 commits       ███████████░░░░░░░░░░░░░░   43.56 % 
+🌙 Night                  2617 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   4011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Tuesday                  4390 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Wednesday                4086 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Thursday                 4875 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Friday                   4144 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Saturday                 4650 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Sunday                   3527 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -66,7 +111,7 @@ C                        3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 01:56:44 UTC
+ Last Updated on 06/08/2026 01:55:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
