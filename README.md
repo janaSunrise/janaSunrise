@@ -39,7 +39,7 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
 
 **🐱 My GitHub Data** 
 
-> 📦 500.9 kB Used in GitHub's Storage 
+> 📦 501.0 kB Used in GitHub's Storage 
  > 
 > 🏆 469 Contributions in the Year 2026
  > 
@@ -111,7 +111,7 @@ C                        3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 00:53:29 UTC
+ Last Updated on 16/08/2026 00:54:03 UTC
 <!--END_SECTION:waka-->
 </details>
 
