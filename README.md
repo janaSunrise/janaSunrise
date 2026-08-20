@@ -39,7 +39,7 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
 
 **🐱 My GitHub Data** 
 
-> 📦 501.1 kB Used in GitHub's Storage 
+> 📦 501.2 kB Used in GitHub's Storage 
  > 
 > 🏆 469 Contributions in the Year 2026
  > 
@@ -76,16 +76,17 @@ Sunday                   3527 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        43 mins             █████████████████████████   100.00 % 
+C                        1 hr 18 mins        ████████████████████████░   95.98 % 
+HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-codeforces               43 mins             █████████████████████████   100.00 % 
+codeforces               1 hr 21 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -111,7 +112,7 @@ C                        3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 00:53:25 UTC
+ Last Updated on 20/08/2026 00:53:44 UTC
 <!--END_SECTION:waka-->
 </details>
 
