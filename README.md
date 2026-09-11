@@ -49,6 +49,52 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                4366 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+🌆 Daytime                9800 commits        ████████░░░░░░░░░░░░░░░░░   32.96 % 
+🌃 Evening                12945 commits       ███████████░░░░░░░░░░░░░░   43.54 % 
+🌙 Night                  2618 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   4012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Tuesday                  4391 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Wednesday                4097 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Thursday                 4883 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Friday                   4161 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Saturday                 4658 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Sunday                   3527 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+C                        8 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  8 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+cn                       8 mins              ███████████████████████░░   92.86 % 
+codeforces               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+
+💻 Operating System: 
+Mac                      8 mins              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -66,7 +112,7 @@ C                        3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 02:23:13 UTC
+ Last Updated on 11/09/2026 02:20:17 UTC
 <!--END_SECTION:waka-->
 </details>
 
