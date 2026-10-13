@@ -35,11 +35,11 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2056%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.89%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.95%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 501.1 kB Used in GitHub's Storage 
+> 📦 501.2 kB Used in GitHub's Storage 
  > 
 > 🏆 469 Contributions in the Year 2026
  > 
@@ -52,21 +52,21 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4366 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-🌆 Daytime                9800 commits        ████████░░░░░░░░░░░░░░░░░   32.96 % 
-🌃 Evening                12945 commits       ███████████░░░░░░░░░░░░░░   43.54 % 
-🌙 Night                  2618 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+🌞 Morning                4378 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+🌆 Daytime                9818 commits        ████████░░░░░░░░░░░░░░░░░   32.97 % 
+🌃 Evening                12960 commits       ███████████░░░░░░░░░░░░░░   43.53 % 
+🌙 Night                  2619 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   4012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Tuesday                  4391 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Wednesday                4097 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Thursday                 4883 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Friday                   4161 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Saturday                 4658 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Sunday                   3527 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Monday                   4013 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Tuesday                  4392 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Wednesday                4108 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Thursday                 4891 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Friday                   4178 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Saturday                 4666 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Sunday                   3527 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 ```
 
 
@@ -76,16 +76,16 @@ Sunday                   3527 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cn                       22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -111,7 +111,7 @@ C                        3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 03:36:05 UTC
+ Last Updated on 13/10/2026 04:52:47 UTC
 <!--END_SECTION:waka-->
 </details>
 
