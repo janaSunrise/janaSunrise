@@ -76,22 +76,40 @@ Sunday                   3527 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   22 mins             █████████████████████████   100.00 % 
+Python                   1 hr 13 mins        ████████████████████████░   97.61 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cn                       22 mins             █████████████████████████   100.00 % 
+cn                       47 mins             ████████████████░░░░░░░░░   63.11 % 
+project                  27 mins             █████████░░░░░░░░░░░░░░░░   36.89 % 
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 18 mins (24.57%)
+
+✍️ 19 lines written by AI, 395 lines written by hand (4.59% AI-written)
+
+🔤 132,859 Input Tokens, 538 Output Tokens
+
+💵 $0.41 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 10 AI Prompts
+
+Github-Copilot           19 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 4.59% of written lines came from AI
+📝 Concise Prompter — average 55 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 96.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +129,7 @@ C                        3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 03:01:27 UTC
+ Last Updated on 15/10/2026 02:39:35 UTC
 <!--END_SECTION:waka-->
 </details>
 
