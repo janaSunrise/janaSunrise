@@ -31,15 +31,15 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C360%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C361%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.95%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 501.0 kB Used in GitHub's Storage 
+> 📦 501.1 kB Used in GitHub's Storage 
  > 
 > 🏆 469 Contributions in the Year 2026
  > 
@@ -76,26 +76,26 @@ Sunday                   3527 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 13 mins        ████████████████████████░   97.61 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Python                   1 hr 23 mins        ███████████████████████░░   93.97 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cn                       47 mins             ████████████████░░░░░░░░░   63.11 % 
-project                  27 mins             █████████░░░░░░░░░░░░░░░░   36.89 % 
+cn                       49 mins             ██████████████░░░░░░░░░░░   55.66 % 
+project                  39 mins             ███████████░░░░░░░░░░░░░░   44.34 % 
 
 💻 Operating System: 
-Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (24.57%)
+⏱ AI Coding Time: 24 mins (27.44%)
 
-✍️ 19 lines written by AI, 395 lines written by hand (4.59% AI-written)
+✍️ 19 lines written by AI, 398 lines written by hand (4.56% AI-written)
 
 🔤 132,859 Input Tokens, 538 Output Tokens
 
@@ -106,10 +106,10 @@ Mac                      1 hr 14 mins        ███████████�
 Github-Copilot           19 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.59% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 4.56% of written lines came from AI
 📝 Concise Prompter — average 55 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 96.49% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +129,7 @@ C                        3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 02:39:35 UTC
+ Last Updated on 16/10/2026 02:32:03 UTC
 <!--END_SECTION:waka-->
 </details>
 
