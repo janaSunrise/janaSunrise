@@ -39,7 +39,7 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
 
 **🐱 My GitHub Data** 
 
-> 📦 501.1 kB Used in GitHub's Storage 
+> 📦 501.0 kB Used in GitHub's Storage 
  > 
 > 🏆 469 Contributions in the Year 2026
  > 
@@ -49,69 +49,6 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4378 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-🌆 Daytime                9818 commits        ████████░░░░░░░░░░░░░░░░░   32.97 % 
-🌃 Evening                12960 commits       ███████████░░░░░░░░░░░░░░   43.53 % 
-🌙 Night                  2619 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   4013 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Tuesday                  4392 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Wednesday                4108 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Thursday                 4891 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Friday                   4178 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Saturday                 4666 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Sunday                   3527 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   1 hr 23 mins        ███████████████████████░░   93.97 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-
-🔥 Editors: 
-VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-cn                       49 mins             ██████████████░░░░░░░░░░░   55.66 % 
-project                  39 mins             ███████████░░░░░░░░░░░░░░   44.34 % 
-
-💻 Operating System: 
-Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 24 mins (27.44%)
-
-✍️ 19 lines written by AI, 398 lines written by hand (4.56% AI-written)
-
-🔤 132,859 Input Tokens, 538 Output Tokens
-
-💵 $0.41 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 10 AI Prompts
-
-Github-Copilot           19 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.56% of written lines came from AI
-📝 Concise Prompter — average 55 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 96.75% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -129,7 +66,7 @@ C                        3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 02:41:34 UTC
+ Last Updated on 20/10/2026 02:54:16 UTC
 <!--END_SECTION:waka-->
 </details>
 
