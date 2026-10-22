@@ -76,40 +76,41 @@ Sunday                   3527 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 1 min          ███████████████████████░░   91.94 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Python                   13 mins             ████████████████████░░░░░   78.93 % 
+Markdown                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project                  39 mins             ███████████████░░░░░░░░░░   59.31 % 
-cn                       27 mins             ██████████░░░░░░░░░░░░░░░   40.69 % 
+project                  11 mins             █████████████████░░░░░░░░   68.26 % 
+mini_tcp                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+cn                       2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 
 💻 Operating System: 
-Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (36.69%)
+⏱ AI Coding Time: 9 mins (52.9%)
 
-✍️ 19 lines written by AI, 276 lines written by hand (6.44% AI-written)
+✍️ 90 lines written by AI, 3 lines written by hand (96.77% AI-written)
 
-🔤 132,859 Input Tokens, 538 Output Tokens
+🔤 35,374 Input Tokens, 1,343 Output Tokens
 
-💵 $0.41 Estimated AI Cost This Week
+💵 $0.11 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 10 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Github-Copilot           19 lines            █████████████████████████   100.00 % 
+GPT                      90 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.44% of written lines came from AI
-📝 Concise Prompter — average 55 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 95.38% of changed lines were hand-edited
+🤖 AI-Driven — 96.77% of written lines came from AI
+📝 Concise Prompter — average 163 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 32.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +130,7 @@ C                        3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 02:46:06 UTC
+ Last Updated on 22/10/2026 02:46:28 UTC
 <!--END_SECTION:waka-->
 </details>
 
