@@ -39,7 +39,7 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
 
 **🐱 My GitHub Data** 
 
-> 📦 501.1 kB Used in GitHub's Storage 
+> 📦 501.2 kB Used in GitHub's Storage 
  > 
 > 🏆 469 Contributions in the Year 2026
  > 
@@ -86,8 +86,7 @@ Other                    0 secs              ░░░░░░░░░░░�
 VS Code                  59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mini_tcp                 59 mins             █████████████████████████   99.97 % 
-project                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+mini_tcp                 59 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Mac                      59 mins             █████████████████████████   100.00 % 
@@ -96,7 +95,7 @@ Mac                      59 mins             ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (20.74%)
+⏱ AI Coding Time: 12 mins (20.75%)
 
 ✍️ 1,416 lines written by AI, 156 lines written by hand (90.08% AI-written)
 
@@ -132,7 +131,7 @@ C                        3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 03:12:04 UTC
+ Last Updated on 28/10/2026 03:21:43 UTC
 <!--END_SECTION:waka-->
 </details>
 
