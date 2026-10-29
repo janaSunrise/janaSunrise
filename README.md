@@ -76,42 +76,42 @@ Sunday                   3527 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   39 mins             █████████████████░░░░░░░░   66.06 % 
-Markdown                 18 mins             ████████░░░░░░░░░░░░░░░░░   30.68 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Python                   35 mins             ████████████████░░░░░░░░░   64.28 % 
+Markdown                 18 mins             ████████░░░░░░░░░░░░░░░░░   32.28 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mini_tcp                 59 mins             █████████████████████████   100.00 % 
+mini_tcp                 55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      59 mins             █████████████████████████   100.00 % 
+Mac                      55 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (20.75%)
+⏱ AI Coding Time: 9 mins (16.26%)
 
-✍️ 1,416 lines written by AI, 156 lines written by hand (90.08% AI-written)
+✍️ 1,326 lines written by AI, 156 lines written by hand (89.47% AI-written)
 
-🔤 182,601 Input Tokens, 45,579 Output Tokens
+🔤 147,227 Input Tokens, 44,236 Output Tokens
 
-💵 $1.93 Estimated AI Cost This Week
+💵 $1.82 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 7 AI Prompts
 
-GPT                      1,658 lines         █████████████████████████   100.00 % 
+GPT                      1,568 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.08% of written lines came from AI
-📝 Concise Prompter — average 85 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 12.46% of changed lines were hand-edited
+🤖 AI-Driven — 89.47% of written lines came from AI
+📝 Concise Prompter — average 73 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 13.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -131,7 +131,7 @@ C                        3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 03:21:43 UTC
+ Last Updated on 29/10/2026 03:46:58 UTC
 <!--END_SECTION:waka-->
 </details>
 
