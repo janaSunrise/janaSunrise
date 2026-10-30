@@ -39,7 +39,7 @@ When i'm not building, you'd find me reading books, studying maths, or napping.
 
 **🐱 My GitHub Data** 
 
-> 📦 501.2 kB Used in GitHub's Storage 
+> 📦 501.3 kB Used in GitHub's Storage 
  > 
 > 🏆 469 Contributions in the Year 2026
  > 
@@ -76,42 +76,22 @@ Sunday                   3527 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   35 mins             ████████████████░░░░░░░░░   64.28 % 
-Markdown                 18 mins             ████████░░░░░░░░░░░░░░░░░   32.28 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mini_tcp                 55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (16.26%)
-
-✍️ 1,326 lines written by AI, 156 lines written by hand (89.47% AI-written)
-
-🔤 147,227 Input Tokens, 44,236 Output Tokens
-
-💵 $1.82 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 7 AI Prompts
-
-GPT                      1,568 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 89.47% of written lines came from AI
-📝 Concise Prompter — average 73 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 13.08% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -131,7 +111,7 @@ C                        3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 03:46:58 UTC
+ Last Updated on 30/10/2026 03:49:53 UTC
 <!--END_SECTION:waka-->
 </details>
 
